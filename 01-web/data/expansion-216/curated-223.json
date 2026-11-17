@@ -1,0 +1,131 @@
+[
+  {
+    "id": "exp_223_001",
+    "number": 270,
+    "name": "ウーパールーパー",
+    "scientific": "Ambystoma mexicanum",
+    "kind": "basic",
+    "biome": "淡水",
+    "location": "lake",
+    "water": "fresh",
+    "rarity": "rare",
+    "rarityOriginal": "レア",
+    "shape": "axolotl",
+    "model": "axolotl",
+    "motion": "bottom",
+    "motionLabel": "水底近くでゆっくり移動",
+    "sizeClass": "small",
+    "referenceCm": 23,
+    "referenceUnit": "全長",
+    "food": [
+      "insects",
+      "seafood"
+    ],
+    "tag": null,
+    "tint": 11509902,
+    "design": {
+      "pattern": "none",
+      "accent": 13739937
+    },
+    "status": "実在の種",
+    "natural": "メキシコ盆地のソチミルコ湖など",
+    "feature": "成体になっても羽毛のような外鰓と尾びれを持つ。",
+    "trivia": "水底を歩き、小さな水生動物を食べる。野生では生息地の変化などで数が減っている。",
+    "referenceUrl": "https://animaldiversity.org/accounts/Ambystoma_mexicanum/",
+    "referenceTitle": "Ambystoma mexicanum",
+    "taxonomyUrl": "https://www.gbif.org/species/2431950",
+    "sourceTaxonKey": 2431950,
+    "hue": 0,
+    "candidateRooms": [
+      "lake"
+    ],
+    "reviewSource": "https://animaldiversity.org/accounts/Ambystoma_mexicanum/",
+    "reviewStatus": "game-reviewed"
+  },
+  {
+    "id": "exp_223_002",
+    "number": 271,
+    "name": "アカハライモリ",
+    "scientific": "Cynops pyrrhogaster",
+    "kind": "basic",
+    "biome": "淡水",
+    "location": "lake",
+    "water": "fresh",
+    "rarity": "rare",
+    "rarityOriginal": "レア",
+    "shape": "newt",
+    "model": "newt",
+    "motion": "breathing",
+    "motionLabel": "水底で過ごし、ときどき水面へ呼吸に上がる",
+    "sizeClass": "small",
+    "referenceCm": 10,
+    "referenceUnit": "全長",
+    "food": [
+      "insects",
+      "seafood"
+    ],
+    "tag": null,
+    "tint": 3947318,
+    "design": {
+      "pattern": "none",
+      "accent": 13393479
+    },
+    "status": "実在の種",
+    "natural": "本州・四国・九州の池や小川",
+    "feature": "黒っぽい背と赤い腹が特徴。皮膚には毒がある。",
+    "trivia": "成体は水草の多い穏やかな水辺で暮らし、幼体は主に陸上で過ごす。",
+    "referenceUrl": "https://ioworld.jp/guide/guide-13138",
+    "referenceTitle": "Cynops pyrrhogaster",
+    "taxonomyUrl": "https://www.gbif.org/species/2431862",
+    "sourceTaxonKey": 2431862,
+    "hue": 0,
+    "candidateRooms": [
+      "lake"
+    ],
+    "reviewSource": "https://ioworld.jp/guide/guide-13138",
+    "reviewStatus": "game-reviewed"
+  },
+  {
+    "id": "exp_223_003",
+    "number": 272,
+    "name": "アフリカツメガエル",
+    "scientific": "Xenopus laevis",
+    "kind": "basic",
+    "biome": "淡水",
+    "location": "lake",
+    "water": "fresh",
+    "rarity": "rare",
+    "rarityOriginal": "レア",
+    "shape": "clawedFrog",
+    "model": "clawedFrog",
+    "motion": "breathing",
+    "motionLabel": "水底で過ごし、ときどき水面へ呼吸に上がる",
+    "sizeClass": "small",
+    "referenceCm": 10,
+    "referenceUnit": "全長",
+    "food": [
+      "insects",
+      "seafood"
+    ],
+    "tag": null,
+    "tint": 7961184,
+    "design": {
+      "pattern": "none",
+      "accent": 12695194
+    },
+    "status": "実在の種",
+    "natural": "アフリカ南部の池や流れの穏やかな水辺",
+    "feature": "平たい体と大きな水かきのある後ろ足を持つ。",
+    "trivia": "ほぼ水中で暮らし、小さな水生動物などを食べる。肺呼吸のため水面へ上がる。",
+    "referenceUrl": "https://animaldiversity.org/accounts/Xenopus_laevis/",
+    "referenceTitle": "Xenopus laevis",
+    "taxonomyUrl": "https://www.gbif.org/species/5217334",
+    "sourceTaxonKey": 5217334,
+    "hue": 0,
+    "candidateRooms": [
+      "lake"
+    ],
+    "reviewSource": "https://animaldiversity.org/accounts/Xenopus_laevis/",
+    "reviewStatus": "game-reviewed"
+  }
+]

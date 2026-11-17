@@ -1,0 +1,17 @@
+{
+  "reviewed_at": "2026-11-03 Asia/Tokyo",
+  "basis": "Existing species-level reference dimensions were reclassified uniformly; representative values are approximate and are not a uniform set of maximum lengths or measurements of the player's individual. Body length, carapace length/width, disc width, bell diameter and arm span differ. The listed 10 environment entries remain outside the animal size bands.",
+  "bands_cm": {"small": "<30", "medium": "30-<100", "large": "100-<300", "giant": "300-<800", "colossal": ">=800"},
+  "selected_checks": [
+    {"scientific":"Amphiprion clarkii", "game_reference_cm":14, "source":"https://fishbase.se/summary/Amphiprion-clarkii", "note":"FishBase reports a maximum of 15cm standard length; the game uses 14cm as an approximate reference."},
+    {"scientific":"Heterodontus japonicus", "game_reference_cm":100, "source":"https://www.enosui.com/diaryentry.php?eid=03946", "note":"Enoshima Aquarium describes roughly 1m when grown."},
+    {"scientific":"Thunnus orientalis", "game_reference_cm":250, "source":"https://www.fisheries.noaa.gov/feature-story/overfished-sustainable-harvests-pacific-bluefin-tuna-rebound-new-highs", "note":"NOAA notes adults can reach nearly 10 feet; the game does not claim 2.5m is a maximum or universal adult size."},
+    {"scientific":"Orcinus orca", "game_reference_cm":600, "source":"https://www.fisheries.noaa.gov/species/killer-whale", "note":"NOAA gives up to 32 feet; the game uses a smaller 6m reference, not a maximum."},
+    {"scientific":"Rhincodon typus", "game_reference_cm":1200, "source":"https://www.fisheries.noaa.gov/new-england-mid-atlantic/atlantic-highly-migratory-species/shark-identification-cooperative-shark-0", "note":"NOAA gives about 40ft/12.2m in this identification guide."},
+    {"scientific":"Balaenoptera musculus", "game_reference_cm":2500, "source":"https://www.fisheries.noaa.gov/national/outreach-and-education/fun-facts-about-wonderful-whales", "note":"NOAA describes blue whales up to about 31m; the game uses a 25m reference, not a maximum."},
+    {"scientific":"Macrocheira kaempferi", "game_reference_cm":300, "source":"https://www.sealifebase.se/summary/Macrocheira-kaempferi.html", "note":"300cm is the approximate span of extended legs, not carapace width."},
+    {"scientific":"Portunus trituberculatus", "game_reference_cm":20, "source":"https://kotobank.jp/word/%E3%81%8C%E3%81%96%E3%81%BF-3148460", "note":"20cm refers to carapace width."},
+    {"scientific":"Mastigias papua", "game_reference_cm":20, "source":"https://kotobank.jp/word/%E3%82%BF%E3%82%B3%E3%82%AF%E3%83%A9%E3%82%B2-93163", "note":"20cm refers to bell diameter; SeaLifeBase's extracted maximum differs."},
+    {"scientific":"Octopus cyanea", "game_reference_cm":60, "source":"https://chinmi.org/knowledge/tako.html", "note":"60cm refers to total length including arms; some databases instead give mantle length."}
+  ]
+}

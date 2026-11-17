@@ -1,0 +1,137 @@
+[
+  {
+    "scientific": "Carcharias taurus",
+    "taxonomy": {
+      "usageKey": 2420766,
+      "matchType": "EXACT",
+      "status": "ACCEPTED",
+      "scientificName": "Carcharias taurus Rafinesque, 1810",
+      "phylum": "Chordata",
+      "class": "Elasmobranchii",
+      "order": "Lamniformes",
+      "family": "Odontaspididae",
+      "genus": "Carcharias"
+    },
+    "source": "https://www.sumida-aquarium.com/about/animals/shirowani/"
+  },
+  {
+    "scientific": "Alopias vulpinus",
+    "taxonomy": {
+      "usageKey": 2420797,
+      "matchType": "EXACT",
+      "status": "ACCEPTED",
+      "scientificName": "Alopias vulpinus (Bonnaterre, 1788)",
+      "phylum": "Chordata",
+      "class": "Elasmobranchii",
+      "order": "Lamniformes",
+      "family": "Alopiidae",
+      "genus": "Alopias"
+    },
+    "source": "https://www.fishbase.org/FieldGuide/FieldGuideSummary.php?GenusName=Alopias&SpeciesName=vulpinus&pda=1"
+  },
+  {
+    "scientific": "Aetobatus ocellatus",
+    "taxonomy": {
+      "usageKey": 2419246,
+      "matchType": "EXACT",
+      "status": "ACCEPTED",
+      "scientificName": "Aetobatus ocellatus (Kuhl, 1823)",
+      "phylum": "Chordata",
+      "class": "Elasmobranchii",
+      "order": "Myliobatiformes",
+      "family": "Myliobatidae",
+      "genus": "Aetobatus"
+    },
+    "source": "https://churaumi.okinawa/fishbook/00000514/"
+  },
+  {
+    "scientific": "Glaucus atlanticus",
+    "taxonomy": {
+      "usageKey": 5190072,
+      "matchType": "EXACT",
+      "status": "ACCEPTED",
+      "scientificName": "Glaucus atlanticus Forster, 1777",
+      "phylum": "Mollusca",
+      "class": "Gastropoda",
+      "order": "Nudibranchia",
+      "family": "Glaucidae",
+      "genus": "Glaucus"
+    },
+    "source": "https://oceana.ne.jp/domestic/69347"
+  },
+  {
+    "scientific": "Myrichthys maculosus",
+    "taxonomy": {
+      "usageKey": 2404510,
+      "matchType": "EXACT",
+      "status": "ACCEPTED",
+      "scientificName": "Myrichthys maculosus (Cuvier, 1816)",
+      "phylum": "Chordata",
+      "class": null,
+      "order": "Anguilliformes",
+      "family": "Ophichthidae",
+      "genus": "Myrichthys"
+    },
+    "source": "https://www.seto.kyoto-u.ac.jp/shirahama_aqua/%E3%83%A2%E3%83%A8%E3%82%A6%E3%83%A2%E3%83%B3%E3%82%AC%E3%83%A9%E3%83%89%E3%82%AA%E3%82%B7/"
+  },
+  {
+    "scientific": "Inimicus japonicus",
+    "taxonomy": {
+      "usageKey": 2333637,
+      "matchType": "EXACT",
+      "status": "ACCEPTED",
+      "scientificName": "Inimicus japonicus (Cuvier, 1829)",
+      "phylum": "Chordata",
+      "class": null,
+      "order": "Scorpaeniformes",
+      "family": "Synanceiidae",
+      "genus": "Inimicus"
+    },
+    "source": "https://aquarium.co.jp/picturebook/inimicus-japonicus.html"
+  },
+  {
+    "scientific": "Carybdea rastonii",
+    "taxonomy": {
+      "usageKey": 4340377,
+      "matchType": "EXACT",
+      "status": "ACCEPTED",
+      "scientificName": "Carybdea rastonii Haacke, 1886",
+      "phylum": "Cnidaria",
+      "class": "Cubozoa",
+      "order": "Carybdeida",
+      "family": "Carybdeidae",
+      "genus": "Carybdea"
+    },
+    "source": "https://www.kamogawa-seaworld.jp/animal/aquarium_info/1095/"
+  },
+  {
+    "scientific": "Nemopilema nomurai",
+    "taxonomy": {
+      "usageKey": 2264583,
+      "matchType": "EXACT",
+      "status": "ACCEPTED",
+      "scientificName": "Nemopilema nomurai Kishinouye, 1922",
+      "phylum": "Cnidaria",
+      "class": "Scyphozoa",
+      "order": "Rhizostomeae",
+      "family": "Rhizostomatidae",
+      "genus": "Nemopilema"
+    },
+    "source": "https://kotobank.jp/word/%E3%81%88%E3%81%A1%E3%81%9C%E3%82%93%E3%81%8F%E3%82%89%E3%81%92-3145070"
+  },
+  {
+    "scientific": "Mobula alfredi",
+    "taxonomy": {
+      "usageKey": 9241141,
+      "matchType": "EXACT",
+      "status": "ACCEPTED",
+      "scientificName": "Mobula alfredi (Krefft, 1868)",
+      "phylum": "Chordata",
+      "class": "Elasmobranchii",
+      "order": "Myliobatiformes",
+      "family": "Myliobatidae",
+      "genus": "Mobula"
+    },
+    "source": "https://tierzine.com/facilities/manta-ray-explained/"
+  }
+]

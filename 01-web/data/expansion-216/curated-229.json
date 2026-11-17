@@ -1,0 +1,427 @@
+[
+  {
+    "id": "exp_229_001",
+    "number": 287,
+    "name": "シリヤケイカ",
+    "scientific": "Sepiella japonica",
+    "kind": "basic",
+    "biome": "砂地",
+    "location": "coast",
+    "water": "marine",
+    "rarity": "rare",
+    "rarityOriginal": "レア",
+    "shape": "cuttlefish",
+    "model": "cuttlefish",
+    "motion": "squid",
+    "motionLabel": "水中を泳ぐ",
+    "sizeClass": "small",
+    "referenceCm": 25,
+    "referenceUnit": "外套長",
+    "food": [
+      "seafood"
+    ],
+    "tag": null,
+    "tint": 7824216,
+    "design": {
+      "pattern": "none",
+      "accent": 15655376
+    },
+    "status": "実在の種",
+    "natural": "沿岸の浅い海",
+    "feature": "暗い胴に小さな白い点があり、ひれの付け根に白い線が走る。",
+    "trivia": "浅い砂泥底で暮らし、甲殻類や小魚を触腕で捕らえる。",
+    "referenceUrl": "https://www.honda.co.jp/fishing/picture-book/shiriyakeika/",
+    "referenceTitle": "Sepiella japonica",
+    "taxonomyUrl": "https://www.gbif.org/species/2290915",
+    "sourceTaxonKey": 2290915,
+    "hue": 0,
+    "candidateRooms": [
+      "beach"
+    ],
+    "reviewSource": "https://www.honda.co.jp/fishing/picture-book/shiriyakeika/",
+    "reviewStatus": "game-reviewed"
+  },
+  {
+    "id": "exp_229_002",
+    "number": 288,
+    "name": "カミナリイカ",
+    "scientific": "Acanthosepion lycidas",
+    "kind": "basic",
+    "biome": "砂地",
+    "location": "coast",
+    "water": "marine",
+    "rarity": "rare",
+    "rarityOriginal": "レア",
+    "shape": "cuttlefish",
+    "model": "cuttlefish",
+    "motion": "squid",
+    "motionLabel": "水中を泳ぐ",
+    "sizeClass": "medium",
+    "referenceCm": 35,
+    "referenceUnit": "外套長",
+    "food": [
+      "seafood"
+    ],
+    "tag": null,
+    "tint": 10782577,
+    "design": {
+      "pattern": "none",
+      "accent": 4603192
+    },
+    "status": "実在の種",
+    "natural": "沿岸の浅い海",
+    "feature": "幅広い外套の背に、眼や唇のような輪の模様がある。",
+    "trivia": "砂泥底に暮らす大型のコウイカの仲間。季節により沿岸へ近づく。",
+    "referenceUrl": "https://www.kamogawa-seaworld.jp/event/event_info/13855/",
+    "referenceTitle": "Acanthosepion lycidas",
+    "taxonomyUrl": "https://www.gbif.org/species/12206654",
+    "sourceTaxonKey": 12206654,
+    "hue": 0,
+    "candidateRooms": [
+      "beach"
+    ],
+    "reviewSource": "https://www.kamogawa-seaworld.jp/event/event_info/13855/",
+    "reviewStatus": "game-reviewed",
+    "aliases": [
+      "モンゴウイカ"
+    ]
+  },
+  {
+    "id": "exp_229_003",
+    "number": 289,
+    "name": "ズワイガニ",
+    "scientific": "Chionoecetes opilio",
+    "kind": "basic",
+    "biome": "深海",
+    "location": "coast",
+    "water": "marine",
+    "rarity": "rare",
+    "rarityOriginal": "レア",
+    "shape": "crab",
+    "model": "crab",
+    "motion": "crawl",
+    "motionLabel": "水底近くを移動",
+    "sizeClass": "small",
+    "referenceCm": 18,
+    "referenceUnit": "甲幅",
+    "food": [
+      "seafood"
+    ],
+    "tag": null,
+    "tint": 11170148,
+    "design": {
+      "pattern": "none",
+      "accent": 14268065
+    },
+    "status": "実在の種",
+    "natural": "冷たい深い海",
+    "feature": "小さめの甲羅に、長く細い歩脚が伸びる。",
+    "trivia": "冷たい海の深い砂泥底にすみ、貝や多毛類などを食べる。",
+    "referenceUrl": "https://www.zukan-bouz.com/syu/%E3%82%BA%E3%83%AF%E3%82%A4%E3%82%AC%E3%83%8B",
+    "referenceTitle": "Chionoecetes opilio",
+    "taxonomyUrl": "https://www.gbif.org/species/2226639",
+    "sourceTaxonKey": 2226639,
+    "hue": 0,
+    "candidateRooms": [
+      "deep"
+    ],
+    "reviewSource": "https://www.zukan-bouz.com/syu/%E3%82%BA%E3%83%AF%E3%82%A4%E3%82%AC%E3%83%8B",
+    "reviewStatus": "game-reviewed"
+  },
+  {
+    "id": "exp_229_004",
+    "number": 290,
+    "name": "ケガニ",
+    "scientific": "Erimacrus isenbeckii",
+    "kind": "basic",
+    "biome": "外洋",
+    "location": "coast",
+    "water": "marine",
+    "rarity": "rare",
+    "rarityOriginal": "レア",
+    "shape": "crab",
+    "model": "crab",
+    "motion": "crawl",
+    "motionLabel": "水底近くを移動",
+    "sizeClass": "small",
+    "referenceCm": 15,
+    "referenceUnit": "甲長",
+    "food": [
+      "seafood"
+    ],
+    "tag": null,
+    "tint": 9597281,
+    "design": {
+      "pattern": "none",
+      "accent": 13743002
+    },
+    "status": "実在の種",
+    "natural": "北の冷たい海",
+    "feature": "丸みのある甲羅と脚が短い毛や小さな棘に覆われる。",
+    "trivia": "北の冷たい海の砂底にすみ、貝や甲殻類などを食べる。",
+    "referenceUrl": "https://kamo-kurage.jp/shonaizukan/kegani/",
+    "referenceTitle": "Erimacrus isenbeckii",
+    "taxonomyUrl": "https://www.gbif.org/species/2222059",
+    "sourceTaxonKey": 2222059,
+    "hue": 0,
+    "candidateRooms": [
+      "cold-sea"
+    ],
+    "reviewSource": "https://kamo-kurage.jp/shonaizukan/kegani/",
+    "reviewStatus": "game-reviewed"
+  },
+  {
+    "id": "exp_229_005",
+    "number": 291,
+    "name": "シャコ",
+    "scientific": "Oratosquilla oratoria",
+    "kind": "basic",
+    "biome": "砂地",
+    "location": "coast",
+    "water": "marine",
+    "rarity": "rare",
+    "rarityOriginal": "レア",
+    "shape": "shrimp",
+    "model": "shrimp",
+    "motion": "burrow",
+    "motionLabel": "水底近くを移動",
+    "sizeClass": "small",
+    "referenceCm": 18,
+    "referenceUnit": "全長",
+    "food": [
+      "seafood"
+    ],
+    "tag": null,
+    "tint": 8820853,
+    "design": {
+      "pattern": "none",
+      "accent": 14009754
+    },
+    "status": "実在の種",
+    "natural": "沿岸の浅い海",
+    "feature": "平たい節のある体と、鎌のような捕脚を持つ。",
+    "trivia": "砂泥底に穴を掘り、鋭い捕脚で獲物を捕らえる。",
+    "referenceUrl": "https://www.marinepia.or.jp/picturebook/invertebrate/entry-11413.html",
+    "referenceTitle": "Oratosquilla oratoria",
+    "taxonomyUrl": "https://www.gbif.org/species/4316670",
+    "sourceTaxonKey": 4316670,
+    "hue": 0,
+    "candidateRooms": [
+      "beach"
+    ],
+    "reviewSource": "https://www.marinepia.or.jp/picturebook/invertebrate/entry-11413.html",
+    "reviewStatus": "game-reviewed"
+  },
+  {
+    "id": "exp_229_006",
+    "number": 292,
+    "name": "マナマコ",
+    "scientific": "Apostichopus japonicus",
+    "kind": "basic",
+    "biome": "砂地",
+    "location": "coast",
+    "water": "marine",
+    "rarity": "rare",
+    "rarityOriginal": "レア",
+    "shape": "seaCucumber",
+    "model": "seaCucumber",
+    "motion": "crawl",
+    "motionLabel": "水底近くを移動",
+    "sizeClass": "medium",
+    "referenceCm": 30,
+    "referenceUnit": "体長",
+    "food": [
+      "special"
+    ],
+    "tag": null,
+    "tint": 7888464,
+    "design": {
+      "pattern": "none",
+      "accent": 11639416
+    },
+    "status": "実在の種",
+    "natural": "沿岸の浅い海",
+    "feature": "柔らかい細長い体に、いぼ状の突起が並ぶ棘皮動物。",
+    "trivia": "口の触手を使って砂の中の有機物を取り込む。",
+    "referenceUrl": "https://www.aquamarine.or.jp/animals/japaneseseacucumber/",
+    "referenceTitle": "Apostichopus japonicus",
+    "taxonomyUrl": "https://www.gbif.org/species/2279100",
+    "sourceTaxonKey": 2279100,
+    "hue": 0,
+    "candidateRooms": [
+      "beach"
+    ],
+    "reviewSource": "https://www.aquamarine.or.jp/animals/japaneseseacucumber/",
+    "reviewStatus": "game-reviewed"
+  },
+  {
+    "id": "exp_229_007",
+    "number": 293,
+    "name": "ハゴロモモ",
+    "scientific": "Cabomba caroliniana",
+    "kind": "environment",
+    "biome": "淡水",
+    "location": "fresh",
+    "water": "fresh",
+    "rarity": "common",
+    "rarityOriginal": "コモン",
+    "shape": "broadleaf",
+    "model": "broadleaf",
+    "motion": "fixed",
+    "motionLabel": "水中で揺れる",
+    "sizeClass": null,
+    "referenceCm": null,
+    "referenceUnit": "体の大きさ",
+    "food": [
+      "special"
+    ],
+    "tag": "草",
+    "tint": 6990709,
+    "design": {
+      "pattern": "none",
+      "accent": 10538643
+    },
+    "status": "実在の種",
+    "natural": "淡水の池や流れの緩やかな川",
+    "feature": "水中に細かく分かれた扇状の葉をつける淡水植物。",
+    "trivia": "カボンバとも呼ばれ、緩やかな水辺に生育する。",
+    "referenceUrl": "https://happamisaki.jp-o.net/biotope/mizukusa/cabomba.htm",
+    "referenceTitle": "Cabomba caroliniana",
+    "taxonomyUrl": "https://www.gbif.org/species/2882443",
+    "sourceTaxonKey": 2882443,
+    "hue": 0,
+    "candidateRooms": [
+      "lake",
+      "river"
+    ],
+    "reviewSource": "https://happamisaki.jp-o.net/biotope/mizukusa/cabomba.htm",
+    "reviewStatus": "game-reviewed"
+  },
+  {
+    "id": "exp_229_008",
+    "number": 294,
+    "name": "セイヨウセキショウモ",
+    "scientific": "Vallisneria spiralis",
+    "kind": "environment",
+    "biome": "淡水",
+    "location": "fresh",
+    "water": "fresh",
+    "rarity": "common",
+    "rarityOriginal": "コモン",
+    "shape": "eelgrass",
+    "model": "eelgrass",
+    "motion": "fixed",
+    "motionLabel": "水中で揺れる",
+    "sizeClass": null,
+    "referenceCm": null,
+    "referenceUnit": "体の大きさ",
+    "food": [
+      "special"
+    ],
+    "tag": "草",
+    "tint": 7972977,
+    "design": {
+      "pattern": "none",
+      "accent": 11718545
+    },
+    "status": "実在の種",
+    "natural": "淡水の池や流れの緩やかな川",
+    "feature": "細長い帯状の葉を水中に伸ばす淡水植物。",
+    "trivia": "走出枝を伸ばして新しい株を増やす。",
+    "referenceUrl": "https://gkzplant.sakura.ne.jp/souhon2/shousai2/ha-gyou/hu/vrisuneriasupirarisu/varisuneriasupirarisu.html",
+    "referenceTitle": "Vallisneria spiralis",
+    "taxonomyUrl": "https://www.gbif.org/species/2865526",
+    "sourceTaxonKey": 2865526,
+    "hue": 0,
+    "candidateRooms": [
+      "lake",
+      "river"
+    ],
+    "reviewSource": "https://gkzplant.sakura.ne.jp/souhon2/shousai2/ha-gyou/hu/vrisuneriasupirarisu/varisuneriasupirarisu.html",
+    "reviewStatus": "game-reviewed"
+  },
+  {
+    "id": "exp_229_009",
+    "number": 295,
+    "name": "ワカメ",
+    "scientific": "Undaria pinnatifida",
+    "kind": "environment",
+    "biome": "外洋",
+    "location": "coast",
+    "water": "marine",
+    "rarity": "common",
+    "rarityOriginal": "コモン",
+    "shape": "seagrass",
+    "model": "seagrass",
+    "motion": "fixed",
+    "motionLabel": "水中で揺れる",
+    "sizeClass": null,
+    "referenceCm": null,
+    "referenceUnit": "体の大きさ",
+    "food": [
+      "special"
+    ],
+    "tag": "草",
+    "tint": 8157523,
+    "design": {
+      "pattern": "none",
+      "accent": 11705444
+    },
+    "status": "実在の種",
+    "natural": "北の冷たい海",
+    "feature": "羽状に切れ込んだ薄い葉状部を持つ褐藻。",
+    "trivia": "浅い海の岩などに付着し、光合成をする海藻。",
+    "referenceUrl": "https://kotobank.jp/word/%E6%B5%B7%E8%97%BB-42617",
+    "referenceTitle": "Undaria pinnatifida",
+    "taxonomyUrl": "https://www.gbif.org/species/5422556",
+    "sourceTaxonKey": 5422556,
+    "hue": 0,
+    "candidateRooms": [
+      "cold-sea"
+    ],
+    "reviewSource": "https://kotobank.jp/word/%E6%B5%B7%E8%97%BB-42617",
+    "reviewStatus": "game-reviewed"
+  },
+  {
+    "id": "exp_229_010",
+    "number": 296,
+    "name": "アナアオサ",
+    "scientific": "Ulva australis",
+    "kind": "environment",
+    "biome": "砂地",
+    "location": "coast",
+    "water": "marine",
+    "rarity": "common",
+    "rarityOriginal": "コモン",
+    "shape": "seagrass",
+    "model": "seagrass",
+    "motion": "fixed",
+    "motionLabel": "水中で揺れる",
+    "sizeClass": null,
+    "referenceCm": null,
+    "referenceUnit": "体の大きさ",
+    "food": [
+      "special"
+    ],
+    "tag": "草",
+    "tint": 7583340,
+    "design": {
+      "pattern": "none",
+      "accent": 11852173
+    },
+    "status": "実在の種",
+    "natural": "沿岸の浅い海",
+    "feature": "明るい緑色の薄い膜状の藻体を持つ緑藻。",
+    "trivia": "沿岸の岩などに付着し、成長すると裂け目や穴ができる。",
+    "referenceUrl": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%8A%E3%82%A2%E3%82%AA%E3%82%B5",
+    "referenceTitle": "Ulva australis",
+    "taxonomyUrl": "https://www.gbif.org/species/5273420",
+    "sourceTaxonKey": 5273420,
+    "hue": 0,
+    "candidateRooms": [
+      "beach"
+    ],
+    "reviewSource": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%8A%E3%82%A2%E3%82%AA%E3%82%B5",
+    "reviewStatus": "game-reviewed"
+  }
+]

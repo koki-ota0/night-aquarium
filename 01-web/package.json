@@ -1,0 +1,25 @@
+{
+  "name": "night-aquarium",
+  "version": "2.29.0",
+  "scripts": {
+    "build": "node build.mjs",
+    "test": "node --test tests/current/*.test.mjs",
+    "test:e2e": "node tests/current/habitats-214.e2e.cjs && node tests/current/aquarium-218.e2e.cjs",
+    "thumbs": "node tools/generate-thumbs.cjs",
+    "balance:check": "node tools/balance-check.mjs",
+    "test:upgrade": "node tests/current/upgrade.e2e.cjs && node tests/current/cross-origin.e2e.cjs && node tests/current/upgrade-27.e2e.cjs && node tests/current/upgrade-28.e2e.cjs && node tests/current/upgrade-29.e2e.cjs && node tests/current/upgrade-210.e2e.cjs && node tests/current/upgrade-211.e2e.cjs && node tests/current/cross-origin-211.e2e.cjs && node tests/current/upgrade-212.e2e.cjs",
+    "start": "node preview-server.mjs",
+    "test:backup": "node tests/current/preview-backup.e2e.cjs",
+    "care:docs": "node tools/generate-real-docs.mjs"
+  },
+  "keywords": [],
+  "license": "UNLICENSED",
+  "description": "Offline-ready browser prototype of Yoru no Suizokukan",
+  "dependencies": {
+    "esbuild": "^0.28.2",
+    "playwright": "^1.64.1",
+    "three": "^0.186.1"
+  },
+  "type": "module",
+  "private": true
+}

@@ -1,0 +1,779 @@
+{
+  "Entacmaea quadricolor": [
+    "ウスカワイソギンチャク",
+    "サンゴイソギンチャク",
+    "タマイタダキイソギンチャク"
+  ],
+  "Stichodactyla gigantea": [
+    "ハタゴイソギンチャク"
+  ],
+  "Acropora tenuis": [
+    "ウスエダミドリイシ"
+  ],
+  "Fimbriaphyllia ancora": [
+    "ホソナガレハナサンゴ"
+  ],
+  "Gorgonia ventalina": [],
+  "Zostera marina": [
+    "アマモ",
+    "リュウグウノオトヒメノモトユイノキリハズシ"
+  ],
+  "Elodea densa": [
+    "オオカナダモ"
+  ],
+  "Sargassum horneri": [
+    "アカモク",
+    "シダモク"
+  ],
+  "Halocynthia roretzi": [
+    "マボヤ"
+  ],
+  "Mytilus unguiculatus": [],
+  "Oryzias latipes": [
+    "Minamimedaka",
+    "ミナミメダカ",
+    "メダカ（目高）"
+  ],
+  "Misgurnus anguillicaudatus": [
+    "Dojo",
+    "ドジョウ"
+  ],
+  "Paracheirodon innesi": [
+    "ネオンテトラ"
+  ],
+  "Mauremys japonica": [
+    "イシガメ",
+    "ニホンイシガメ"
+  ],
+  "Arapaima gigas": [],
+  "Osteoglossum bicirrhosum": [],
+  "Trachemys scripta": [
+    "アカミミガメ"
+  ],
+  "Amphiprion clarkii": [
+    "Kumanomi",
+    "クマノミ"
+  ],
+  "Hippocampus coronatus": [
+    "Tasuno-otoshigo",
+    "Tatsu-no-otoshigo",
+    "Tatsunotoshigo",
+    "タツノオトシゴ"
+  ],
+  "Parajulis poecilepterus": [
+    "Kyusen",
+    "キュウセン",
+    "Kyûsen"
+  ],
+  "Toxotes jaculatrix": [
+    "Teppouo",
+    "テッポウウオ"
+  ],
+  "Plotosus japonicus": [
+    "Gonzui",
+    "ゴンズイ"
+  ],
+  "Patiria pectinifera": [
+    "イトマキヒトデ"
+  ],
+  "Cheilopogon agoo": [
+    "トビウオ"
+  ],
+  "Lagenorhynchus obliquidens": [
+    "kama iruka",
+    "カマイルカ"
+  ],
+  "Heterodontus japonicus": [
+    "Nekozame",
+    "nekozame",
+    "sazaewari",
+    "sazaiwari",
+    "ネコザメ"
+  ],
+  "Mobula birostris": [
+    "Oniitomakiei",
+    "オニイトマキエイ"
+  ],
+  "Thunnus orientalis": [
+    "Kuromaguro",
+    "Meji",
+    "クロマグロ"
+  ],
+  "Tursiops truncatus": [
+    "bando iruka",
+    "handa iruka",
+    "ハンドウイルカ"
+  ],
+  "Orcinus orca": [
+    "sadshi",
+    "sakamata",
+    "shachi",
+    "taka",
+    "takamatsu",
+    "シャチ",
+    "鯱"
+  ],
+  "Chelonia mydas": [
+    "Ao umigame",
+    "アオウミガメ",
+    "クロウミガメ"
+  ],
+  "Hemitrygon akajei": [
+    "Aka-ei",
+    "Akaei",
+    "アカエイ"
+  ],
+  "Octopus sinensis": [
+    "マダコ"
+  ],
+  "Pseudopleuronectes yokohamae": [
+    "Mako-garei",
+    "Makogarei",
+    "マコガレイ"
+  ],
+  "Hemicentrotus pulcherrimus": [
+    "バフンウニ"
+  ],
+  "Dugong dugon": [
+    "ジュゴン"
+  ],
+  "Platichthys stellatus": [
+    "Numagarei",
+    "ヌマガレイ"
+  ],
+  "Heliocidaris crassispina": [
+    "ムラサキウニ"
+  ],
+  "Aurelia coerulea": [
+    "ミズクラゲ"
+  ],
+  "Watasenia scintillans": [
+    "ホタルイカ"
+  ],
+  "Anguilla japonica": [
+    "Nihon-unagi",
+    "Unagi",
+    "ウナギ",
+    "ニホンウナギ"
+  ],
+  "Lophius litulon": [
+    "Kianko",
+    "キアンコウ"
+  ],
+  "Phycodurus eques": [
+    "リーフィーシードラゴン"
+  ],
+  "Amphiprion ocellaris": [
+    "Kakure-kumanomi",
+    "Kakurekumanomi",
+    "カクレクマノミ"
+  ],
+  "Amphiprion percula": [],
+  "Amphiprion frenatus": [
+    "Hamakumanomi",
+    "ハマクマノミ"
+  ],
+  "Amphiprion perideraion": [
+    "Hanabira-kumanomi",
+    "Hanabirakumanomi",
+    "ハナビラクマノミ"
+  ],
+  "Amphiprion polymnus": [
+    "Toakakumanomi",
+    "トウアカクマノミ"
+  ],
+  "Amphiprion sandaracinos": [
+    "Sejiro-kumanomi",
+    "Sejirokumanomi",
+    "セジロクマノミ"
+  ],
+  "Paracanthurus hepatus": [
+    "Nan-yohagi",
+    "Nanyôhagi",
+    "ナンヨウハギ"
+  ],
+  "Zebrasoma flavescens": [
+    "Kiirohagi",
+    "キイロハギ"
+  ],
+  "Zebrasoma veliferum": [
+    "Hirenagahagi",
+    "ヒレナガハギ"
+  ],
+  "Acanthurus leucosternon": [],
+  "Acanthurus lineatus": [
+    "Nijihagi",
+    "ニジハギ"
+  ],
+  "Naso lituratus": [
+    "Miyako tengu hagi",
+    "Miyako-tenguhagi",
+    "Miyakotenguhagi",
+    "ミヤコテングハギ"
+  ],
+  "Pomacanthus imperator": [
+    "Tatejima-kinchakudai",
+    "Tatejimakinchakudai",
+    "タテジマキンチャクダイ"
+  ],
+  "Pomacanthus semicirculatus": [
+    "Sazanami-yakko",
+    "Sazanamiyakko",
+    "サザナミヤッコ"
+  ],
+  "Pomacanthus annularis": [
+    "Wanukeyakko",
+    "ワヌケヤッコ"
+  ],
+  "Holacanthus ciliaris": [
+    "Hokuro-yakko",
+    "ホクロヤッコ"
+  ],
+  "Centropyge bicolor": [
+    "Somewakeyakko",
+    "ソメワケヤッコ"
+  ],
+  "Centropyge loriculus": [],
+  "Centropyge bispinosa": [
+    "Ruriyakko",
+    "ルリヤッコ"
+  ],
+  "Chaetodon auriga": [
+    "Toge-chô-chô-uo",
+    "Togechochouo",
+    "トゲチョウチョウウオ"
+  ],
+  "Chaetodon lunula": [
+    "Chohan",
+    "Chôhan",
+    "チョウハン"
+  ],
+  "Chaetodon trifascialis": [
+    "Yarikatagi",
+    "ヤリカタギ"
+  ],
+  "Chaetodon kleinii": [
+    "Mizore-chô-chô-uo",
+    "Mizorechochouo",
+    "ミゾレチョウチョウウオ"
+  ],
+  "Chaetodon vagabundus": [
+    "Furaichochouo",
+    "Fûrai-chôchô-uo",
+    "フウライチョウチョウウオ"
+  ],
+  "Forcipiger flavissimus": [
+    "Fueyakkodai",
+    "フエヤッコダイ"
+  ],
+  "Chelmon rostratus": [
+    "Hashinagachochouo",
+    "Hashinagachochô-uo",
+    "ハシナガチョウチョウウオ"
+  ],
+  "Heniochus acuminatus": [
+    "Hatatatedai",
+    "ハタタテダイ"
+  ],
+  "Zanclus cornutus": [
+    "Tsunodashi",
+    "ツノダシ"
+  ],
+  "Pterois volitans": [
+    "Hana-minokasago",
+    "Hanaminokasago",
+    "Ominokasago",
+    "ハナミノカサゴ"
+  ],
+  "Pterois lunulata": [
+    "Minokasago",
+    "ミノカサゴ"
+  ],
+  "Pterois antennata": [
+    "ネッタイミノカサゴ"
+  ],
+  "Synchiropus splendidus": [
+    "Nishiki-teguri",
+    "ニシキテグリ"
+  ],
+  "Nemateleotris magnifica": [
+    "Hatatatehaze",
+    "ハタタテハゼ"
+  ],
+  "Nemateleotris decora": [
+    "Akebonohaze",
+    "アケボノハゼ"
+  ],
+  "Gobiodon okinawae": [
+    "Kiiro-sangohaze",
+    "Kiirosangohaze",
+    "キイロサンゴハゼ"
+  ],
+  "Amblyeleotris japonica": [
+    "Datehaze",
+    "ダテハゼ"
+  ],
+  "Cryptocentrus cinctus": [
+    "Gingahaze",
+    "ギンガハゼ"
+  ],
+  "Valenciennea puellaris": [
+    "Otomehaze",
+    "オトメハゼ"
+  ],
+  "Sphaeramia nematoptera": [
+    "Manjuishimochi",
+    "マンジュウイシモチ"
+  ],
+  "Pterapogon kauderni": [
+    "アマノガワテンジクダイ",
+    "プテラポゴン・カウデルニィー"
+  ],
+  "Chromis viridis": [
+    "Debasuzumedai",
+    "デバスズメダイ"
+  ],
+  "Dascyllus aruanus": [
+    "Misujiryukyusuzumedai",
+    "ミスジリュウキュウスズメダイ"
+  ],
+  "Chrysiptera cyanea": [
+    "Ruri-suzumedai",
+    "Rurisuzumedai",
+    "ルリスズメダイ"
+  ],
+  "Chrysiptera parasema": [
+    "Shirikirurisuzumedai",
+    "シリキルリスズメダイ"
+  ],
+  "Labroides dimidiatus": [
+    "Hon-somewakebera",
+    "Honsomewakebera",
+    "ホンソメワケベラ"
+  ],
+  "Thalassoma lunare": [
+    "Otomebera",
+    "オトメベラ"
+  ],
+  "Cheilinus undulatus": [
+    "Meganemochinouo",
+    "ナポレオンフィッシュ",
+    "メガネモチノウオ"
+  ],
+  "Gomphosus varius": [
+    "Kugibera",
+    "クギベラ"
+  ],
+  "Cephalopholis miniata": [
+    "Yukatahata",
+    "ユカタハタ"
+  ],
+  "Balistoides conspicillum": [
+    "Mongarakawahagi",
+    "モンガラカワハギ"
+  ],
+  "Rhinecanthus aculeatus": [
+    "Murasame-mongara",
+    "Murasamemongara",
+    "ムラサメモンガラ"
+  ],
+  "Ostracion cubicus": [
+    "Minamihakofugu",
+    "ミナミハコフグ"
+  ],
+  "Lactoria cornuta": [
+    "Kongofugu",
+    "Kongô-fugu",
+    "コンゴウフグ"
+  ],
+  "Canthigaster valentini": [
+    "Shimakinchakufugu",
+    "シマキンチャクフグ"
+  ],
+  "Diodon holocanthus": [
+    "Hari-senbon",
+    "Harisembon",
+    "Harisenbon",
+    "ハリセンボン"
+  ],
+  "Arothron hispidus": [
+    "Sazanamifugu",
+    "サザナミフグ"
+  ],
+  "Rhincodon typus": [
+    "Jimbezame",
+    "Jinbeizame",
+    "jimbeizame",
+    "yasurizame",
+    "ジンベエザメ",
+    "ミズサバ"
+  ],
+  "Cetorhinus maximus": [
+    "Ubazame",
+    "bakazame",
+    "teguzame",
+    "ubazame",
+    "zozame",
+    "ウバザメ"
+  ],
+  "Carcharodon carcharias": [
+    "Hohojirozame",
+    "hitokiuzame",
+    "hohojirozame",
+    "oshirozame",
+    "ホホジロザメ"
+  ],
+  "Galeocerdo cuvier": [
+    "Itachizame",
+    "イタチザメ"
+  ],
+  "Sphyrna mokarran": [
+    "Hira-shumokuzame",
+    "Hirashumokuzame",
+    "ヒラシュモクザメ"
+  ],
+  "Sphyrna lewini": [
+    "Akashumokuzame",
+    "アカシュモクザメ"
+  ],
+  "Stegostoma fasciatum": [
+    "torafuzame",
+    "トラフザメ"
+  ],
+  "Chiloscyllium punctatum": [
+    "Inuzame",
+    "inuzame",
+    "イヌザメ"
+  ],
+  "Orectolobus japonicus": [
+    "Ose",
+    "kirinotobuka",
+    "oose",
+    "オオセ"
+  ],
+  "Triaenodon obesus": [
+    "Nemuribuka",
+    "ネムリブカ"
+  ],
+  "Carcharhinus melanopterus": [
+    "Tsumaguro",
+    "ツマグロ"
+  ],
+  "Prionace glauca": [
+    "Yoshikirizame",
+    "ヨシキリザメ"
+  ],
+  "Isurus oxyrinchus": [
+    "Aozame",
+    "aozame",
+    "awozame",
+    "morozame",
+    "アオザメ"
+  ],
+  "Mola mola": [
+    "Mambo",
+    "Manbô",
+    "マンボウ"
+  ],
+  "Thunnus albacares": [
+    "Kihada",
+    "キハダ"
+  ],
+  "Katsuwonus pelamis": [
+    "Katsuo",
+    "Nagakoban",
+    "Namaribushi",
+    "Tsuna Hamu",
+    "カツオ"
+  ],
+  "Scomber japonicus": [
+    "Masaba",
+    "マサバ"
+  ],
+  "Seriola quinqueradiata": [
+    "Buri",
+    "Hamachi",
+    "ジャパニーズ・アンバージャック",
+    "ファイブレイ・イエローテイル",
+    "ブリ"
+  ],
+  "Trachurus japonicus": [
+    "Maaji",
+    "マアジ"
+  ],
+  "Engraulis japonicus": [
+    "Katakuchiiwashi",
+    "カタクチイワシ"
+  ],
+  "Sardinops sagax": [
+    "マイワシ"
+  ],
+  "Istiophorus platypterus": [
+    "Bashokajiki",
+    "Bashôkajiki",
+    "バショウカジキ"
+  ],
+  "Makaira nigricans": [
+    "Aburakajiki",
+    "Kurokajiki",
+    "Tsun",
+    "クロカジキ"
+  ],
+  "Xiphias gladius": [
+    "Dakuda",
+    "Medara",
+    "Meka",
+    "Mekajiki",
+    "メカジキ"
+  ],
+  "Regalecus glesne": [],
+  "Lampris guttatus": [
+    "Akamanbô",
+    "Mandal",
+    "アカマンボウ"
+  ],
+  "Macropinna microstoma": [
+    "Demenigisu",
+    "デメニギス"
+  ],
+  "Melanocetus johnsonii": [
+    "Perikan-anko",
+    "ペリカンアンコウ"
+  ],
+  "Chauliodus sloani": [
+    "Horaieso",
+    "ホウライエソ"
+  ],
+  "Eurypharynx pelecanoides": [
+    "Fukuro-unagi",
+    "Fukuronagi",
+    "フクロウナギ",
+    "フクロウナギ科"
+  ],
+  "Anoplogaster cornuta": [
+    "Onikimme",
+    "オニキンメ"
+  ],
+  "Mitsukurina owstoni": [
+    "Mitsukurizame",
+    "Teguzame",
+    "Zoozame",
+    "mitsukurizame",
+    "tenguzame",
+    "ミツクリザメ",
+    "Tenguzame"
+  ],
+  "Chlamydoselachus anguineus": [
+    "Rabuka",
+    "ラブカ"
+  ],
+  "Oryzias sakaizumii": [
+    "Kitanomedaka",
+    "キタノメダカ",
+    "メダカ北日本集団"
+  ],
+  "Cyprinus carpio": [
+    "Koi",
+    "アナトリア鯉",
+    "コイ",
+    "ヨーロッパゴイ",
+    "欧州ゴイ",
+    "鯉"
+  ],
+  "Carassius auratus": [
+    "Kingyo",
+    "キンギョ",
+    "キンブナ"
+  ],
+  "Danio rerio": [],
+  "Paracheirodon axelrodi": [
+    "カージナルテトラ"
+  ],
+  "Hemigrammus bleheri": [],
+  "Gymnocorymbus ternetzi": [],
+  "Hyphessobrycon amandae": [],
+  "Pterophyllum scalare": [],
+  "Symphysodon discus": [],
+  "Mikrogeophagus ramirezi": [],
+  "Betta splendens": [],
+  "Trichopodus trichopterus": [],
+  "Trichogaster lalius": [
+    "ドワーフグラミー"
+  ],
+  "Poecilia reticulata": [
+    "Guppi",
+    "グッピー"
+  ],
+  "Poecilia sphenops": [
+    "Kokuchimori",
+    "コクチモーリー"
+  ],
+  "Xiphophorus maculatus": [
+    "Sazampurateifuisshu",
+    "サザンプラティフィッシュ",
+    "プラティ",
+    "ムーンフィッシュ"
+  ],
+  "Xiphophorus hellerii": [
+    "Gurinsodoteru",
+    "グリーンソードテール"
+  ],
+  "Corydoras paleatus": [],
+  "Corydoras aeneus": [],
+  "Corydoras sterbai": [],
+  "Corydoras panda": [],
+  "Macrotocinclus affinis": [],
+  "Ancistrus cirrhosus": [],
+  "Pterygoplichthys pardalis": [
+    "アマゾンセイルフィンキャットフィッシュ"
+  ],
+  "Pangasianodon hypophthalmus": [],
+  "Pangasianodon gigas": [
+    "メコンオオナマズ"
+  ],
+  "Silurus asotus": [
+    "Namazu",
+    "ナマズ",
+    "ナマズ (Namazu)"
+  ],
+  "Channa argus": [
+    "Kamuruchi",
+    "カムルチー"
+  ],
+  "Channa micropeltes": [
+    "レッドスネークヘッド"
+  ],
+  "Polypterus senegalus": [],
+  "Atractosteus spatula": [
+    "アリゲーターガー",
+    "”アリゲーターガー”"
+  ],
+  "Scleropages formosus": [
+    "アジアアロワナ",
+    "グリーンアロワナ",
+    "レッドアロワナ"
+  ],
+  "Oncorhynchus mykiss": [
+    "Niji-masu",
+    "Nijimasu",
+    "ニジマス"
+  ],
+  "Oncorhynchus keta": [
+    "Sake",
+    "サケ"
+  ],
+  "Electrophorus electricus": [
+    "デンキウナギ"
+  ],
+  "Pygocentrus nattereri": [
+    "ピラニア・ナッテリー"
+  ],
+  "Potamotrygon motoro": [
+    "オレンジスポットタンスイエイ"
+  ],
+  "Lysmata amboinensis": [
+    "アカシマシラヒゲエビ"
+  ],
+  "Lysmata debelius": [
+    "シロボシアカモエビ"
+  ],
+  "Stenopus hispidus": [
+    "オトヒメエビ"
+  ],
+  "Panulirus japonicus": [
+    "ise-ebi",
+    "no-ebi",
+    "イセエビ",
+    "伊勢海老",
+    "伊勢蝦"
+  ],
+  "Macrocheira kaempferi": [
+    "タカアシガニ"
+  ],
+  "Portunus trituberculatus": [
+    "ガザミ／ワタリガニ"
+  ],
+  "Clibanarius tricolor": [],
+  "Caridina multidentata": [
+    "ヤマトヌマエビ",
+    "大和沼蝦"
+  ],
+  "Neocaridina denticulata": [
+    "ミナミヌマエビ"
+  ],
+  "Chromodoris annae": [
+    "アンナウミウシ"
+  ],
+  "Chromodoris lochi": [
+    "ミスジアオイロウミウシ"
+  ],
+  "Acanthaster planci": [
+    "オニヒトデ"
+  ],
+  "Linckia laevigata": [
+    "アオヒトデ"
+  ],
+  "Diadema setosum": [
+    "ガンガゼ"
+  ],
+  "Octopus cyanea": [
+    "ワモンダコ"
+  ],
+  "Thaumoctopus mimicus": [
+    "ミミックオクトパス"
+  ],
+  "Enteroctopus dofleini": [
+    "ミズダコ"
+  ],
+  "Sepioteuthis lessoniana": [],
+  "Sepia officinalis": [
+    "Mongo-ika",
+    "Yoroppa kouika",
+    "ko-ika",
+    "ma-ika",
+    "ヨーロッパコウイカ",
+    "Mongo-Ika",
+    "Yoroppa Kouika"
+  ],
+  "Chrysaora pacifica": [
+    "アカクラゲ",
+    "アカクラゲ (aka kurage)"
+  ],
+  "Mastigias papua": [
+    "タコクラゲ"
+  ],
+  "Cotylorhiza tuberculata": [],
+  "Eretmochelys imbricata": [
+    "タイマイ"
+  ],
+  "Caretta caretta": [
+    "アカウミガメ"
+  ],
+  "Dermochelys coriacea": [
+    "オサガメ"
+  ],
+  "Delphinus delphis": [
+    "Hase iruka",
+    "ma iruka",
+    "suzume-iruka",
+    "tobi iruka",
+    "ハセイルカ",
+    "マイルカ",
+    "マイルカ属"
+  ],
+  "Phoca vitulina": [
+    "ゼニガタアザラシ"
+  ],
+  "Megaptera novaeangliae": [
+    "zato kujira",
+    "ザトウクジラ"
+  ],
+  "Balaenoptera musculus": [
+    "siro nagasu kujira",
+    "シロナガスクジラ"
+  ],
+  "Enhydra lutris": [
+    "ラッコ",
+    "猟虎"
+  ]
+}

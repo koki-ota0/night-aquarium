@@ -1,0 +1,992 @@
+[
+  {
+    "number": 1,
+    "name": "アカイソギンチャク",
+    "rarity": "コモン",
+    "kind": "environment",
+    "biome": "岩礁",
+    "tag": "イソ",
+    "description": "クマノミ系の成長UP・共生の鍵"
+  },
+  {
+    "number": 2,
+    "name": "アオイソギンチャク",
+    "rarity": "レア",
+    "kind": "environment",
+    "biome": "岩礁",
+    "tag": "イソ",
+    "description": "ウミウシ系の成長UP"
+  },
+  {
+    "number": 3,
+    "name": "イシサンゴ",
+    "rarity": "コモン",
+    "kind": "environment",
+    "biome": "岩礁",
+    "tag": "サンゴ",
+    "description": "「サンゴ」条件・景観"
+  },
+  {
+    "number": 4,
+    "name": "ハナサンゴ",
+    "rarity": "レア",
+    "kind": "environment",
+    "biome": "岩礁",
+    "tag": "サンゴ",
+    "description": "「サンゴ」条件・成長UP"
+  },
+  {
+    "number": 5,
+    "name": "ウミウチワ",
+    "rarity": "コモン",
+    "kind": "environment",
+    "biome": "岩礁",
+    "tag": "サンゴ",
+    "description": "「サンゴ」条件"
+  },
+  {
+    "number": 6,
+    "name": "アマモ",
+    "rarity": "コモン",
+    "kind": "environment",
+    "biome": "岩礁",
+    "tag": "草",
+    "description": "「草」条件・小魚の隠れ家"
+  },
+  {
+    "number": 7,
+    "name": "オオバモ",
+    "rarity": "コモン",
+    "kind": "environment",
+    "biome": "淡水",
+    "tag": "草",
+    "description": "「草」条件"
+  },
+  {
+    "number": 8,
+    "name": "ウミグサ",
+    "rarity": "コモン",
+    "kind": "environment",
+    "biome": "砂地",
+    "tag": "砂",
+    "description": "「砂」条件"
+  },
+  {
+    "number": 9,
+    "name": "ホヤ",
+    "rarity": "コモン",
+    "kind": "environment",
+    "biome": "深海",
+    "tag": "サンゴ",
+    "description": "深海の景観"
+  },
+  {
+    "number": 10,
+    "name": "イガイ",
+    "rarity": "コモン",
+    "kind": "environment",
+    "biome": "砂地",
+    "tag": "砂",
+    "description": "「砂」条件・水をきれいにする演出"
+  },
+  {
+    "number": 11,
+    "name": "メダカ",
+    "rarity": "コモン",
+    "kind": "basic",
+    "biome": "淡水",
+    "branchA": "ヒカリメダカ（月）",
+    "branchB": "アヤメダカ（草3）",
+    "trivia": "日本原産、世界中で愛される"
+  },
+  {
+    "number": 12,
+    "name": "ヨウガネコイ",
+    "rarity": "コモン",
+    "kind": "basic",
+    "biome": "淡水",
+    "branchA": "ハナビコイ（月+A）",
+    "branchB": "ゲッコウコイ（S+草2）",
+    "trivia": "人の手からも餌を食べる"
+  },
+  {
+    "number": 13,
+    "name": "ドジョウ",
+    "rarity": "コモン",
+    "kind": "basic",
+    "biome": "淡水",
+    "branchA": "ハリガネドジョウ（砂3）",
+    "branchB": "—",
+    "trivia": "泥の中で空気を飲む"
+  },
+  {
+    "number": 14,
+    "name": "ネオンテトラ",
+    "rarity": "コモン",
+    "kind": "basic",
+    "biome": "淡水",
+    "branchA": "ヒカリネオン（青）",
+    "branchB": "ミナミネオン（草2）",
+    "trivia": "群れで虹みたいに光る"
+  },
+  {
+    "number": 15,
+    "name": "イシガメ",
+    "rarity": "レア",
+    "kind": "basic",
+    "biome": "淡水",
+    "branchA": "ミドリガメ（草3）",
+    "branchB": "ハナビガメ（S）",
+    "trivia": "日光浴が大好き"
+  },
+  {
+    "number": 16,
+    "name": "ピラルク",
+    "rarity": "エピック",
+    "kind": "basic",
+    "biome": "淡水",
+    "branchA": "キンピラルク（暖+S）",
+    "branchB": "—",
+    "trivia": "水面の虫を跳ねて捕らえる"
+  },
+  {
+    "number": 17,
+    "name": "アロワナ",
+    "rarity": "エピック",
+    "kind": "basic",
+    "biome": "淡水",
+    "branchA": "キンアロワナ（暖+草2）",
+    "branchB": "リュウグウ（図55+S）",
+    "trivia": "「生きた化石」と呼ばれる"
+  },
+  {
+    "number": 18,
+    "name": "ヒカリメダカ",
+    "rarity": "レア",
+    "kind": "evolution",
+    "biome": "淡水",
+    "parent": 11,
+    "condition": "月",
+    "trivia": "月の光を体にためる"
+  },
+  {
+    "number": 19,
+    "name": "アヤメダカ",
+    "rarity": "レア",
+    "kind": "evolution",
+    "biome": "淡水",
+    "parent": 11,
+    "condition": "草3",
+    "trivia": "水草の間で模様が育つ"
+  },
+  {
+    "number": 20,
+    "name": "ハナビコイ",
+    "rarity": "レア",
+    "kind": "evolution",
+    "biome": "淡水",
+    "parent": 12,
+    "condition": "月+A",
+    "trivia": "夜にだけ鱗が咲く"
+  },
+  {
+    "number": 21,
+    "name": "ゲッコウコイ",
+    "rarity": "エピック",
+    "kind": "evolution",
+    "biome": "淡水",
+    "parent": 12,
+    "condition": "S+草2",
+    "trivia": "月夜の池の主役"
+  },
+  {
+    "number": 22,
+    "name": "ハリガネドジョウ",
+    "rarity": "レア",
+    "kind": "evolution",
+    "biome": "淡水",
+    "parent": 13,
+    "condition": "砂3",
+    "trivia": "砂の線路を引いて泳ぐ"
+  },
+  {
+    "number": 23,
+    "name": "ヒカリネオン",
+    "rarity": "レア",
+    "kind": "evolution",
+    "biome": "淡水",
+    "parent": 14,
+    "condition": "青",
+    "trivia": "水槽の小さな星空"
+  },
+  {
+    "number": 24,
+    "name": "ミナミネオン",
+    "rarity": "レア",
+    "kind": "evolution",
+    "biome": "淡水",
+    "parent": 14,
+    "condition": "草2",
+    "trivia": "緑の海が好き"
+  },
+  {
+    "number": 25,
+    "name": "ミドリガメ",
+    "rarity": "エピック",
+    "kind": "evolution",
+    "biome": "淡水",
+    "parent": 15,
+    "condition": "草3",
+    "trivia": "甲羅に苔が咲くほどのんびり"
+  },
+  {
+    "number": 26,
+    "name": "ハナビガメ",
+    "rarity": "エピック",
+    "kind": "evolution",
+    "biome": "淡水",
+    "parent": 15,
+    "condition": "S",
+    "trivia": "育てた人の手を覚える"
+  },
+  {
+    "number": 27,
+    "name": "キンピラルク",
+    "rarity": "レジェ",
+    "kind": "evolution",
+    "biome": "淡水",
+    "parent": 16,
+    "condition": "暖+S",
+    "trivia": "黄金のあご髭"
+  },
+  {
+    "number": 28,
+    "name": "キンアロワナ",
+    "rarity": "レジェ",
+    "kind": "evolution",
+    "biome": "淡水",
+    "parent": 17,
+    "condition": "暖+草2",
+    "trivia": "幸運を呼ぶと信じられてきた"
+  },
+  {
+    "number": 29,
+    "name": "リュウグウ",
+    "rarity": "ミシック",
+    "kind": "evolution",
+    "biome": "淡水",
+    "parent": 17,
+    "condition": "図55+S",
+    "trivia": "かなたの海からの使い"
+  },
+  {
+    "number": 30,
+    "name": "クマノミ",
+    "rarity": "レア",
+    "kind": "basic",
+    "biome": "岩礁",
+    "branchA": "アカネノリクマノミ（イソ）",
+    "branchB": "ハナダマリクマノミ（サンゴ+S）",
+    "trivia": "生まれたときはオスだったりする"
+  },
+  {
+    "number": 31,
+    "name": "タツノオトシゴ",
+    "rarity": "レア",
+    "kind": "basic",
+    "biome": "岩礁",
+    "branchA": "コブタツ（岩2）",
+    "branchB": "ミドリタツ（草3）",
+    "trivia": "育児はお父さんの仕事"
+  },
+  {
+    "number": 32,
+    "name": "キュウセン",
+    "rarity": "コモン",
+    "kind": "basic",
+    "biome": "岩礁",
+    "branchA": "ハナビキュウセン（サンゴ）",
+    "branchB": "—",
+    "trivia": "砂をふいてお掃除"
+  },
+  {
+    "number": 33,
+    "name": "ヤマトフグ",
+    "rarity": "レア",
+    "kind": "basic",
+    "biome": "岩礁",
+    "branchA": "ハリフグ（A）",
+    "branchB": "ウミワシフグ（共生1）",
+    "trivia": "ぷっと膨らむのは身を守るため"
+  },
+  {
+    "number": 34,
+    "name": "テッポウウオ",
+    "rarity": "コモン",
+    "kind": "basic",
+    "biome": "岩礁",
+    "branchA": "ハナビテッポウ（草2）",
+    "branchB": "—",
+    "trivia": "水の弾で虫を落とす"
+  },
+  {
+    "number": 35,
+    "name": "ゴンズイ",
+    "rarity": "コモン",
+    "kind": "basic",
+    "biome": "岩礁",
+    "branchA": "マダラゴンズイ（岩2）",
+    "branchB": "—",
+    "trivia": "群れで眠る夜行性"
+  },
+  {
+    "number": 36,
+    "name": "シュリンプ",
+    "rarity": "コモン",
+    "kind": "basic",
+    "biome": "岩礁",
+    "branchA": "レッドビーシュリンプ（暖）",
+    "branchB": "ブルービーシュリンプ（青）",
+    "trivia": "お掃除屋さん"
+  },
+  {
+    "number": 37,
+    "name": "ウミウシ",
+    "rarity": "レア",
+    "kind": "basic",
+    "biome": "岩礁",
+    "branchA": "ハナビウミウシ（サンゴ）",
+    "branchB": "ヨウガンウミウシ（暖+岩3）",
+    "trivia": "貝殻を捨てた生きもの"
+  },
+  {
+    "number": 38,
+    "name": "イトマキヒトデ",
+    "rarity": "コモン",
+    "kind": "basic",
+    "biome": "岩礁",
+    "branchA": "ハナビヒトデ（サンゴ+草2）",
+    "branchB": "—",
+    "trivia": "腕が切れてもまた生える"
+  },
+  {
+    "number": 39,
+    "name": "アカネノリクマノミ",
+    "rarity": "エピック",
+    "kind": "evolution",
+    "biome": "岩礁",
+    "parent": 30,
+    "condition": "イソ",
+    "trivia": "おうちのイソギンチャクと運命共同体"
+  },
+  {
+    "number": 40,
+    "name": "ハナダマリクマノミ",
+    "rarity": "エピック",
+    "kind": "evolution",
+    "biome": "岩礁",
+    "parent": 30,
+    "condition": "サンゴ+S",
+    "trivia": "サンゴの花のように泳ぐ"
+  },
+  {
+    "number": 41,
+    "name": "コブタツ",
+    "rarity": "エピック",
+    "kind": "evolution",
+    "biome": "岩礁",
+    "parent": 31,
+    "condition": "岩2",
+    "trivia": "岩の形に似てきた"
+  },
+  {
+    "number": 42,
+    "name": "ミドリタツ",
+    "rarity": "エピック",
+    "kind": "evolution",
+    "biome": "岩礁",
+    "parent": 31,
+    "condition": "草3",
+    "trivia": "海草の森の騎士"
+  },
+  {
+    "number": 43,
+    "name": "ハナビキュウセン",
+    "rarity": "レア",
+    "kind": "evolution",
+    "biome": "岩礁",
+    "parent": 32,
+    "condition": "サンゴ",
+    "trivia": "夜は砂に埋まって眠る"
+  },
+  {
+    "number": 44,
+    "name": "ハリフグ",
+    "rarity": "エピック",
+    "kind": "evolution",
+    "biome": "岩礁",
+    "parent": 33,
+    "condition": "A",
+    "trivia": "トゲのコントラストが美しい"
+  },
+  {
+    "number": 45,
+    "name": "ウミワシフグ",
+    "rarity": "エピック",
+    "kind": "evolution",
+    "biome": "岩礁",
+    "parent": 33,
+    "condition": "共生1",
+    "trivia": "仲間といると安心して膨らむ"
+  },
+  {
+    "number": 46,
+    "name": "ハナビテッポウ",
+    "rarity": "レア",
+    "kind": "evolution",
+    "biome": "岩礁",
+    "parent": 34,
+    "condition": "草2",
+    "trivia": "狙うときだけ真剣な目"
+  },
+  {
+    "number": 47,
+    "name": "マダラゴンズイ",
+    "rarity": "レア",
+    "kind": "evolution",
+    "biome": "岩礁",
+    "parent": 35,
+    "condition": "岩2",
+    "trivia": "模様は夜の迷彩"
+  },
+  {
+    "number": 48,
+    "name": "レッドビーシュリンプ",
+    "rarity": "レア",
+    "kind": "evolution",
+    "biome": "岩礁",
+    "parent": 36,
+    "condition": "暖",
+    "trivia": "赤は「危険じゃないよ」の色"
+  },
+  {
+    "number": 49,
+    "name": "ブルービーシュリンプ",
+    "rarity": "レア",
+    "kind": "evolution",
+    "biome": "岩礁",
+    "parent": 36,
+    "condition": "青",
+    "trivia": "青い透明感は憧れの的"
+  },
+  {
+    "number": 50,
+    "name": "ハナビウミウシ",
+    "rarity": "エピック",
+    "kind": "evolution",
+    "biome": "岩礁",
+    "parent": 37,
+    "condition": "サンゴ",
+    "trivia": "背中の花のような突起"
+  },
+  {
+    "number": 51,
+    "name": "ヨウガンウミウシ",
+    "rarity": "エピック",
+    "kind": "evolution",
+    "biome": "岩礁",
+    "parent": 37,
+    "condition": "暖+岩3",
+    "trivia": "溶岩の名を持つ宝石"
+  },
+  {
+    "number": 52,
+    "name": "ハナビヒトデ",
+    "rarity": "レア",
+    "kind": "evolution",
+    "biome": "岩礁",
+    "parent": 38,
+    "condition": "サンゴ+草2",
+    "trivia": "五つの腕に五つの模様"
+  },
+  {
+    "number": 53,
+    "name": "トビウオ",
+    "rarity": "レア",
+    "kind": "basic",
+    "biome": "外洋",
+    "branchA": "アサヒトビ（暖）",
+    "branchB": "カチントビ（S）",
+    "trivia": "数十メートル滑空する"
+  },
+  {
+    "number": 54,
+    "name": "カマイルカ",
+    "rarity": "エピック",
+    "kind": "basic",
+    "biome": "外洋",
+    "branchA": "ハナビカマイルカ（月）",
+    "branchB": "ツキカゲカマイルカ（月+S）",
+    "trivia": "歌い合うように鳴く"
+  },
+  {
+    "number": 55,
+    "name": "ネコザメ",
+    "rarity": "エピック",
+    "kind": "basic",
+    "biome": "外洋",
+    "branchA": "ハナビネコザメ（サンゴ）",
+    "branchB": "ツバメネコザメ（S）",
+    "trivia": "泳ぐより歩くのが好き"
+  },
+  {
+    "number": 56,
+    "name": "ウミガメ",
+    "rarity": "エピック",
+    "kind": "basic",
+    "biome": "外洋",
+    "branchA": "アオウミガメ（暖+S）",
+    "branchB": "—",
+    "trivia": "産んだ砂浜にまた戻る"
+  },
+  {
+    "number": 57,
+    "name": "マンタ",
+    "rarity": "エピック",
+    "kind": "basic",
+    "biome": "外洋",
+    "branchA": "ヒカリマンタ（青+月）",
+    "branchB": "ヨウセイマンタ（図65+月）",
+    "trivia": "世界最大のエラを持つ"
+  },
+  {
+    "number": 58,
+    "name": "クロマグロ",
+    "rarity": "レア",
+    "kind": "basic",
+    "biome": "外洋",
+    "branchA": "ホンマグロ（S）",
+    "branchB": "—",
+    "trivia": "ずっと泳ぎ続ける命"
+  },
+  {
+    "number": 59,
+    "name": "ハンドウイルカ",
+    "rarity": "レア",
+    "kind": "basic",
+    "biome": "外洋",
+    "branchA": "ニンギョ（図35+月+共生2）",
+    "branchB": "—",
+    "trivia": "親子は声で呼び合う"
+  },
+  {
+    "number": 60,
+    "name": "シャチ",
+    "rarity": "レジェ",
+    "kind": "basic",
+    "biome": "外洋",
+    "branchA": "シロシャチ（月+S）",
+    "branchB": "シンセイカイジュ（図80+草3+岩3+サンゴ）",
+    "trivia": "海の頂点なのに歌が好き"
+  },
+  {
+    "number": 61,
+    "name": "アサヒトビ",
+    "rarity": "エピック",
+    "kind": "evolution",
+    "biome": "外洋",
+    "parent": 53,
+    "condition": "暖",
+    "trivia": "朝日を背に跳ねる"
+  },
+  {
+    "number": 62,
+    "name": "カチントビ",
+    "rarity": "エピック",
+    "kind": "evolution",
+    "biome": "外洋",
+    "parent": 53,
+    "condition": "S",
+    "trivia": "硬い鱗の風来坊"
+  },
+  {
+    "number": 63,
+    "name": "ハナビカマイルカ",
+    "rarity": "レジェ",
+    "kind": "evolution",
+    "biome": "外洋",
+    "parent": 54,
+    "condition": "月",
+    "trivia": "夜の海で花火のように跳ねる"
+  },
+  {
+    "number": 64,
+    "name": "ツキカゲカマイルカ",
+    "rarity": "レジェ",
+    "kind": "evolution",
+    "biome": "外洋",
+    "parent": 54,
+    "condition": "月+S",
+    "trivia": "月影をまとって泳ぐ"
+  },
+  {
+    "number": 65,
+    "name": "ハナビネコザメ",
+    "rarity": "レジェ",
+    "kind": "evolution",
+    "biome": "外洋",
+    "parent": 55,
+    "condition": "サンゴ",
+    "trivia": "珊瑚の庭師"
+  },
+  {
+    "number": 66,
+    "name": "ツバメネコザメ",
+    "rarity": "レジェ",
+    "kind": "evolution",
+    "biome": "外洋",
+    "parent": 55,
+    "condition": "S",
+    "trivia": "浅瀬を飛び跳ねる"
+  },
+  {
+    "number": 67,
+    "name": "アオウミガメ",
+    "rarity": "レジェ",
+    "kind": "evolution",
+    "biome": "外洋",
+    "parent": 56,
+    "condition": "暖+S",
+    "trivia": "百年の旅の途中"
+  },
+  {
+    "number": 68,
+    "name": "ヒカリマンタ",
+    "rarity": "レジェ",
+    "kind": "evolution",
+    "biome": "外洋",
+    "parent": 57,
+    "condition": "青+月",
+    "trivia": "腹の光が海を照らす"
+  },
+  {
+    "number": 69,
+    "name": "ヨウセイマンタ",
+    "rarity": "ミシック",
+    "kind": "evolution",
+    "biome": "外洋",
+    "parent": 57,
+    "condition": "図65+月",
+    "trivia": "星の海から来た翼"
+  },
+  {
+    "number": 70,
+    "name": "ホンマグロ",
+    "rarity": "エピック",
+    "kind": "evolution",
+    "biome": "外洋",
+    "parent": 58,
+    "condition": "S",
+    "trivia": "頂点の力強さ"
+  },
+  {
+    "number": 71,
+    "name": "ニンギョ",
+    "rarity": "ミシック",
+    "kind": "evolution",
+    "biome": "外洋",
+    "parent": 59,
+    "condition": "図35+月+共生2",
+    "trivia": "「よるの水族館」にだけ現れる"
+  },
+  {
+    "number": 72,
+    "name": "シロシャチ",
+    "rarity": "レジェ",
+    "kind": "evolution",
+    "biome": "外洋",
+    "parent": 60,
+    "condition": "月+S",
+    "trivia": "夜の海を白く染める"
+  },
+  {
+    "number": 73,
+    "name": "シンセイカイジュ",
+    "rarity": "ミシック",
+    "kind": "evolution",
+    "biome": "外洋",
+    "parent": 60,
+    "condition": "図80+草3+岩3+サンゴ",
+    "trivia": "海の記憶そのものの獣"
+  },
+  {
+    "number": 74,
+    "name": "アカエイ",
+    "rarity": "エピック",
+    "kind": "basic",
+    "biome": "砂地",
+    "branchA": "ヒメエイ（砂3）",
+    "branchB": "ホウエンエイ（S）",
+    "trivia": "砂に潜って眠る"
+  },
+  {
+    "number": 75,
+    "name": "マダコ",
+    "rarity": "レア",
+    "kind": "basic",
+    "biome": "砂地",
+    "branchA": "ミミックタコ（岩3）",
+    "branchB": "ベニダコ（暖+砂2）",
+    "trivia": "短い一生を静かに生きる"
+  },
+  {
+    "number": 76,
+    "name": "マコガレイ",
+    "rarity": "コモン",
+    "kind": "basic",
+    "biome": "砂地",
+    "branchA": "ヌマガレイ（砂3）",
+    "branchB": "—",
+    "trivia": "目が片側に寄って育つ"
+  },
+  {
+    "number": 77,
+    "name": "バフンウニ",
+    "rarity": "コモン",
+    "kind": "basic",
+    "biome": "砂地",
+    "branchA": "ムラサキウニ（青）",
+    "branchB": "—",
+    "trivia": "海の床屋さん"
+  },
+  {
+    "number": 78,
+    "name": "ジュゴン",
+    "rarity": "レジェ",
+    "kind": "basic",
+    "biome": "砂地",
+    "branchA": "アオジュゴン（暖+S）",
+    "branchB": "シロジュゴン（共生2）",
+    "trivia": "おばあちゃんから孫へ海の道"
+  },
+  {
+    "number": 79,
+    "name": "ヒメエイ",
+    "rarity": "レジェ",
+    "kind": "evolution",
+    "biome": "砂地",
+    "parent": 74,
+    "condition": "砂3",
+    "trivia": "砂絵を描きながら泳ぐ"
+  },
+  {
+    "number": 80,
+    "name": "ホウエンエイ",
+    "rarity": "レジェ",
+    "kind": "evolution",
+    "biome": "砂地",
+    "parent": 74,
+    "condition": "S",
+    "trivia": "宝石のような尾の毒針"
+  },
+  {
+    "number": 81,
+    "name": "ミミックタコ",
+    "rarity": "エピック",
+    "kind": "evolution",
+    "biome": "砂地",
+    "parent": 75,
+    "condition": "岩3",
+    "trivia": "岩のふりをする名人"
+  },
+  {
+    "number": 82,
+    "name": "ベニダコ",
+    "rarity": "エピック",
+    "kind": "evolution",
+    "biome": "砂地",
+    "parent": 75,
+    "condition": "暖+砂2",
+    "trivia": "焼けた砂の色"
+  },
+  {
+    "number": 83,
+    "name": "ヌマガレイ",
+    "rarity": "レア",
+    "kind": "evolution",
+    "biome": "砂地",
+    "parent": 76,
+    "condition": "砂3",
+    "trivia": "川にも住める強者"
+  },
+  {
+    "number": 84,
+    "name": "ムラサキウニ",
+    "rarity": "レア",
+    "kind": "evolution",
+    "biome": "砂地",
+    "parent": 77,
+    "condition": "青",
+    "trivia": "とげの紫は天然の宝石"
+  },
+  {
+    "number": 85,
+    "name": "アオジュゴン",
+    "rarity": "レジェ",
+    "kind": "evolution",
+    "biome": "砂地",
+    "parent": 78,
+    "condition": "暖+S",
+    "trivia": "海草を刈る穏やかな巨人"
+  },
+  {
+    "number": 86,
+    "name": "シロジュゴン",
+    "rarity": "レジェ",
+    "kind": "evolution",
+    "biome": "砂地",
+    "parent": 78,
+    "condition": "共生2",
+    "trivia": "月夜に浮かぶ白い影"
+  },
+  {
+    "number": 87,
+    "name": "ミズクラゲ",
+    "rarity": "コモン",
+    "kind": "basic",
+    "biome": "深海",
+    "branchA": "三日月クラゲ（月）",
+    "branchB": "ヨウセイクラゲ（図30+月）",
+    "trivia": "体の95%は水"
+  },
+  {
+    "number": 88,
+    "name": "ホタルイカ",
+    "rarity": "レア",
+    "kind": "basic",
+    "biome": "深海",
+    "branchA": "ホタルイカ群（月）",
+    "branchB": "ヒカリダマ（月+S）",
+    "trivia": "春の夜、海が星空になる"
+  },
+  {
+    "number": 89,
+    "name": "ウナギ",
+    "rarity": "レア",
+    "kind": "basic",
+    "biome": "深海",
+    "branchA": "ハナビウナギ（暖+岩2）",
+    "branchB": "—",
+    "trivia": "川と海を一生で旅する"
+  },
+  {
+    "number": 90,
+    "name": "アンコウ",
+    "rarity": "レア",
+    "kind": "basic",
+    "biome": "深海",
+    "branchA": "ハナビアンコウ（月+砂2）",
+    "branchB": "ネッシー（図45+S）",
+    "trivia": "釣竿のようなトゲで釣る"
+  },
+  {
+    "number": 91,
+    "name": "リーフィーシードラゴン",
+    "rarity": "レジェ",
+    "kind": "basic",
+    "biome": "深海",
+    "branchA": "ヨウシュウミトカゲ（草5）",
+    "branchB": "ゴウカウミトカゲ（S+共生2）",
+    "trivia": "葉っぱのふりをして漂う"
+  },
+  {
+    "number": 92,
+    "name": "三日月クラゲ",
+    "rarity": "レア",
+    "kind": "evolution",
+    "biome": "深海",
+    "parent": 87,
+    "condition": "月",
+    "trivia": "月をたたえた透明な体"
+  },
+  {
+    "number": 93,
+    "name": "ヨウセイクラゲ",
+    "rarity": "ミシック",
+    "kind": "evolution",
+    "biome": "深海",
+    "parent": 87,
+    "condition": "図30+月",
+    "trivia": "夜の海の精"
+  },
+  {
+    "number": 94,
+    "name": "ホタルイカ群",
+    "rarity": "エピック",
+    "kind": "evolution",
+    "biome": "深海",
+    "parent": 88,
+    "condition": "月",
+    "trivia": "いっせいに光る集団"
+  },
+  {
+    "number": 95,
+    "name": "ヒカリダマ",
+    "rarity": "エピック",
+    "kind": "evolution",
+    "biome": "深海",
+    "parent": 88,
+    "condition": "月+S",
+    "trivia": "光の玉のような存在"
+  },
+  {
+    "number": 96,
+    "name": "ハナビウナギ",
+    "rarity": "エピック",
+    "kind": "evolution",
+    "biome": "深海",
+    "parent": 89,
+    "condition": "暖+岩2",
+    "trivia": "花模様のうなぎ"
+  },
+  {
+    "number": 97,
+    "name": "ハナビアンコウ",
+    "rarity": "エピック",
+    "kind": "evolution",
+    "biome": "深海",
+    "parent": 90,
+    "condition": "月+砂2",
+    "trivia": "闇に咲く提灯"
+  },
+  {
+    "number": 98,
+    "name": "ネッシー",
+    "rarity": "ミシック",
+    "kind": "evolution",
+    "biome": "深海",
+    "parent": 90,
+    "condition": "図45+S",
+    "trivia": "見た人の夜はすこし長くなる"
+  },
+  {
+    "number": 99,
+    "name": "ヨウシュウミトカゲ",
+    "rarity": "レジェ",
+    "kind": "evolution",
+    "biome": "深海",
+    "parent": 91,
+    "condition": "草5",
+    "trivia": "葉脈のような鰭"
+  },
+  {
+    "number": 100,
+    "name": "ゴウカウミトカゲ",
+    "rarity": "レジェ",
+    "kind": "evolution",
+    "biome": "深海",
+    "parent": 91,
+    "condition": "S+共生2",
+    "trivia": "火山の海の守り手"
+  }
+]

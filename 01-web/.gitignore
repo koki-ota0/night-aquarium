@@ -1,0 +1,9 @@
+node_modules/
+preview-data/
+.DS_Store
+*.log
+/index.html
+/yoru-no-suizokukan.html
+/game.bundle.js
+/DESIGN_GALLERY.html
+/tools/thumb-render.bundle.js

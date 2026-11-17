@@ -1,0 +1,395 @@
+[
+  {
+    "id": "exp_228_001",
+    "number": 278,
+    "name": "シロワニ",
+    "scientific": "Carcharias taurus",
+    "kind": "basic",
+    "biome": "外洋",
+    "location": "coast",
+    "water": "marine",
+    "rarity": "rare",
+    "rarityOriginal": "レア",
+    "shape": "shark",
+    "model": "shark",
+    "motion": "roam",
+    "motionLabel": "海を泳ぐ",
+    "sizeClass": "giant",
+    "referenceCm": 320,
+    "referenceUnit": "全長",
+    "food": [
+      "seafood"
+    ],
+    "tag": null,
+    "tint": 8294794,
+    "design": {
+      "pattern": "none",
+      "accent": 13882556
+    },
+    "status": "実在の種",
+    "natural": "世界の温帯・亜熱帯沿岸",
+    "feature": "口から細く尖った歯が見え、背びれが二つあるサメ。",
+    "trivia": "魚やイカを捕らえる。空気を胃に取り込み浮力を調節することがある。",
+    "referenceUrl": "https://www.sumida-aquarium.com/about/animals/shirowani/",
+    "referenceTitle": "Carcharias taurus",
+    "taxonomyUrl": "https://www.gbif.org/species/2420766",
+    "sourceTaxonKey": 2420766,
+    "hue": 0,
+    "candidateRooms": [
+      "large-cold-sea",
+      "large-warm-sea"
+    ],
+    "reviewSource": "https://www.sumida-aquarium.com/about/animals/shirowani/",
+    "reviewStatus": "game-reviewed"
+  },
+  {
+    "id": "exp_228_002",
+    "number": 279,
+    "name": "オナガザメ",
+    "scientific": "Alopias vulpinus",
+    "kind": "basic",
+    "biome": "外洋",
+    "location": "coast",
+    "water": "marine",
+    "rarity": "rare",
+    "rarityOriginal": "レア",
+    "shape": "shark",
+    "model": "shark",
+    "motion": "roam",
+    "motionLabel": "海を泳ぐ",
+    "sizeClass": "giant",
+    "referenceCm": 500,
+    "referenceUnit": "全長",
+    "food": [
+      "seafood"
+    ],
+    "tag": null,
+    "tint": 6257030,
+    "design": {
+      "pattern": "none",
+      "accent": 15000534
+    },
+    "status": "実在の種",
+    "natural": "世界の温帯・熱帯の海",
+    "feature": "体と同じほど長い尾びれの上葉を持つサメ。",
+    "trivia": "長い尾を振り魚の群れを集め、たたいて捕食する。",
+    "referenceUrl": "https://www.fishbase.org/FieldGuide/FieldGuideSummary.php?GenusName=Alopias&SpeciesName=vulpinus&pda=1",
+    "referenceTitle": "Alopias vulpinus",
+    "taxonomyUrl": "https://www.gbif.org/species/2420797",
+    "sourceTaxonKey": 2420797,
+    "hue": 0,
+    "candidateRooms": [
+      "large-cold-sea",
+      "large-warm-sea"
+    ],
+    "reviewSource": "https://www.fishbase.org/FieldGuide/FieldGuideSummary.php?GenusName=Alopias&SpeciesName=vulpinus&pda=1",
+    "reviewStatus": "game-reviewed"
+  },
+  {
+    "id": "exp_228_003",
+    "number": 280,
+    "name": "マダラトビエイ",
+    "scientific": "Aetobatus ocellatus",
+    "kind": "basic",
+    "biome": "外洋",
+    "location": "coast",
+    "water": "marine",
+    "rarity": "rare",
+    "rarityOriginal": "レア",
+    "shape": "stingray",
+    "model": "stingray",
+    "motion": "glide",
+    "motionLabel": "ひれを広げて泳ぐ",
+    "sizeClass": "large",
+    "referenceCm": 200,
+    "referenceUnit": "体盤幅",
+    "food": [
+      "seafood"
+    ],
+    "tag": null,
+    "tint": 2506328,
+    "design": {
+      "pattern": "none",
+      "accent": 15855324
+    },
+    "status": "実在の種",
+    "natural": "インド洋から西太平洋の沿岸",
+    "feature": "暗色の背中に白い斑点が散り、尾は長い。",
+    "trivia": "胸びれを羽ばたくように泳ぎ、貝や甲殻類を捕らえる。",
+    "referenceUrl": "https://churaumi.okinawa/fishbook/00000514/",
+    "referenceTitle": "Aetobatus ocellatus",
+    "taxonomyUrl": "https://www.gbif.org/species/2419246",
+    "sourceTaxonKey": 2419246,
+    "hue": 0,
+    "candidateRooms": [
+      "warm-sea"
+    ],
+    "reviewSource": "https://churaumi.okinawa/fishbook/00000514/",
+    "reviewStatus": "game-reviewed"
+  },
+  {
+    "id": "exp_228_004",
+    "number": 281,
+    "name": "アオミノウミウシ",
+    "scientific": "Glaucus atlanticus",
+    "kind": "basic",
+    "biome": "外洋",
+    "location": "coast",
+    "water": "marine",
+    "rarity": "rare",
+    "rarityOriginal": "レア",
+    "shape": "nudibranch",
+    "model": "nudibranch",
+    "motion": "surface",
+    "motionLabel": "水面近くに漂う",
+    "sizeClass": "small",
+    "referenceCm": 3,
+    "referenceUnit": "体長",
+    "food": [
+      "special"
+    ],
+    "tag": null,
+    "tint": 2390960,
+    "design": {
+      "pattern": "none",
+      "accent": 14282220
+    },
+    "status": "実在の種",
+    "natural": "温暖な海の水面",
+    "feature": "青い腹面と銀白色の背面、左右に枝分かれした突起を持つ。",
+    "trivia": "体内の気泡を使い腹面を上にして水面に漂う。カツオノエボシなどの刺胞を防御に利用する。",
+    "referenceUrl": "https://oceana.ne.jp/domestic/69347",
+    "referenceTitle": "Glaucus atlanticus",
+    "taxonomyUrl": "https://www.gbif.org/species/5190072",
+    "sourceTaxonKey": 5190072,
+    "hue": 0,
+    "candidateRooms": [
+      "warm-sea"
+    ],
+    "reviewSource": "https://oceana.ne.jp/domestic/69347",
+    "reviewStatus": "game-reviewed",
+    "aliases": [
+      "ブルードラゴン"
+    ]
+  },
+  {
+    "id": "exp_228_005",
+    "number": 282,
+    "name": "モヨウモンガラドオシ",
+    "scientific": "Myrichthys maculosus",
+    "kind": "basic",
+    "biome": "砂地",
+    "location": "coast",
+    "water": "marine",
+    "rarity": "rare",
+    "rarityOriginal": "レア",
+    "shape": "eel",
+    "model": "eel",
+    "motion": "bottom",
+    "motionLabel": "海底近くを移動",
+    "sizeClass": "large",
+    "referenceCm": 100,
+    "referenceUnit": "全長",
+    "food": [
+      "seafood"
+    ],
+    "tag": null,
+    "tint": 12166537,
+    "design": {
+      "pattern": "none",
+      "accent": 4799540
+    },
+    "status": "実在の種",
+    "natural": "西太平洋の砂礫底",
+    "feature": "細長い体に不規則な暗色の斑点がある、ウミヘビ科の魚。",
+    "trivia": "エラで呼吸する魚類で、爬虫類のウミヘビとは別の仲間。",
+    "referenceUrl": "https://www.seto.kyoto-u.ac.jp/shirahama_aqua/%E3%83%A2%E3%83%A8%E3%82%A6%E3%83%A2%E3%83%B3%E3%82%AC%E3%83%A9%E3%83%89%E3%82%AA%E3%82%B7/",
+    "referenceTitle": "Myrichthys maculosus",
+    "taxonomyUrl": "https://www.gbif.org/species/2404510",
+    "sourceTaxonKey": 2404510,
+    "hue": 0,
+    "candidateRooms": [
+      "beach"
+    ],
+    "reviewSource": "https://www.seto.kyoto-u.ac.jp/shirahama_aqua/%E3%83%A2%E3%83%A8%E3%82%A6%E3%83%A2%E3%83%B3%E3%82%AC%E3%83%A9%E3%83%89%E3%82%AA%E3%82%B7/",
+    "reviewStatus": "game-reviewed",
+    "aliases": [
+      "ウミヘビ",
+      "魚のウミヘビ"
+    ]
+  },
+  {
+    "id": "exp_228_006",
+    "number": 283,
+    "name": "オニオコゼ",
+    "scientific": "Inimicus japonicus",
+    "kind": "basic",
+    "biome": "砂地",
+    "location": "coast",
+    "water": "marine",
+    "rarity": "rare",
+    "rarityOriginal": "レア",
+    "shape": "scorpionfish",
+    "model": "scorpionfish",
+    "motion": "sit",
+    "motionLabel": "水底で待つ",
+    "sizeClass": "medium",
+    "referenceCm": 30,
+    "referenceUnit": "全長",
+    "food": [
+      "seafood"
+    ],
+    "tag": null,
+    "tint": 9273453,
+    "design": {
+      "pattern": "none",
+      "accent": 5195065
+    },
+    "status": "実在の種",
+    "natural": "日本周辺の内湾から砂泥底",
+    "feature": "岩のような褐色の体と、毒を持つ背びれの棘が特徴。",
+    "trivia": "砂底で獲物を待ち伏せし、胸びれの遊離した条を使って歩く。",
+    "referenceUrl": "https://aquarium.co.jp/picturebook/inimicus-japonicus.html",
+    "referenceTitle": "Inimicus japonicus",
+    "taxonomyUrl": "https://www.gbif.org/species/2333637",
+    "sourceTaxonKey": 2333637,
+    "hue": 0,
+    "candidateRooms": [
+      "beach"
+    ],
+    "reviewSource": "https://aquarium.co.jp/picturebook/inimicus-japonicus.html",
+    "reviewStatus": "game-reviewed",
+    "aliases": [
+      "オコゼ"
+    ]
+  },
+  {
+    "id": "exp_228_007",
+    "number": 284,
+    "name": "アンドンクラゲ",
+    "scientific": "Carybdea rastonii",
+    "kind": "basic",
+    "biome": "外洋",
+    "location": "coast",
+    "water": "marine",
+    "rarity": "rare",
+    "rarityOriginal": "レア",
+    "shape": "moonJelly",
+    "model": "moonJelly",
+    "motion": "jelly",
+    "motionLabel": "傘を拍動させて漂う",
+    "sizeClass": "small",
+    "referenceCm": 3,
+    "referenceUnit": "傘の幅",
+    "food": [
+      "seafood"
+    ],
+    "tag": null,
+    "tint": 11982803,
+    "design": {
+      "pattern": "none",
+      "accent": 14723249
+    },
+    "status": "実在の種",
+    "natural": "日本近海の沿岸",
+    "feature": "行灯に似た四角い傘と、四隅から伸びる4本の触手を持つ。",
+    "trivia": "強い刺胞毒のある触手で小魚などを捕まえる。",
+    "referenceUrl": "https://www.kamogawa-seaworld.jp/animal/aquarium_info/1095/",
+    "referenceTitle": "Carybdea rastonii",
+    "taxonomyUrl": "https://www.gbif.org/species/4340377",
+    "sourceTaxonKey": 4340377,
+    "hue": 0,
+    "candidateRooms": [
+      "warm-sea"
+    ],
+    "reviewSource": "https://www.kamogawa-seaworld.jp/animal/aquarium_info/1095/",
+    "reviewStatus": "game-reviewed"
+  },
+  {
+    "id": "exp_228_008",
+    "number": 285,
+    "name": "エチゼンクラゲ",
+    "scientific": "Nemopilema nomurai",
+    "kind": "basic",
+    "biome": "外洋",
+    "location": "coast",
+    "water": "marine",
+    "rarity": "rare",
+    "rarityOriginal": "レア",
+    "shape": "moonJelly",
+    "model": "moonJelly",
+    "motion": "jelly",
+    "motionLabel": "傘を拍動させて漂う",
+    "sizeClass": "large",
+    "referenceCm": 120,
+    "referenceUnit": "傘の直径",
+    "food": [
+      "plankton"
+    ],
+    "tag": null,
+    "tint": 12497051,
+    "design": {
+      "pattern": "none",
+      "accent": 9599863
+    },
+    "status": "実在の種",
+    "natural": "東シナ海・黄海から日本海",
+    "feature": "厚みのある淡褐色の大きな傘と、複雑に分かれた口腕を持つ。",
+    "trivia": "傘は大きな個体で直径2mに達し、主に動物プランクトンを食べる。",
+    "referenceUrl": "https://kotobank.jp/word/%E3%81%88%E3%81%A1%E3%81%9C%E3%82%93%E3%81%8F%E3%82%89%E3%81%92-3145070",
+    "referenceTitle": "Nemopilema nomurai",
+    "taxonomyUrl": "https://www.gbif.org/species/2264583",
+    "sourceTaxonKey": 2264583,
+    "hue": 0,
+    "candidateRooms": [
+      "cold-sea"
+    ],
+    "reviewSource": "https://kotobank.jp/word/%E3%81%88%E3%81%A1%E3%81%9C%E3%82%93%E3%81%8F%E3%82%89%E3%81%92-3145070",
+    "reviewStatus": "game-reviewed"
+  },
+  {
+    "id": "exp_228_009",
+    "number": 286,
+    "name": "ナンヨウマンタ",
+    "scientific": "Mobula alfredi",
+    "kind": "basic",
+    "biome": "外洋",
+    "location": "coast",
+    "water": "marine",
+    "rarity": "rare",
+    "rarityOriginal": "レア",
+    "shape": "manta",
+    "model": "manta",
+    "motion": "glide",
+    "motionLabel": "ひれを広げて泳ぐ",
+    "sizeClass": "giant",
+    "referenceCm": 350,
+    "referenceUnit": "体盤幅",
+    "food": [
+      "plankton"
+    ],
+    "tag": null,
+    "tint": 3427680,
+    "design": {
+      "pattern": "shoulder",
+      "accent": 14804191
+    },
+    "status": "実在の種",
+    "natural": "インド太平洋の熱帯・亜熱帯沿岸",
+    "feature": "広い胸びれと一対の頭びれを持つ、マンタの一種。",
+    "trivia": "オニイトマキエイとは別種で、浅い沿岸やサンゴ礁周辺にも現れプランクトンを食べる。",
+    "referenceUrl": "https://tierzine.com/facilities/manta-ray-explained/",
+    "referenceTitle": "Mobula alfredi",
+    "taxonomyUrl": "https://www.gbif.org/species/9241141",
+    "sourceTaxonKey": 9241141,
+    "hue": 0,
+    "candidateRooms": [
+      "large-warm-sea"
+    ],
+    "reviewSource": "https://tierzine.com/facilities/manta-ray-explained/",
+    "reviewStatus": "game-reviewed",
+    "aliases": [
+      "マンタ"
+    ]
+  }
+]

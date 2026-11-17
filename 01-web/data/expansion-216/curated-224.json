@@ -1,0 +1,129 @@
+[
+  {
+    "id": "exp_224_001",
+    "number": 273,
+    "name": "クリオネ",
+    "scientific": "Clione limacina",
+    "kind": "basic",
+    "biome": "外洋",
+    "location": "coast",
+    "water": "marine",
+    "rarity": "rare",
+    "rarityOriginal": "レア",
+    "shape": "clione",
+    "model": "clione",
+    "motion": "jelly",
+    "motionLabel": "水中をゆっくり漂いながら泳ぐ",
+    "sizeClass": "small",
+    "referenceCm": 2,
+    "referenceUnit": "全長",
+    "food": [
+      "special"
+    ],
+    "tag": null,
+    "tint": 14739164,
+    "design": {
+      "pattern": "none",
+      "accent": 15109489
+    },
+    "status": "実在の種",
+    "natural": "北太平洋やオホーツク海などの冷たい海",
+    "feature": "半透明の体に橙色の内臓が透け、翼のような器官で泳ぐ。",
+    "trivia": "巻貝の仲間で、ミジンウキマイマイなど特定の浮遊性巻貝を捕食する。",
+    "referenceUrl": "https://kids.yahoo.co.jp/zukan/animal/kind/invertebrate/0012.html",
+    "referenceTitle": "Clione limacina",
+    "taxonomyUrl": "https://www.gbif.org/species/5193700",
+    "sourceTaxonKey": 5193700,
+    "hue": 0,
+    "candidateRooms": [
+      "cold-sea"
+    ],
+    "reviewSource": "https://kids.yahoo.co.jp/zukan/animal/kind/invertebrate/0012.html",
+    "reviewStatus": "game-reviewed"
+  },
+  {
+    "id": "exp_224_002",
+    "number": 274,
+    "name": "ステルレットチョウザメ",
+    "scientific": "Acipenser ruthenus",
+    "kind": "basic",
+    "biome": "淡水",
+    "location": "river",
+    "water": "fresh",
+    "rarity": "rare",
+    "rarityOriginal": "レア",
+    "shape": "sturgeon",
+    "model": "sturgeon",
+    "motion": "bottomGlide",
+    "motionLabel": "水底近くをゆっくり移動",
+    "sizeClass": "medium",
+    "referenceCm": 40,
+    "referenceUnit": "全長",
+    "food": [
+      "insects",
+      "seafood"
+    ],
+    "tag": null,
+    "tint": 7833469,
+    "design": {
+      "pattern": "none",
+      "accent": 14210489
+    },
+    "status": "実在の種",
+    "natural": "ユーラシアの大きな川",
+    "feature": "細長い吻の下面に4本のひげがあり、体には硬い骨板が並ぶ。",
+    "trivia": "水底の小動物を探して食べる。尾びれは上側が長い。",
+    "referenceUrl": "https://www.fishbase.se/Summary/SpeciesSummary.php?id=4604&lang=japanese",
+    "referenceTitle": "Acipenser ruthenus",
+    "taxonomyUrl": "https://www.gbif.org/species/2402168",
+    "sourceTaxonKey": 2402168,
+    "hue": 0,
+    "candidateRooms": [
+      "river"
+    ],
+    "reviewSource": "https://www.fishbase.se/Summary/SpeciesSummary.php?id=4604&lang=japanese",
+    "reviewStatus": "game-reviewed"
+  },
+  {
+    "id": "exp_224_003",
+    "number": 275,
+    "name": "ウツボ",
+    "scientific": "Gymnothorax kidako",
+    "kind": "basic",
+    "biome": "砂地",
+    "location": "coast",
+    "water": "marine",
+    "rarity": "rare",
+    "rarityOriginal": "レア",
+    "shape": "moray",
+    "model": "moray",
+    "motion": "bottomGlide",
+    "motionLabel": "水底近くをゆっくり移動",
+    "sizeClass": "medium",
+    "referenceCm": 75,
+    "referenceUnit": "全長",
+    "food": [
+      "seafood"
+    ],
+    "tag": null,
+    "tint": 9993552,
+    "design": {
+      "pattern": "none",
+      "accent": 5260084
+    },
+    "status": "実在の種",
+    "natural": "日本周辺などの沿岸の岩礁",
+    "feature": "黄褐色の細長い体に暗い不規則な帯。胸びれはなく、大きな口を持つ。",
+    "trivia": "昼は岩の穴に潜み、夜間に魚や甲殻類などを捕らえる。",
+    "referenceUrl": "https://japanknowledge.com/contents/nipponica/sample_koumoku.html?entryid=936",
+    "referenceTitle": "Gymnothorax kidako",
+    "taxonomyUrl": "https://www.gbif.org/species/2403745",
+    "sourceTaxonKey": 2403745,
+    "hue": 0,
+    "candidateRooms": [
+      "beach"
+    ],
+    "reviewSource": "https://japanknowledge.com/contents/nipponica/sample_koumoku.html?entryid=936",
+    "reviewStatus": "game-reviewed"
+  }
+]
