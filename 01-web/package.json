@@ -5,7 +5,7 @@
     "build": "node build.mjs",
     "test": "node --test tests/current/*.test.mjs",
     "test:e2e": "node tests/current/habitats-214.e2e.cjs && node tests/current/aquarium-218.e2e.cjs",
-    "test:webgl": "node tests/current/webgl-lifecycle.e2e.cjs",
+    "test:webgl": "node tests/current/webgl-startup.e2e.cjs && node tests/current/webgl-lifecycle.e2e.cjs",
     "thumbs": "node tools/generate-thumbs.cjs",
     "balance:check": "node tools/balance-check.mjs",
     "test:upgrade": "node tests/current/upgrade.e2e.cjs && node tests/current/cross-origin.e2e.cjs && node tests/current/upgrade-27.e2e.cjs && node tests/current/upgrade-28.e2e.cjs && node tests/current/upgrade-29.e2e.cjs && node tests/current/upgrade-210.e2e.cjs && node tests/current/upgrade-211.e2e.cjs && node tests/current/cross-origin-211.e2e.cjs && node tests/current/upgrade-212.e2e.cjs",

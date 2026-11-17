@@ -156,13 +156,14 @@ const root = path.resolve(__dirname, '../..');
     await ready(fallbackPage);
     const fallbackFish = await fish(fallbackPage);
     await fallbackPage.locator('[data-action=room][data-room=reef]').click();
-    assert.match(await fallbackPage.locator('.webgl-fallback').innerText(), /3D表示に対応したブラウザ/);
+    assert.match(await fallbackPage.locator('.webgl-fallback').innerText(), /3D表示を開始できませんでした/);
+    assert.equal((await fallbackPage.evaluate(() => __game.getGraphicsInfo())).status, 'unavailable');
     assert.deepEqual(await fish(fallbackPage), fallbackFish);
     await fallbackPage.locator('[data-screen=explore].nav-item').click();
     assert.equal(await fallbackPage.locator('[data-journey-scene]').getAttribute('data-renderer'), 'fallback');
     assert.ok(await fallbackPage.locator('.journey-fallback').isVisible());
     assert.deepEqual(fallbackErrors, []);
-    console.log('WEBGL: denying context creation reproduces the exact message; navigation and saved fish remain intact');
+    console.log('WEBGL: denying context creation shows an explicit failure and diagnostics; navigation and saved fish remain intact');
   } finally {
     for (const context of contexts) await context.close().catch(() => {});
     if (browser) await browser.close();

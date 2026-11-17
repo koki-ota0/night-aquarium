@@ -8,6 +8,7 @@ import {personalityFor} from './personality.js';
 import {motionProfile,sampleMotion} from './motion-profiles.js';
 import {feedingFrame} from './feeding-effects.js';
 import {createHabitats,HABITAT_FLOORS} from './habitats.js';
+import {createWebGLRenderer,showWebGLFallback} from './webgl-renderer.js';
 
 const TAU=Math.PI*2;
 function seedFor(s){let n=2166136261;for(const c of s)n=Math.imul(n^c.charCodeAt(0),16777619);return (n>>>0)/4294967296;}
@@ -36,8 +37,8 @@ export class AquariumScene {
  constructor({onTap,onHold,onZoom,onMoment,onMomentEnd,onFeedingEnd,canShowMoment}){
   this.onTap=onTap;this.onHold=onHold;this.onZoom=onZoom;this.onMoment=onMoment;this.onMomentEnd=onMomentEnd;this.onFeedingEnd=onFeedingEnd;this.canShowMoment=canShowMoment;this.momentPairs=[];this.activeMoment=null;this.momentSignature='';this.nextMomentAt=0;this.momentCycle=0;this.zoom=1;this.viewMode='drag';this.followUid=null;this.panX=0;this.panY=0;this.stage=null;this.entries=[];this.mode='none';this.sim=0;this.last=null;this.reduceMotion=window.matchMedia?.('(prefers-reduced-motion: reduce)').matches||false;
   const motionPreference=window.matchMedia?.('(prefers-reduced-motion: reduce)');motionPreference?.addEventListener?.('change',event=>{this.reduceMotion=event.matches;if(this.reduceMotion)this.cancelFeedingCamera();});
-  this.canvas=document.createElement('canvas');this.canvas.className='aquarium-canvas';this.canvas.style.touchAction='none';this.canvas.setAttribute('aria-label','生き物が泳ぐ3D水槽。タップでなでる、長押しで詳細。ピンチで拡大できます');
-  try{this.renderer=new THREE.WebGLRenderer({canvas:this.canvas,alpha:true,antialias:true,preserveDrawingBuffer:true,powerPreference:'high-performance'});}catch(e){this.renderer=null;return;}
+  const graphics=createWebGLRenderer({createCanvas:()=>{const canvas=document.createElement('canvas');canvas.className='aquarium-canvas';canvas.style.touchAction='none';canvas.setAttribute('aria-label','生き物が泳ぐ3D水槽。タップでなでる、長押しで詳細。ピンチで拡大できます');return canvas;},createRenderer:options=>new THREE.WebGLRenderer(options)});
+  this.canvas=graphics.canvas;this.renderer=graphics.renderer;this.graphicsDiagnostics=graphics.diagnostics;if(!this.renderer)return;
   this.renderer.setPixelRatio(Math.min(window.devicePixelRatio||1,1.5));this.renderer.outputColorSpace=THREE.SRGBColorSpace;this.renderer.toneMapping=THREE.ACESFilmicToneMapping;this.renderer.toneMappingExposure=1.13;this.renderer.setClearColor(0,0);
   this.scene=new THREE.Scene();this.camera=new THREE.OrthographicCamera(-5,5,5,-5,.1,80);this.camera.position.set(0,6.8,25);this.camera.lookAt(0,-.2,0);this.cameraBase=this.camera.position.clone();this.cameraQuaternion=this.camera.quaternion.clone();this.lowCameraBase=new THREE.Vector3(0,1.5,25);const lowCamera=this.camera.clone();lowCamera.position.copy(this.lowCameraBase);lowCamera.lookAt(0,-.2,0);this.lowCameraQuaternion=lowCamera.quaternion.clone();this.cameraRight=new THREE.Vector3(1,0,0).applyQuaternion(this.camera.quaternion);this.cameraUp=new THREE.Vector3(0,1,0).applyQuaternion(this.camera.quaternion);
   this.scene.add(new THREE.HemisphereLight(0xeaffff,0x516873,1.35));const key=new THREE.DirectionalLight(0xfff4d9,2.15);key.position.set(-5,9,10);this.scene.add(key);const fill=new THREE.DirectionalLight(0x8ee7e6,.6);fill.position.set(7,4,-8);this.scene.add(fill);
@@ -85,7 +86,7 @@ export class AquariumScene {
   const mat=new THREE.MeshBasicMaterial({color:0xc7f6ee,transparent:true,opacity:.32,depthWrite:false});this.bubbles=new THREE.InstancedMesh(new THREE.SphereGeometry(1,8,5),mat,this.bubbleData.length);this.scene.add(this.bubbles);this.tmp=new THREE.Object3D();
  }
  attach(stage,mode='tank'){
-  this.stage=stage;this.mode=mode;if(!this.renderer){stage.innerHTML='<div class="webgl-fallback">3D表示に対応したブラウザでお楽しみください。</div>';return;}
+  this.stage=stage;this.mode=mode;if(!this.renderer){showWebGLFallback(stage,{compact:mode==='title'});return;}
   stage.prepend(this.canvas);this.waterGroup.visible=mode==='tank';this.bubbles.visible=mode!=='tank';this.camera.zoom=mode==='tank'?this.zoom:1;this.camera.updateProjectionMatrix();this.applyCamera();this.resizeObserver.disconnect();this.resizeObserver.observe(stage);this.resize();
  }
  detach(){this.resizeObserver?.disconnect();this.stage=null;this.mode='none';if(this.canvas.parentNode)this.canvas.remove();}
@@ -142,6 +143,7 @@ export class AquariumScene {
  isWideHabitat(){return ['large-cold-sea','large-warm-sea'].includes(this.habitat);}
  setZoom(value){this.cancelFeedingCamera();this.zoom=Math.max(this.isWideHabitat()?.4:.8,Math.min(3,Number(value)||1));if(this.camera&&this.mode==='tank')this.applyCamera();this.onZoom?.(this.zoom);return this.zoom;}
  getZoom(){return this.zoom;}
+ getGraphicsInfo(){return {...structuredClone(this.graphicsDiagnostics),status:this.renderer?(this.renderer.getContext().isContextLost()?'lost':'ready'):'unavailable',width:this.canvas.width,height:this.canvas.height,embedded:window.self!==window.top,browser:navigator.userAgent};}
  // Conservative projected world bounds for automated visual-fit checks.
  getProjectedBounds(uid){
   const a=this.entries.find(e=>e.fish.uid===uid);if(!a||!this.stage||!this.camera)return null;
