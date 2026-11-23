@@ -3,7 +3,9 @@
   "version": "2.29.0",
   "scripts": {
     "build": "node build.mjs",
+    "build:pages": "npm run build && node tools/package-pages.mjs",
     "test": "node --test tests/current/*.test.mjs",
+    "test:pages": "node tests/current/pages.e2e.cjs",
     "test:e2e": "node tests/current/habitats-214.e2e.cjs && node tests/current/aquarium-218.e2e.cjs",
     "test:webgl": "node tests/current/webgl-startup.e2e.cjs && node tests/current/webgl-lifecycle.e2e.cjs",
     "thumbs": "node tools/generate-thumbs.cjs",
