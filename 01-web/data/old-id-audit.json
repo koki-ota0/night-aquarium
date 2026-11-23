@@ -1,0 +1,412 @@
+[
+  {
+    "oldId": "sp_001",
+    "oldName": "アカイソギンチャク",
+    "oldStatus": "名称は総称的",
+    "newName": "タマイタダキイソギンチャク",
+    "newScientific": "Entacmaea quadricolor",
+    "currentId": "real_160",
+    "decision": "保管：旧資料は総称・種群・未確定のため別ID",
+    "oldKind": "environment"
+  },
+  {
+    "oldId": "sp_002",
+    "oldName": "アオイソギンチャク",
+    "oldStatus": "名称は総称的",
+    "newName": "ハタゴイソギンチャク",
+    "newScientific": "Stichodactyla gigantea",
+    "currentId": "real_161",
+    "decision": "保管：旧資料は総称・種群・未確定のため別ID",
+    "oldKind": "environment"
+  },
+  {
+    "oldId": "sp_003",
+    "oldName": "イシサンゴ",
+    "oldStatus": "生物群",
+    "newName": "ウスエダミドリイシ",
+    "newScientific": "Acropora tenuis",
+    "currentId": "real_162",
+    "decision": "保管：旧資料は総称・種群・未確定のため別ID",
+    "oldKind": "environment"
+  },
+  {
+    "oldId": "sp_004",
+    "oldName": "ハナサンゴ",
+    "oldStatus": "名称は総称的",
+    "newName": "ナガレハナサンゴ",
+    "newScientific": "Fimbriaphyllia ancora",
+    "currentId": "real_163",
+    "decision": "保管：旧資料は総称・種群・未確定のため別ID",
+    "oldKind": "environment"
+  },
+  {
+    "oldId": "sp_005",
+    "oldName": "ウミウチワ",
+    "oldStatus": "同名の別生物あり",
+    "newName": "カリビアンシーファン",
+    "newScientific": "Gorgonia ventalina",
+    "currentId": "real_164",
+    "decision": "保管：旧資料は総称・種群・未確定のため別ID",
+    "oldKind": "environment"
+  },
+  {
+    "oldId": "sp_006",
+    "oldName": "アマモ",
+    "oldStatus": "実在の種",
+    "newName": "アマモ",
+    "newScientific": "Zostera marina",
+    "currentId": "sp_006",
+    "decision": "継続：旧資料が実在種として特定",
+    "oldKind": "environment"
+  },
+  {
+    "oldId": "sp_009",
+    "oldName": "ホヤ",
+    "oldStatus": "生物群",
+    "newName": "マボヤ",
+    "newScientific": "Halocynthia roretzi",
+    "currentId": "real_165",
+    "decision": "保管：旧資料は総称・種群・未確定のため別ID",
+    "oldKind": "environment"
+  },
+  {
+    "oldId": "sp_010",
+    "oldName": "イガイ",
+    "oldStatus": "生物群",
+    "newName": "イガイ",
+    "newScientific": "Mytilus unguiculatus",
+    "currentId": "real_166",
+    "decision": "保管：旧資料は総称・種群・未確定のため別ID",
+    "oldKind": "environment"
+  },
+  {
+    "oldId": "sp_011",
+    "oldName": "メダカ",
+    "oldStatus": "実在種群",
+    "newName": "メダカ",
+    "newScientific": "Oryzias latipes",
+    "currentId": "real_167",
+    "decision": "保管：旧資料は総称・種群・未確定のため別ID",
+    "oldKind": "basic"
+  },
+  {
+    "oldId": "sp_013",
+    "oldName": "ドジョウ",
+    "oldStatus": "実在の種",
+    "newName": "ドジョウ",
+    "newScientific": "Misgurnus anguillicaudatus",
+    "currentId": "sp_013",
+    "decision": "継続：旧資料が実在種として特定",
+    "oldKind": "basic"
+  },
+  {
+    "oldId": "sp_014",
+    "oldName": "ネオンテトラ",
+    "oldStatus": "実在の種",
+    "newName": "ネオンテトラ",
+    "newScientific": "Paracheirodon innesi",
+    "currentId": "sp_014",
+    "decision": "継続：旧資料が実在種として特定",
+    "oldKind": "basic"
+  },
+  {
+    "oldId": "sp_015",
+    "oldName": "イシガメ",
+    "oldStatus": "実在の種",
+    "newName": "ニホンイシガメ",
+    "newScientific": "Mauremys japonica",
+    "currentId": "sp_015",
+    "decision": "継続：旧資料が実在種として特定",
+    "oldKind": "basic"
+  },
+  {
+    "oldId": "sp_016",
+    "oldName": "ピラルク",
+    "oldStatus": "実在種群",
+    "newName": "ピラルク",
+    "newScientific": "Arapaima gigas",
+    "currentId": "real_168",
+    "decision": "保管：旧資料は総称・種群・未確定のため別ID",
+    "oldKind": "basic"
+  },
+  {
+    "oldId": "sp_017",
+    "oldName": "アロワナ",
+    "oldStatus": "生物群",
+    "newName": "シルバーアロワナ",
+    "newScientific": "Osteoglossum bicirrhosum",
+    "currentId": "real_169",
+    "decision": "保管：旧資料は総称・種群・未確定のため別ID",
+    "oldKind": "basic"
+  },
+  {
+    "oldId": "sp_025",
+    "oldName": "ミドリガメ",
+    "oldStatus": "実在・別種",
+    "newName": "ミシシッピアカミミガメ",
+    "newScientific": "Trachemys scripta",
+    "currentId": "sp_025",
+    "decision": "継続：旧資料が実在種として特定",
+    "oldKind": "evolution"
+  },
+  {
+    "oldId": "sp_030",
+    "oldName": "クマノミ",
+    "oldStatus": "実在種群",
+    "newName": "クマノミ",
+    "newScientific": "Amphiprion clarkii",
+    "currentId": "real_170",
+    "decision": "保管：旧資料は総称・種群・未確定のため別ID",
+    "oldKind": "basic"
+  },
+  {
+    "oldId": "sp_031",
+    "oldName": "タツノオトシゴ",
+    "oldStatus": "生物群",
+    "newName": "タツノオトシゴ",
+    "newScientific": "Hippocampus coronatus",
+    "currentId": "real_171",
+    "decision": "保管：旧資料は総称・種群・未確定のため別ID",
+    "oldKind": "basic"
+  },
+  {
+    "oldId": "sp_032",
+    "oldName": "キュウセン",
+    "oldStatus": "実在の種",
+    "newName": "キュウセン",
+    "newScientific": "Parajulis poecilepterus",
+    "currentId": "sp_032",
+    "decision": "継続：旧資料が実在種として特定",
+    "oldKind": "basic"
+  },
+  {
+    "oldId": "sp_034",
+    "oldName": "テッポウウオ",
+    "oldStatus": "実在種群",
+    "newName": "テッポウウオ",
+    "newScientific": "Toxotes jaculatrix",
+    "currentId": "real_172",
+    "decision": "保管：旧資料は総称・種群・未確定のため別ID",
+    "oldKind": "basic"
+  },
+  {
+    "oldId": "sp_035",
+    "oldName": "ゴンズイ",
+    "oldStatus": "実在の種",
+    "newName": "ゴンズイ",
+    "newScientific": "Plotosus japonicus",
+    "currentId": "sp_035",
+    "decision": "継続：旧資料が実在種として特定",
+    "oldKind": "basic"
+  },
+  {
+    "oldId": "sp_038",
+    "oldName": "イトマキヒトデ",
+    "oldStatus": "実在の種",
+    "newName": "イトマキヒトデ",
+    "newScientific": "Patiria pectinifera",
+    "currentId": "sp_038",
+    "decision": "継続：旧資料が実在種として特定",
+    "oldKind": "basic"
+  },
+  {
+    "oldId": "sp_053",
+    "oldName": "トビウオ",
+    "oldStatus": "生物群",
+    "newName": "トビウオ",
+    "newScientific": "Cheilopogon agoo",
+    "currentId": "real_173",
+    "decision": "保管：旧資料は総称・種群・未確定のため別ID",
+    "oldKind": "basic"
+  },
+  {
+    "oldId": "sp_054",
+    "oldName": "カマイルカ",
+    "oldStatus": "実在の種",
+    "newName": "カマイルカ",
+    "newScientific": "Lagenorhynchus obliquidens",
+    "currentId": "sp_054",
+    "decision": "継続：旧資料が実在種として特定",
+    "oldKind": "basic"
+  },
+  {
+    "oldId": "sp_055",
+    "oldName": "ネコザメ",
+    "oldStatus": "実在の種",
+    "newName": "ネコザメ",
+    "newScientific": "Heterodontus japonicus",
+    "currentId": "sp_055",
+    "decision": "継続：旧資料が実在種として特定",
+    "oldKind": "basic"
+  },
+  {
+    "oldId": "sp_057",
+    "oldName": "マンタ",
+    "oldStatus": "生物群",
+    "newName": "オニイトマキエイ",
+    "newScientific": "Mobula birostris",
+    "currentId": "real_174",
+    "decision": "保管：旧資料は総称・種群・未確定のため別ID",
+    "oldKind": "basic"
+  },
+  {
+    "oldId": "sp_058",
+    "oldName": "クロマグロ",
+    "oldStatus": "実在の種",
+    "newName": "クロマグロ",
+    "newScientific": "Thunnus orientalis",
+    "currentId": "sp_058",
+    "decision": "継続：旧資料が実在種として特定",
+    "oldKind": "basic"
+  },
+  {
+    "oldId": "sp_059",
+    "oldName": "ハンドウイルカ",
+    "oldStatus": "実在の種",
+    "newName": "バンドウイルカ",
+    "newScientific": "Tursiops truncatus",
+    "currentId": "sp_059",
+    "decision": "継続：旧資料が実在種として特定",
+    "oldKind": "basic"
+  },
+  {
+    "oldId": "sp_060",
+    "oldName": "シャチ",
+    "oldStatus": "実在の種",
+    "newName": "シャチ",
+    "newScientific": "Orcinus orca",
+    "currentId": "sp_060",
+    "decision": "継続：旧資料が実在種として特定",
+    "oldKind": "basic"
+  },
+  {
+    "oldId": "sp_067",
+    "oldName": "アオウミガメ",
+    "oldStatus": "実在の種",
+    "newName": "アオウミガメ",
+    "newScientific": "Chelonia mydas",
+    "currentId": "sp_067",
+    "decision": "継続：旧資料が実在種として特定",
+    "oldKind": "evolution"
+  },
+  {
+    "oldId": "sp_074",
+    "oldName": "アカエイ",
+    "oldStatus": "実在の種",
+    "newName": "アカエイ",
+    "newScientific": "Hemitrygon akajei",
+    "currentId": "sp_074",
+    "decision": "継続：旧資料が実在種として特定",
+    "oldKind": "basic"
+  },
+  {
+    "oldId": "sp_075",
+    "oldName": "マダコ",
+    "oldStatus": "実在の種",
+    "newName": "マダコ",
+    "newScientific": "Octopus sinensis",
+    "currentId": "sp_075",
+    "decision": "継続：旧資料が実在種として特定",
+    "oldKind": "basic"
+  },
+  {
+    "oldId": "sp_076",
+    "oldName": "マコガレイ",
+    "oldStatus": "実在の種",
+    "newName": "マコガレイ",
+    "newScientific": "Pseudopleuronectes yokohamae",
+    "currentId": "sp_076",
+    "decision": "継続：旧資料が実在種として特定",
+    "oldKind": "basic"
+  },
+  {
+    "oldId": "sp_077",
+    "oldName": "バフンウニ",
+    "oldStatus": "実在の種",
+    "newName": "バフンウニ",
+    "newScientific": "Hemicentrotus pulcherrimus",
+    "currentId": "sp_077",
+    "decision": "継続：旧資料が実在種として特定",
+    "oldKind": "basic"
+  },
+  {
+    "oldId": "sp_078",
+    "oldName": "ジュゴン",
+    "oldStatus": "実在の種",
+    "newName": "ジュゴン",
+    "newScientific": "Dugong dugon",
+    "currentId": "sp_078",
+    "decision": "継続：旧資料が実在種として特定",
+    "oldKind": "basic"
+  },
+  {
+    "oldId": "sp_083",
+    "oldName": "ヌマガレイ",
+    "oldStatus": "実在・別種",
+    "newName": "ヌマガレイ",
+    "newScientific": "Platichthys stellatus",
+    "currentId": "sp_083",
+    "decision": "継続：旧資料が実在種として特定",
+    "oldKind": "evolution"
+  },
+  {
+    "oldId": "sp_084",
+    "oldName": "ムラサキウニ",
+    "oldStatus": "実在種群",
+    "newName": "ムラサキウニ",
+    "newScientific": "Heliocidaris crassispina",
+    "currentId": "real_175",
+    "decision": "保管：旧資料は総称・種群・未確定のため別ID",
+    "oldKind": "evolution"
+  },
+  {
+    "oldId": "sp_087",
+    "oldName": "ミズクラゲ",
+    "oldStatus": "実在種群",
+    "newName": "ミズクラゲ",
+    "newScientific": "Aurelia coerulea",
+    "currentId": "real_176",
+    "decision": "保管：旧資料は総称・種群・未確定のため別ID",
+    "oldKind": "basic"
+  },
+  {
+    "oldId": "sp_088",
+    "oldName": "ホタルイカ",
+    "oldStatus": "実在の種",
+    "newName": "ホタルイカ",
+    "newScientific": "Watasenia scintillans",
+    "currentId": "sp_088",
+    "decision": "継続：旧資料が実在種として特定",
+    "oldKind": "basic"
+  },
+  {
+    "oldId": "sp_089",
+    "oldName": "ウナギ",
+    "oldStatus": "生物群",
+    "newName": "ニホンウナギ",
+    "newScientific": "Anguilla japonica",
+    "currentId": "real_177",
+    "decision": "保管：旧資料は総称・種群・未確定のため別ID",
+    "oldKind": "basic"
+  },
+  {
+    "oldId": "sp_090",
+    "oldName": "アンコウ",
+    "oldStatus": "生物群",
+    "newName": "アンコウ",
+    "newScientific": "Lophius litulon",
+    "currentId": "real_178",
+    "decision": "保管：旧資料は総称・種群・未確定のため別ID",
+    "oldKind": "basic"
+  },
+  {
+    "oldId": "sp_091",
+    "oldName": "リーフィーシードラゴン",
+    "oldStatus": "実在の種",
+    "newName": "リーフィーシードラゴン",
+    "newScientific": "Phycodurus eques",
+    "currentId": "sp_091",
+    "decision": "継続：旧資料が実在種として特定",
+    "oldKind": "basic"
+  }
+]

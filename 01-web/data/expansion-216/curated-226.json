@@ -1,0 +1,88 @@
+[
+  {
+    "id": "exp_226_001",
+    "number": 276,
+    "name": "キタオットセイ",
+    "scientific": "Callorhinus ursinus",
+    "kind": "basic",
+    "biome": "外洋",
+    "location": "coast",
+    "water": "marine",
+    "rarity": "rare",
+    "rarityOriginal": "レア",
+    "shape": "seaLion",
+    "model": "seaLion",
+    "motion": "mammal",
+    "motionLabel": "水中を泳ぎ、陸で休む",
+    "sizeClass": "large",
+    "referenceCm": 180,
+    "referenceUnit": "全長",
+    "food": [
+      "seafood"
+    ],
+    "tag": null,
+    "tint": 5523009,
+    "design": {
+      "pattern": "none",
+      "accent": 9995638,
+      "seaLionStyle": "fur"
+    },
+    "status": "実在の種",
+    "natural": "北太平洋やベーリング海",
+    "feature": "濃い体色と密な毛、長めの耳たぶとひれが特徴。",
+    "trivia": "海で魚やイカを捕らえ、繁殖期には島の陸場に上がる。",
+    "referenceUrl": "https://animaldiversity.org/accounts/Callorhinus_ursinus/",
+    "referenceTitle": "Callorhinus ursinus",
+    "taxonomyUrl": "https://www.gbif.org/species/2433487",
+    "sourceTaxonKey": 2433487,
+    "hue": 0,
+    "candidateRooms": [
+      "sea-lion"
+    ],
+    "reviewSource": "https://animaldiversity.org/accounts/Callorhinus_ursinus/",
+    "reviewStatus": "game-reviewed"
+  },
+  {
+    "id": "exp_226_002",
+    "number": 277,
+    "name": "トド",
+    "scientific": "Eumetopias jubatus",
+    "kind": "basic",
+    "biome": "外洋",
+    "location": "coast",
+    "water": "marine",
+    "rarity": "rare",
+    "rarityOriginal": "レア",
+    "shape": "seaLion",
+    "model": "seaLion",
+    "motion": "mammal",
+    "motionLabel": "水中を泳ぎ、陸で休む",
+    "sizeClass": "giant",
+    "referenceCm": 300,
+    "referenceUnit": "全長",
+    "food": [
+      "seafood"
+    ],
+    "tag": null,
+    "tint": 11766886,
+    "design": {
+      "pattern": "none",
+      "accent": 13874317,
+      "seaLionStyle": "steller"
+    },
+    "status": "実在の種",
+    "natural": "北太平洋やオホーツク海の沿岸",
+    "feature": "アシカ科で最大級。明るい褐色の体と太い首が特徴。",
+    "trivia": "魚やイカなどを食べ、岩場で休む。成雄は大きな首とたてがみを持つ。",
+    "referenceUrl": "https://aquarium.co.jp/picturebook/eumetopias-jubatus.html",
+    "referenceTitle": "Eumetopias jubatus",
+    "taxonomyUrl": "https://www.gbif.org/species/2433462",
+    "sourceTaxonKey": 2433462,
+    "hue": 0,
+    "candidateRooms": [
+      "sea-lion"
+    ],
+    "reviewSource": "https://aquarium.co.jp/picturebook/eumetopias-jubatus.html",
+    "reviewStatus": "game-reviewed"
+  }
+]

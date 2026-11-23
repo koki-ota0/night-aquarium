@@ -1,0 +1,174 @@
+[
+  {
+    "id": "exp_222_001",
+    "number": 266,
+    "name": "フンボルトペンギン",
+    "scientific": "Spheniscus humboldti",
+    "kind": "basic",
+    "biome": "外洋",
+    "location": "coast",
+    "water": "marine",
+    "rarity": "rare",
+    "rarityOriginal": "レア",
+    "shape": "penguin",
+    "model": "penguin",
+    "motion": "school",
+    "motionLabel": "水中を泳ぎ、陸で休む",
+    "sizeClass": "medium",
+    "referenceCm": 68,
+    "referenceUnit": "身長",
+    "food": [
+      "seafood"
+    ],
+    "tag": null,
+    "tint": 2699321,
+    "design": {
+      "pattern": "none",
+      "accent": 15855075,
+      "penguinStyle": "humboldt"
+    },
+    "status": "実在の種",
+    "natural": "ペルー・チリの太平洋沿岸",
+    "feature": "胸の黒い帯は１本。顔の白い縁どりと、くちばしの周りのピンク色が特徴。",
+    "trivia": "冷たいフンボルト海流の沿岸で魚などを捕らえる。",
+    "referenceUrl": "https://animaldiversity.org/accounts/Spheniscus_humboldti/",
+    "referenceTitle": "Spheniscus humboldti",
+    "taxonomyUrl": "https://www.gbif.org/species/5229386",
+    "sourceTaxonKey": 5229386,
+    "hue": 0,
+    "candidateRooms": [
+      "penguin"
+    ],
+    "reviewSource": "https://animaldiversity.org/accounts/Spheniscus_humboldti/",
+    "reviewStatus": "game-reviewed"
+  },
+  {
+    "id": "exp_222_002",
+    "number": 267,
+    "name": "ケープペンギン",
+    "scientific": "Spheniscus demersus",
+    "kind": "basic",
+    "biome": "外洋",
+    "location": "coast",
+    "water": "marine",
+    "rarity": "rare",
+    "rarityOriginal": "レア",
+    "shape": "penguin",
+    "model": "penguin",
+    "motion": "school",
+    "motionLabel": "水中を泳ぎ、陸で休む",
+    "sizeClass": "medium",
+    "referenceCm": 60,
+    "referenceUnit": "身長",
+    "food": [
+      "seafood"
+    ],
+    "tag": null,
+    "tint": 2436148,
+    "design": {
+      "pattern": "none",
+      "accent": 15855075,
+      "penguinStyle": "african"
+    },
+    "status": "実在の種",
+    "natural": "南アフリカ・ナミビアの沿岸",
+    "feature": "白い胸の黒い帯と斑点、目の上のピンク色の皮膚が特徴。",
+    "trivia": "南アフリカの冷たい沿岸で小魚を追って泳ぐ。",
+    "referenceUrl": "https://www.penguinsinternational.org/african-penguins/",
+    "referenceTitle": "Spheniscus demersus",
+    "taxonomyUrl": "https://www.gbif.org/species/5229384",
+    "sourceTaxonKey": 5229384,
+    "hue": 0,
+    "candidateRooms": [
+      "penguin"
+    ],
+    "reviewSource": "https://www.penguinsinternational.org/african-penguins/",
+    "reviewStatus": "game-reviewed"
+  },
+  {
+    "id": "exp_222_003",
+    "number": 268,
+    "name": "ガラパゴスペンギン",
+    "scientific": "Spheniscus mendiculus",
+    "kind": "basic",
+    "biome": "外洋",
+    "location": "coast",
+    "water": "marine",
+    "rarity": "rare",
+    "rarityOriginal": "レア",
+    "shape": "penguin",
+    "model": "penguin",
+    "motion": "school",
+    "motionLabel": "水中を泳ぎ、陸で休む",
+    "sizeClass": "medium",
+    "referenceCm": 53,
+    "referenceUnit": "身長",
+    "food": [
+      "seafood"
+    ],
+    "tag": null,
+    "tint": 2501942,
+    "design": {
+      "pattern": "none",
+      "accent": 15855075,
+      "penguinStyle": "galapagos"
+    },
+    "status": "実在の種",
+    "natural": "ガラパゴス諸島の沿岸",
+    "feature": "比較的小型で、顔の白い筋が細く、胸に黒い帯がある。",
+    "trivia": "赤道付近で暮らし、冷たい海流の影響を受ける海で餌をとる。",
+    "referenceUrl": "https://animaldiversity.org/accounts/Spheniscus_mendiculus/",
+    "referenceTitle": "Spheniscus mendiculus",
+    "taxonomyUrl": "https://www.gbif.org/species/5229383",
+    "sourceTaxonKey": 5229383,
+    "hue": 0,
+    "candidateRooms": [
+      "penguin"
+    ],
+    "reviewSource": "https://animaldiversity.org/accounts/Spheniscus_mendiculus/",
+    "reviewStatus": "game-reviewed"
+  },
+  {
+    "id": "exp_222_004",
+    "number": 269,
+    "name": "コガタペンギン",
+    "scientific": "Eudyptula minor",
+    "kind": "basic",
+    "biome": "外洋",
+    "location": "coast",
+    "water": "marine",
+    "rarity": "rare",
+    "rarityOriginal": "レア",
+    "shape": "penguin",
+    "model": "penguin",
+    "motion": "school",
+    "motionLabel": "水中を泳ぎ、陸で休む",
+    "sizeClass": "medium",
+    "referenceCm": 30,
+    "referenceUnit": "身長",
+    "food": [
+      "seafood"
+    ],
+    "tag": null,
+    "tint": 4812429,
+    "design": {
+      "pattern": "none",
+      "accent": 15855075,
+      "penguinStyle": "little"
+    },
+    "status": "実在の種",
+    "natural": "オーストラリア南部・ニュージーランドの沿岸",
+    "feature": "小柄で、背中や頭が藍青色、胸と喉が白い。",
+    "trivia": "岩のすき間や巣穴で休み、魚や小さな海の生き物を捕らえる。",
+    "referenceUrl": "https://animaldiversity.org/accounts/Eudyptula_minor/",
+    "referenceTitle": "Eudyptula minor",
+    "taxonomyUrl": "https://www.gbif.org/species/2481646",
+    "sourceTaxonKey": 2481646,
+    "hue": 0,
+    "candidateRooms": [
+      "penguin"
+    ],
+    "reviewSource": "https://animaldiversity.org/accounts/Eudyptula_minor/",
+    "reviewStatus": "game-reviewed"
+  }
+]

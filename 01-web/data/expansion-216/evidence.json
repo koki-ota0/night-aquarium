@@ -1,0 +1,2893 @@
+[
+  {
+    "candidate_habitat": "deep",
+    "scientific": "Ceratias holboelli",
+    "referenceUrl": "https://www.fishbase.se/summary/Ceratias-holboelli.html",
+    "reviewed": false,
+    "taxonomy": {
+      "usageKey": 5214853,
+      "canonicalName": "Ceratias holboelli",
+      "status": "ACCEPTED",
+      "rank": "SPECIES",
+      "matchType": "EXACT",
+      "confidence": 99
+    },
+    "actualUrl": "https://www.fishbase.se/summary/Ceratias-holboelli.html",
+    "environment": "Environment: milieu / climate zone / depth range / distribution range Ecology Marine;  bathypelagic; depth range 400 - 4400 m (Ref. 74511 ), usually 400 - 2000 m (Ref. 37729 ). Deep-water; 67°N -   45°S, 180°W -   180°E ",
+    "size": "Max length : 16.0 cm SL male/unsexed; (Ref. 7463 ); 120.0 cm TL (female); common length :77 cm TL (female) ",
+    "biology": "Biology Glossary (e.g.  epibenthic) Maximum size observed for free living males is 1.3 cm (Ref. 10524 ).  Males are parasitic, females oviparous with planktonic larvae (Ref. 36494 ).  Eggs are presumably contained in floating gelatinous rafts (Ref. 36494 ). Minimum depth from Ref. 037729 . ",
+    "identityInPage": true
+  },
+  {
+    "candidate_habitat": "deep",
+    "scientific": "Caulophryne jordani",
+    "referenceUrl": "https://www.fishbase.se/summary/Caulophryne-jordani.html",
+    "reviewed": false,
+    "taxonomy": {
+      "usageKey": 2415232,
+      "canonicalName": "Caulophryne jordani",
+      "status": "ACCEPTED",
+      "rank": "SPECIES",
+      "matchType": "EXACT",
+      "confidence": 99
+    },
+    "actualUrl": "https://www.fishbase.se/summary/Caulophryne-jordani.html",
+    "environment": "Environment: milieu / climate zone / depth range / distribution range Ecology Marine;  bathypelagic; depth range 100 - 1510 m (Ref. 5951 ). Deep-water ",
+    "size": "Max length : 11.0 cm TL male/unsexed; (Ref. 7300 ); 20.0 cm TL (female) ",
+    "biology": "Biology Glossary (e.g.  epibenthic) Bathy- and mesopelagic (Ref. 75154 ).  Males parasitic on the females (Ref. 559 ). ",
+    "identityInPage": true
+  },
+  {
+    "candidate_habitat": "deep",
+    "scientific": "Gigantura indica",
+    "referenceUrl": "https://www.fishbase.se/summary/Gigantura-indica.html",
+    "reviewed": false,
+    "taxonomy": {
+      "usageKey": 2401641,
+      "canonicalName": "Gigantura indica",
+      "status": "ACCEPTED",
+      "rank": "SPECIES",
+      "matchType": "EXACT",
+      "confidence": 99
+    },
+    "actualUrl": "https://www.fishbase.se/summary/Gigantura-indica.html",
+    "environment": "Environment: milieu / climate zone / depth range / distribution range Ecology Marine;  bathypelagic; depth range 17 - 2100 m (Ref. 58302 ), usually 500 - 2000 m (Ref. 58302 ). Deep-water ",
+    "size": "Max length : 26.0 cm TL male/unsexed; (Ref. 121807 ) ",
+    "biology": "Biology Glossary (e.g.  epibenthic) Meso- and bathypelagic (Ref. 58302 ).  The species is rare.  Inhabits deep water.  Famous for its bizarre shape and unusual eyes. ",
+    "identityInPage": true
+  },
+  {
+    "candidate_habitat": "deep",
+    "scientific": "Bathylagus antarcticus",
+    "referenceUrl": "https://www.fishbase.se/summary/Bathylagus-antarcticus.html",
+    "reviewed": false,
+    "taxonomy": {
+      "usageKey": 2410975,
+      "canonicalName": "Bathylagus antarcticus",
+      "status": "ACCEPTED",
+      "rank": "SPECIES",
+      "matchType": "EXACT",
+      "confidence": 99
+    },
+    "actualUrl": "https://www.fishbase.se/summary/Bathylagus-antarcticus.html",
+    "environment": "Environment: milieu / climate zone / depth range / distribution range Ecology Marine;  bathypelagic; depth range 0 - 4000 m (Ref. 5002 ). Deep-water; 45°S -   74°S ",
+    "size": "Max length : 19.0 cm SL male/unsexed; (Ref. 128038 ) ",
+    "biology": "Biology Glossary (e.g.  epibenthic) Some studies on feeding have shown that euphausiids comprised 46% by weight of the food consumed by this species.  Spawning probably occurs 3-4 times a year (Ref. 5002 ). ",
+    "identityInPage": true
+  },
+  {
+    "candidate_habitat": "deep",
+    "scientific": "Eustomias trewavasae",
+    "referenceUrl": "https://www.fishbase.se/summary/Eustomias-trewavasae.html",
+    "reviewed": false,
+    "taxonomy": {
+      "usageKey": 5203229,
+      "canonicalName": "Eustomias trewavasae",
+      "status": "ACCEPTED",
+      "rank": "SPECIES",
+      "matchType": "EXACT",
+      "confidence": 99
+    },
+    "actualUrl": "https://www.fishbase.se/summary/Eustomias-trewavasae.html",
+    "environment": "Environment: milieu / climate zone / depth range / distribution range Ecology Marine;  bathypelagic; depth range 0 - 1000 m (Ref. 58018 ). Deep-water; 33°S -   40°S ",
+    "size": "Max length : 26.0 cm TL male/unsexed; (Ref. 3984 ) ",
+    "biology": "Biology Glossary (e.g.  epibenthic) Mesopelagic species (Ref. 7300 ). ",
+    "identityInPage": true
+  },
+  {
+    "candidate_habitat": "deep",
+    "scientific": "Parabrotula tanseimaru",
+    "referenceUrl": "https://www.fishbase.se/summary/Parabrotula-tanseimaru.html",
+    "reviewed": false,
+    "taxonomy": {
+      "usageKey": 2346416,
+      "canonicalName": "Parabrotula tanseimaru",
+      "status": "ACCEPTED",
+      "rank": "SPECIES",
+      "matchType": "EXACT",
+      "confidence": 99
+    },
+    "actualUrl": "https://www.fishbase.se/summary/Parabrotula-tanseimaru.html",
+    "environment": "Environment: milieu / climate zone / depth range / distribution range Ecology Marine;  bathypelagic; depth range 0 - 1300 m (Ref. 34721 ). Deep-water ",
+    "size": "Max length : 5.0 cm SL male/unsexed; (Ref. 34721 ); 5.0 cm SL (female) Biology Glossary (e.g.  epibenthic) Occurs in pseudoceanic bathypelagic depths. Feeds primarily on copepods (Ref. 34721 ). Viviparous (Ref. 34721 ). Life cycle and mating behavior Maturity | Reproduction | Spawning | Eggs | Fecundity | Larvae Main reference Upload your reference",
+    "biology": "Biology Glossary (e.g.  epibenthic) Occurs in pseudoceanic bathypelagic depths. Feeds primarily on copepods (Ref. 34721 ). Viviparous (Ref. 34721 ). ",
+    "identityInPage": true
+  },
+  {
+    "candidate_habitat": "deep",
+    "scientific": "Acanthonus armatus",
+    "referenceUrl": "https://www.fishbase.se/summary/Acanthonus-armatus.html",
+    "reviewed": false,
+    "taxonomy": {
+      "usageKey": 2345632,
+      "canonicalName": "Acanthonus armatus",
+      "status": "ACCEPTED",
+      "rank": "SPECIES",
+      "matchType": "EXACT",
+      "confidence": 99
+    },
+    "actualUrl": "https://www.fishbase.se/summary/Acanthonus-armatus.html",
+    "environment": "Environment: milieu / climate zone / depth range / distribution range Ecology Marine;  bathypelagic; depth range 1171 - 4415 m (Ref. 75877 ). Deep-water; 36°N -   23°S, 81°W -   154°E ",
+    "size": "Max length : 37.5 cm SL male/unsexed; (Ref. 34024 ) ",
+    "biology": "Biology Glossary (e.g.  epibenthic) Benthopelagic at bathyal and abyssal depths (Ref. 56809 ).  Common species (Ref. 34024 ).  Oviparous, with oval pelagic eggs floating in a gelatinous mass (Ref. 205 ).  Noted as having the smallest relative brain size among teleosts, and remarkably large semicircular canals (Ref. 7463 ). ",
+    "identityInPage": true
+  },
+  {
+    "candidate_habitat": "deep",
+    "scientific": "Melanocetus eustalus",
+    "referenceUrl": "https://www.fishbase.se/summary/Melanocetus-eustalus.html",
+    "reviewed": false,
+    "taxonomy": {
+      "usageKey": 2414317,
+      "canonicalName": "Melanocetus eustalus",
+      "status": "ACCEPTED",
+      "rank": "SPECIES",
+      "matchType": "EXACT",
+      "confidence": 99
+    },
+    "actualUrl": "https://www.fishbase.se/summary/Melanocetus-eustalus.html",
+    "environment": "Environment: milieu / climate zone / depth range / distribution range Ecology Marine;  bathypelagic; depth range 0 - 1675 m (Ref. 46206 ). Deep-water ",
+    "size": "Max length : 11.1 cm SL (female) ",
+    "biology": "Biology Glossary (e.g.  epibenthic) ",
+    "identityInPage": true
+  },
+  {
+    "candidate_habitat": "deep",
+    "scientific": "Lophius vomerinus",
+    "referenceUrl": "https://www.fishbase.se/summary/Lophius-vomerinus.html",
+    "reviewed": false,
+    "taxonomy": {
+      "usageKey": 2415073,
+      "canonicalName": "Lophius vomerinus",
+      "status": "ACCEPTED",
+      "rank": "SPECIES",
+      "matchType": "EXACT",
+      "confidence": 99
+    },
+    "actualUrl": "https://www.fishbase.se/summary/Lophius-vomerinus.html",
+    "environment": "Environment: milieu / climate zone / depth range / distribution range Ecology Marine;  bathydemersal; depth range 150 - 400 m (Ref. 27121 ). Deep-water; 25°N -   37°S, 12°E -   99°E (Ref. 54569 ) ",
+    "size": "Max length : 100.0 cm TL male/unsexed; (Ref. 4108 ); common length : 50.0 cm TL male/unsexed; (Ref. 3427 ); max. reported age: 11 years (Ref. 36279 ) Biology Glossary (e.g.  epibenthic) Found on the deeper continental shelf and upper slope (Ref. 27121 ).  Feeds mainly on bottom-living fishes (Ref. 27121 , 27637 ) often on pilchard, round herring an",
+    "biology": "Biology Glossary (e.g.  epibenthic) Found on the deeper continental shelf and upper slope (Ref. 27121 ).  Feeds mainly on bottom-living fishes (Ref. 27121 , 27637 ) often on pilchard, round herring and horse mackerel (Ref. 36731 ).  Minimum depth reported from Ref. 5213 . ",
+    "identityInPage": true
+  },
+  {
+    "candidate_habitat": "deep",
+    "scientific": "Lophiodes kempi",
+    "referenceUrl": "https://www.fishbase.se/summary/Lophiodes-kempi.html",
+    "reviewed": false,
+    "taxonomy": {
+      "usageKey": 2415051,
+      "canonicalName": "Lophiodes kempi",
+      "status": "ACCEPTED",
+      "rank": "SPECIES",
+      "matchType": "EXACT",
+      "confidence": 99
+    },
+    "actualUrl": "https://www.fishbase.se/summary/Lophiodes-kempi.html",
+    "environment": "Environment: milieu / climate zone / depth range / distribution range Ecology Marine;  demersal; depth range 50 - 400 m (Ref. 2683 ). Deep-water; 20°N -   5°S ",
+    "size": "Max length : 40.0 cm TL male/unsexed; (Ref. 26999 ); common length : 12.0 cm TL male/unsexed; (Ref. 7400 ) Biology Glossary (e.g.  epibenthic) Found in the outer shelf and upper slope waters (7400). Life cycle and mating behavior Maturity | Reproduction | Spawning | Eggs | Fecundity | Larvae Main reference Upload your references | References | Coor",
+    "biology": "Biology Glossary (e.g.  epibenthic) Found in the outer shelf and upper slope waters (7400). ",
+    "identityInPage": true
+  },
+  {
+    "candidate_habitat": "deep",
+    "scientific": "Lophiodes mutilus",
+    "referenceUrl": "https://www.fishbase.se/summary/Lophiodes-mutilus.html",
+    "reviewed": false,
+    "taxonomy": {
+      "usageKey": 2415030,
+      "canonicalName": "Lophiodes mutilus",
+      "status": "ACCEPTED",
+      "rank": "SPECIES",
+      "matchType": "EXACT",
+      "confidence": 99
+    },
+    "actualUrl": "https://www.fishbase.se/summary/Lophiodes-mutilus.html",
+    "environment": "Environment: milieu / climate zone / depth range / distribution range Ecology Marine;  bathydemersal; depth range 234 - 760 m (Ref. 44037 ). Deep-water ",
+    "size": "Max length : 45.0 cm TL male/unsexed; (Ref. 5213 ); common length : 30.0 cm TL male/unsexed; (Ref. 3461 ) ",
+    "biology": "Biology Glossary (e.g.  epibenthic) Found on the outer continental shelf and upper slope.  Feeds mainly on fishes (Ref. 5236 ).  Minimum depth from Ref. 58018 . ",
+    "identityInPage": true
+  },
+  {
+    "candidate_habitat": "deep",
+    "scientific": "Caristius macropus",
+    "referenceUrl": "https://www.fishbase.se/summary/Caristius-macropus.html",
+    "reviewed": false,
+    "taxonomy": {
+      "usageKey": 2392038,
+      "canonicalName": "Caristius macropus",
+      "status": "ACCEPTED",
+      "rank": "SPECIES",
+      "matchType": "EXACT",
+      "confidence": 99
+    },
+    "actualUrl": "https://www.fishbase.se/summary/Caristius-macropus.html",
+    "environment": "Environment: milieu / climate zone / depth range / distribution range Ecology Marine;  bathypelagic; depth range 200 - 1450 m (Ref. 87086 ). Deep-water; 66°N - ",
+    "size": "Max length : 32.0 cm TL male/unsexed; (Ref. 2850 ) ",
+    "biology": "Biology Glossary (e.g.  epibenthic) Occurs in midwaters in temperate latitudes.  Fish remains have been found in manefish stomachs (Ref. 4525 ).  From fry catches, it apparently reproduces in the subtropical zone (Ref. 95096 ). ",
+    "identityInPage": true
+  },
+  {
+    "candidate_habitat": "deep",
+    "scientific": "Alepisaurus ferox",
+    "referenceUrl": "https://www.fishbase.se/summary/Alepisaurus-ferox.html",
+    "reviewed": false,
+    "taxonomy": {
+      "usageKey": 2401692,
+      "canonicalName": "Alepisaurus ferox",
+      "status": "ACCEPTED",
+      "rank": "SPECIES",
+      "matchType": "EXACT",
+      "confidence": 99
+    },
+    "actualUrl": "https://www.fishbase.se/summary/Alepisaurus-ferox.html",
+    "environment": "Environment: milieu / climate zone / depth range / distribution range Ecology Marine;  bathypelagic; oceanodromous (Ref. 51887 ); depth range 0 - 1830 m (Ref. 50550 ). Deep-water; 84°N -   57°S, 180°W -   180°E ",
+    "size": "Max length : 215 cm TL male/unsexed; (Ref. 7251 ); common length : 150 cm TL male/unsexed; (Ref. 5217 ); max. published weight: 9.0 kg (Ref. 42154 ) ",
+    "biology": "Biology Glossary (e.g.  epibenthic) Mainly inhabit tropical and subtropical waters; however, during the feeding period adults may migrate to the subarctic reaching as far north as Greenland, Iceland and the Bering Sea (Ref. 51887 ).  Epipelagic- and mesopelagic, from near the surface to below 1,000 m, sometimes approaching inshore waters (Ref. 6011 ).  Bathypelagic (Ref. 58302 ).  Mainly nocturnal.  Feeds on fishes, cephalopods, tunicates, and crustaceans (Ref. 6011 ).  Preyed upon by opah, sharks, albacore, yellowfin tuna, and fur seals (Ref. 6885 ).  Oviparous, with planktonic larvae (Ref. 36025 ).  Are synchronous hermaphrodites (Ref. 84733 ).  Occasionally consumed but of little importance due to its soft flesh (Ref. 5217 ).  The maximum weight given is for a 167 cm FL specimen (Ref. 42154 ). ",
+    "identityInPage": true
+  },
+  {
+    "candidate_habitat": "lake",
+    "scientific": "Mylochromis spilostichus",
+    "referenceUrl": "https://www.fishbase.se/summary/Mylochromis-spilostichus.html",
+    "reviewed": false,
+    "taxonomy": {
+      "usageKey": 2372205,
+      "canonicalName": "Mylochromis spilostichus",
+      "status": "ACCEPTED",
+      "rank": "SPECIES",
+      "matchType": "EXACT",
+      "confidence": 99
+    },
+    "actualUrl": "https://www.fishbase.se/summary/Mylochromis-spilostichus.html",
+    "environment": "Environment: milieu / climate zone / depth range / distribution range Ecology Freshwater;  demersal; depth range 18 - 70 m. Tropical; 12°S -   15°S ",
+    "size": "Max length : 22.2 cm TL male/unsexed; (Ref. 5692 ) ",
+    "biology": "Biology Glossary (e.g.  epibenthic) Found over sandy substrate.  Piscivorous.  Feeds by chasing fish close to the substrate (Ref. 5595 ). ",
+    "identityInPage": true
+  },
+  {
+    "candidate_habitat": "lake",
+    "scientific": "Copadichromis trewavasae",
+    "referenceUrl": "https://www.fishbase.se/summary/Copadichromis-trewavasae.html",
+    "reviewed": false,
+    "taxonomy": {
+      "usageKey": 2373858,
+      "canonicalName": "Copadichromis trewavasae",
+      "status": "ACCEPTED",
+      "rank": "SPECIES",
+      "matchType": "EXACT",
+      "confidence": 99
+    },
+    "actualUrl": "https://www.fishbase.se/summary/Copadichromis-trewavasae.html",
+    "environment": "Environment: milieu / climate zone / depth range / distribution range Ecology Freshwater;  benthopelagic; depth range 10 - 30 m (Ref. 47113 ), usually 15 - 25 m (Ref. 57549 ). Tropical ",
+    "size": "Max length : 10.5 cm SL male/unsexed; (Ref. 47113 ); 8.3 cm SL (female) ",
+    "biology": "Biology Glossary (e.g.  epibenthic) Inhabits the sand/rock interface (Ref. 47113 , 57549 ) where sand and rocks are found in almost equal proportions (Ref. 47113 ). Territorial males construct a bower next to a rock, under which spawning takes place; females normally occur in small groups rarely numbering more than 10 individuals and remain close to the bottom (Ref. 57549 ). Mouthbrooding females remain closer to the bottom than foraging females and sometimes form small groups (Ref. 47113 ). Both males and females feed on plankton in the water column near the bottom and on benthic invertebrates (Ref. 57549 ). ",
+    "identityInPage": true
+  },
+  {
+    "candidate_habitat": "lake",
+    "scientific": "Lamprologus speciosus",
+    "referenceUrl": "https://www.fishbase.se/summary/Lamprologus-speciosus.html",
+    "reviewed": false,
+    "taxonomy": {
+      "usageKey": 2371681,
+      "canonicalName": "Lamprologus speciosus",
+      "status": "ACCEPTED",
+      "rank": "SPECIES",
+      "matchType": "EXACT",
+      "confidence": 99
+    },
+    "actualUrl": "https://www.fishbase.se/summary/Lamprologus-speciosus.html",
+    "environment": "Environment: milieu / climate zone / depth range / distribution range Ecology Freshwater;  benthopelagic; pH range: 7.4 - 8.4; dH range: 7 - 30; depth range 3 - 60 m, usually 5 - 40 m (Ref. 52467 ). Tropical; 23°C - 27°C (Ref. 12468 ) ",
+    "size": "Max length : 5.0 cm TL male/unsexed; (Ref. 12468 ) Biology Glossary (e.g.  epibenthic) Shell-brooding cichlid found in low-density shell areas; greedy eater, feeding mainly on insect larvae (Ref. 46829 ). Lives on sandy bottom with snail shells wich are burried in the sand and used as shelter and for depositing the eggs (Ref. 52467 ). Found between",
+    "biology": "Biology Glossary (e.g.  epibenthic) Shell-brooding cichlid found in low-density shell areas; greedy eater, feeding mainly on insect larvae (Ref. 46829 ). Lives on sandy bottom with snail shells wich are burried in the sand and used as shelter and for depositing the eggs (Ref. 52467 ). Found between 5 m and 40 m deep (Ref. 93961 ). ",
+    "identityInPage": true
+  },
+  {
+    "candidate_habitat": "lake",
+    "scientific": "Petrochromis trewavasae",
+    "referenceUrl": "https://www.fishbase.se/summary/Petrochromis-trewavasae.html",
+    "reviewed": false,
+    "taxonomy": {
+      "usageKey": 4285702,
+      "canonicalName": "Petrochromis trewavasae",
+      "status": "ACCEPTED",
+      "rank": "SPECIES",
+      "matchType": "EXACT",
+      "confidence": 99
+    },
+    "actualUrl": "https://www.fishbase.se/summary/Petrochromis-trewavasae.html",
+    "environment": "Environment: milieu / climate zone / depth range / distribution range Ecology Freshwater;  benthopelagic; pH range: 7.5 - 8.5; dH range: 10 - ?. Tropical; 23°C - 25°C (Ref. 2060 ); 7°S -   9°S ",
+    "size": "Max length : 18.0 cm TL male/unsexed; (Ref. 5679 ) Biology Glossary (e.g.  epibenthic) Lives in the shallow, rocky habitat; extremely shy; usually found in groups; feeds on algae and has long digestive tract (Ref. 46829 ). Feeds by scraping rock biocover (Ref. 6770 , 46829 ). Females brood their young in the mouth (Ref. 46829 , 86760 ). Life cycle ",
+    "biology": "Biology Glossary (e.g.  epibenthic) Lives in the shallow, rocky habitat; extremely shy; usually found in groups; feeds on algae and has long digestive tract (Ref. 46829 ). Feeds by scraping rock biocover (Ref. 6770 , 46829 ). Females brood their young in the mouth (Ref. 46829 , 86760 ). ",
+    "identityInPage": true
+  },
+  {
+    "candidate_habitat": "lake",
+    "scientific": "Neolamprologus pectoralis",
+    "referenceUrl": "https://www.fishbase.se/summary/Neolamprologus-pectoralis.html",
+    "reviewed": false,
+    "taxonomy": {
+      "usageKey": 2371785,
+      "canonicalName": "Neolamprologus pectoralis",
+      "status": "ACCEPTED",
+      "rank": "SPECIES",
+      "matchType": "EXACT",
+      "confidence": 99
+    },
+    "actualUrl": "https://www.fishbase.se/summary/Neolamprologus-pectoralis.html",
+    "environment": "Environment: milieu / climate zone / depth range / distribution range Ecology Freshwater;  benthopelagic; pH range: 7.5 - 9.0; dH range: 10 - 25; depth range 15 - 45 m (Ref. 93980 ). Tropical; 24°C - 28°C (Ref. 12468 ) ",
+    "size": "Max length : 14.0 cm TL male/unsexed; (Ref. 46829 ) Biology Glossary (e.g.  epibenthic) This species is not very colorful (Ref. 12251 ). Lives in the intermediate habitat, which is characterized by a sandy bottom with numerous rocks; maintains close contact with rocky substrate; ventral part of body remains just few millimeters above substrate whil",
+    "biology": "Biology Glossary (e.g.  epibenthic) This species is not very colorful (Ref. 12251 ). Lives in the intermediate habitat, which is characterized by a sandy bottom with numerous rocks; maintains close contact with rocky substrate; ventral part of body remains just few millimeters above substrate while fish follows contours of rock; rare cichlid; occurs at dephts deeper than 15 m; highly developed lateral line system for prey detection (Ref. 46829 ). Crustaceans, insect larvae, copepods, snail fragments, plant material and sand grains found in stomach (Ref. 46829 , 93980 ). ",
+    "identityInPage": true
+  },
+  {
+    "candidate_habitat": "lake",
+    "scientific": "Cyprichromis coloratus",
+    "referenceUrl": "https://www.fishbase.se/summary/Cyprichromis-coloratus.html",
+    "reviewed": false,
+    "taxonomy": {
+      "usageKey": 2372104,
+      "canonicalName": "Cyprichromis coloratus",
+      "status": "ACCEPTED",
+      "rank": "SPECIES",
+      "matchType": "EXACT",
+      "confidence": 99
+    },
+    "actualUrl": "https://www.fishbase.se/summary/Cyprichromis-coloratus.html",
+    "environment": "Environment: milieu / climate zone / depth range / distribution range Ecology Freshwater;  pelagic; depth range 5 - 60 m (Ref. 57033 ), usually 15 - 35 m (Ref. 57033 ). Tropical ",
+    "size": "Max length : 10.3 cm SL male/unsexed; (Ref. 57033 ); 9.2 cm SL (female) ",
+    "biology": "Biology Glossary (e.g.  epibenthic) Occurs exclusively over rocky substratum, 1-5 m above the bottom from 5 m to at least 35 m depth; most abundant at ca. 15 m depth; females and sub-adult males forms mixed-species schools; adult males each maintain territories above adjacent large rocks or boulders; feed almost exclusively on cyploploid copepodids; mouthbrooding females (Ref. 57033 ). ",
+    "identityInPage": true
+  },
+  {
+    "candidate_habitat": "lake",
+    "scientific": "Cyprichromis pavo",
+    "referenceUrl": "https://www.fishbase.se/summary/Cyprichromis-pavo.html",
+    "reviewed": false,
+    "taxonomy": {
+      "usageKey": 2372103,
+      "canonicalName": "Cyprichromis pavo",
+      "status": "ACCEPTED",
+      "rank": "SPECIES",
+      "matchType": "EXACT",
+      "confidence": 99
+    },
+    "actualUrl": "https://www.fishbase.se/summary/Cyprichromis-pavo.html",
+    "environment": "Environment: milieu / climate zone / depth range / distribution range Ecology Freshwater;  demersal; depth range 20 - 50 m (Ref. 103657 ). Tropical ",
+    "size": "Max length : 10.0 cm SL male/unsexed; (Ref. 103657 ) ",
+    "biology": "Biology Glossary (e.g.  epibenthic) Found rocky habitats in in-shore waters at a depth of usually 20 to 50 meters; copepods and algae were found in stomach (Ref. 103657 ). ",
+    "identityInPage": true
+  },
+  {
+    "candidate_habitat": "lake",
+    "scientific": "Cyphotilapia frontosa",
+    "referenceUrl": "https://www.fishbase.se/summary/Cyphotilapia-frontosa.html",
+    "reviewed": false,
+    "taxonomy": {
+      "usageKey": 2373233,
+      "canonicalName": "Cyphotilapia frontosa",
+      "status": "ACCEPTED",
+      "rank": "SPECIES",
+      "matchType": "EXACT",
+      "confidence": 99
+    },
+    "actualUrl": "https://www.fishbase.se/summary/Cyphotilapia-frontosa.html",
+    "environment": "Environment: milieu / climate zone / depth range / distribution range Ecology Freshwater;  benthopelagic; pH range: 8.0 - ? ; dH range: 8 - 12. Tropical; 24°C - 26°C (Ref. 1672 ); 3°S -   10°S ",
+    "size": "Max length : 33.0 cm TL male/unsexed; (Ref. 5623 ) Biology Glossary (e.g.  epibenthic) Rock-dwellers, often in aggregation (Ref. 86760 ).  Omnivorous, feed on shellfish (snails and mussels) and fish (Ref. 6770 ). Food intake of mouth brooding females is for nourishment of both themselves and the young (Ref. 33980 ). Aquarium keeping: several female",
+    "biology": "Biology Glossary (e.g.  epibenthic) Rock-dwellers, often in aggregation (Ref. 86760 ).  Omnivorous, feed on shellfish (snails and mussels) and fish (Ref. 6770 ). Food intake of mouth brooding females is for nourishment of both themselves and the young (Ref. 33980 ). Aquarium keeping: several females for one male; minimum aquarium size  >200 cm (Ref. 51539 ). ",
+    "identityInPage": true
+  },
+  {
+    "candidate_habitat": "lake",
+    "scientific": "Tropheus duboisi",
+    "referenceUrl": "https://www.fishbase.se/summary/Tropheus-duboisi.html",
+    "reviewed": false,
+    "taxonomy": {
+      "usageKey": 2372570,
+      "canonicalName": "Tropheus duboisi",
+      "status": "ACCEPTED",
+      "rank": "SPECIES",
+      "matchType": "EXACT",
+      "confidence": 99
+    },
+    "actualUrl": "https://www.fishbase.se/summary/Tropheus-duboisi.html",
+    "environment": "Environment: milieu / climate zone / depth range / distribution range Ecology Freshwater;  demersal; pH range: 8.5 - 9.0; dH range: 10 - 12. Tropical; 24°C - 26°C (Ref. 1672 ); 3°S -   6°S ",
+    "size": "Max length : 12.0 cm TL male/unsexed; (Ref. 5713 ) Biology Glossary (e.g.  epibenthic) Prefers the upper rocky habitat where it feeds on the algae attached to the rocks (Ref. 7343 , 46829 ). Occurs to a depth of 30 m; maternal mouthbrooder; females guard their offspring for a few days after releasing them for first time (Ref. 46829 ). Aquarium keep",
+    "biology": "Biology Glossary (e.g.  epibenthic) Prefers the upper rocky habitat where it feeds on the algae attached to the rocks (Ref. 7343 , 46829 ). Occurs to a depth of 30 m; maternal mouthbrooder; females guard their offspring for a few days after releasing them for first time (Ref. 46829 ). Aquarium keeping: many females for one male; minimum aquarium size 150 cm (Ref. 51539 ). ",
+    "identityInPage": true
+  },
+  {
+    "candidate_habitat": "lake",
+    "scientific": "Cyprichromis zonatus",
+    "referenceUrl": "https://www.fishbase.se/summary/Cyprichromis-zonatus.html",
+    "reviewed": false,
+    "taxonomy": {
+      "usageKey": 2372097,
+      "canonicalName": "Cyprichromis zonatus",
+      "status": "ACCEPTED",
+      "rank": "SPECIES",
+      "matchType": "EXACT",
+      "confidence": 99
+    },
+    "actualUrl": "https://www.fishbase.se/summary/Cyprichromis-zonatus.html",
+    "environment": "Environment: milieu / climate zone / depth range / distribution range Ecology Freshwater;  demersal; depth range 9 - 30 m (Ref. 46826 ), usually ? - 20 m (Ref. 46828 ). Tropical ",
+    "size": "Max length : 8.6 cm SL male/unsexed; (Ref. 46826 ); 8.1 cm SL (female) ",
+    "biology": "Biology Glossary (e.g.  epibenthic) Found 1-5 m above rocky bottoms; forms schools consisting of females and sub-adult males (often joining other schools of related species); mature males keeping a territory above a large rock or boulder in areas 15-25 m depth; mouthbrooder (Ref. 46826 ). ",
+    "identityInPage": true
+  },
+  {
+    "candidate_habitat": "lake",
+    "scientific": "Cyathopharynx furcifer",
+    "referenceUrl": "https://www.fishbase.se/summary/Cyathopharynx-furcifer.html",
+    "reviewed": false,
+    "taxonomy": {
+      "usageKey": 2371966,
+      "canonicalName": "Cyathopharynx furcifer",
+      "status": "ACCEPTED",
+      "rank": "SPECIES",
+      "matchType": "EXACT",
+      "confidence": 99
+    },
+    "actualUrl": "https://www.fishbase.se/summary/Cyathopharynx-furcifer.html",
+    "environment": "Environment: milieu / climate zone / depth range / distribution range Ecology Freshwater;  benthopelagic; pH range: 8.0 - 9.0; dH range: 9 - 19. Tropical; 24°C - 26°C (Ref. 2060 ); 3°S -   10°S ",
+    "size": "Max length : 21.0 cm TL male/unsexed; (Ref. 5620 ) Biology Glossary (e.g.  epibenthic) Adults are gregarious, drifting plankton picker which occur off rocky slopes (Ref. 6770 ).  Females brood their young in the mouth (Ref. 86760 ). Life cycle and mating behavior Maturity | Reproduction | Spawning | Eggs | Fecundity | Larvae Eggs from the cleavage ",
+    "biology": "Biology Glossary (e.g.  epibenthic) Adults are gregarious, drifting plankton picker which occur off rocky slopes (Ref. 6770 ).  Females brood their young in the mouth (Ref. 86760 ). ",
+    "identityInPage": true
+  },
+  {
+    "candidate_habitat": "lake",
+    "scientific": "Cyphotilapia gibberosa",
+    "referenceUrl": "https://www.fishbase.se/summary/Cyphotilapia-gibberosa.html",
+    "reviewed": false,
+    "taxonomy": {
+      "usageKey": 2373237,
+      "canonicalName": "Cyphotilapia gibberosa",
+      "status": "ACCEPTED",
+      "rank": "SPECIES",
+      "matchType": "EXACT",
+      "confidence": 99
+    },
+    "actualUrl": "https://www.fishbase.se/summary/Cyphotilapia-gibberosa.html",
+    "environment": "Environment: milieu / climate zone / depth range / distribution range Ecology Freshwater;  benthopelagic; depth range 34 - 34 m (Ref. 58018 ). Tropical ",
+    "size": "Max length : 21.0 cm SL male/unsexed; (Ref. 52029 ) ",
+    "biology": "Biology Glossary (e.g.  epibenthic) Type specimen was caught at a depth of 34 m (Ref. 52029 ). Cyphotilapia species are known to occur in big schools in the 30 to 40 meter layer or even deeper (Ref. 6770 ). ",
+    "identityInPage": true
+  },
+  {
+    "candidate_habitat": "lake",
+    "scientific": "Nyassachromis boadzulu",
+    "referenceUrl": "https://www.fishbase.se/summary/Nyassachromis-boadzulu.html",
+    "reviewed": false,
+    "taxonomy": {
+      "usageKey": 2370074,
+      "canonicalName": "Nyassachromis boadzulu",
+      "status": "ACCEPTED",
+      "rank": "SPECIES",
+      "matchType": "EXACT",
+      "confidence": 99
+    },
+    "actualUrl": "https://www.fishbase.se/summary/Nyassachromis-boadzulu.html",
+    "environment": "Environment: milieu / climate zone / depth range / distribution range Ecology Freshwater;  benthopelagic. Tropical; 24°C - 26°C (Ref. 2060 ); 14°S -   15°S ",
+    "size": "Max length : 14.0 cm TL male/unsexed; (Ref. 4979 ) Biology Glossary (e.g.  epibenthic) Often found in shallow water over open sand floors; also found near small rocks and rubble on the bottom (Ref. 5595 ).  Feeds exclusively on zooplankton (Ref. 267 ). Life cycle and mating behavior Maturity | Reproduction | Spawning | Eggs | Fecundity | Larvae Mai",
+    "biology": "Biology Glossary (e.g.  epibenthic) Often found in shallow water over open sand floors; also found near small rocks and rubble on the bottom (Ref. 5595 ).  Feeds exclusively on zooplankton (Ref. 267 ). ",
+    "identityInPage": true
+  },
+  {
+    "candidate_habitat": "lake",
+    "scientific": "Labidochromis maculicauda",
+    "referenceUrl": "https://www.fishbase.se/summary/Labidochromis-maculicauda.html",
+    "reviewed": false,
+    "taxonomy": {
+      "usageKey": 2371646,
+      "canonicalName": "Labidochromis maculicauda",
+      "status": "ACCEPTED",
+      "rank": "SPECIES",
+      "matchType": "EXACT",
+      "confidence": 99
+    },
+    "actualUrl": "https://www.fishbase.se/summary/Labidochromis-maculicauda.html",
+    "environment": "Environment: milieu / climate zone / depth range / distribution range Ecology Freshwater;  benthopelagic. Tropical; 24°C - 26°C (Ref. 13614 ); 9°S -   12°S ",
+    "size": "Max length : 6.4 cm SL male/unsexed; (Ref. 5653 ) ",
+    "biology": "Biology Glossary (e.g.  epibenthic) Is abundant in shallow water, mainly over rocks, and occurs down to a depth of 12 m.  Feeds primarily on chironomid larvae, but also feeds on trichopteran larvae, ostracods and other small invertebrates (Ref. 4889 ). ",
+    "identityInPage": true
+  },
+  {
+    "candidate_habitat": "lake",
+    "scientific": "Aulonocara jacobfreibergi",
+    "referenceUrl": "https://www.fishbase.se/summary/Aulonocara-jacobfreibergi.html",
+    "reviewed": false,
+    "taxonomy": {
+      "usageKey": 2370488,
+      "canonicalName": "Aulonocara jacobfreibergi",
+      "status": "ACCEPTED",
+      "rank": "SPECIES",
+      "matchType": "EXACT",
+      "confidence": 99
+    },
+    "actualUrl": "https://www.fishbase.se/summary/Aulonocara-jacobfreibergi.html",
+    "environment": "Environment: milieu / climate zone / depth range / distribution range Ecology Freshwater;  benthopelagic; pH range: 7.5 - 8.0; dH range: 9 - 19. Tropical; 24°C - 26°C (Ref. 1672 ); 13°S -   15°S ",
+    "size": "Max length : 15.0 cm TL male/unsexed; (Ref. 4975 ) Biology Glossary (e.g.  epibenthic) Northern populations occur in pure rocky habitats and in places with large boulders, while southern populations are found in intermediate habitats and males occupy small caves (Ref. 5595 ). Life cycle and mating behavior Maturity | Reproduction | Spawning | Eggs ",
+    "biology": "Biology Glossary (e.g.  epibenthic) Northern populations occur in pure rocky habitats and in places with large boulders, while southern populations are found in intermediate habitats and males occupy small caves (Ref. 5595 ). ",
+    "identityInPage": true
+  },
+  {
+    "candidate_habitat": "lake",
+    "scientific": "Copadichromis verduyni",
+    "referenceUrl": "https://www.fishbase.se/summary/Copadichromis-verduyni.html",
+    "reviewed": false,
+    "taxonomy": {
+      "usageKey": 2373872,
+      "canonicalName": "Copadichromis verduyni",
+      "status": "ACCEPTED",
+      "rank": "SPECIES",
+      "matchType": "EXACT",
+      "confidence": 99
+    },
+    "actualUrl": "https://www.fishbase.se/summary/Copadichromis-verduyni.html",
+    "environment": "Environment: milieu / climate zone / depth range / distribution range Ecology Freshwater;  benthopelagic; pH range: 7.3 - 8.3; dH range: 5 - 30. Tropical; 24°C - 27°C (Ref. 12468 ); 13°S -   14°S ",
+    "size": "Max length : 11.0 cm TL male/unsexed; (Ref. 4979 ) ",
+    "biology": "Biology Glossary (e.g.  epibenthic) Lives in the sand/rock interface; among congeners, this species defends the least-visible spawning sites; most males defend spawning sites at depths of 9-15m; females and non-territorial males feed from the plankton in the water colmun 1-3m off the bottom and on benthic invertebrates (Ref. 57549 ). ",
+    "identityInPage": true
+  },
+  {
+    "candidate_habitat": "lake",
+    "scientific": "Champsochromis caeruleus",
+    "referenceUrl": "https://www.fishbase.se/summary/Champsochromis-caeruleus.html",
+    "reviewed": false,
+    "taxonomy": {
+      "usageKey": 2372708,
+      "canonicalName": "Champsochromis caeruleus",
+      "status": "ACCEPTED",
+      "rank": "SPECIES",
+      "matchType": "EXACT",
+      "confidence": 99
+    },
+    "actualUrl": "https://www.fishbase.se/summary/Champsochromis-caeruleus.html",
+    "environment": "Environment: milieu / climate zone / depth range / distribution range Ecology Freshwater;  benthopelagic; pH range: 7.5 - 8.3; dH range: 5 - 30. Tropical; 24°C - 26°C (Ref. 13614 ); 9°S -   15°S ",
+    "size": "Max length : 32.2 cm TL male/unsexed; (Ref. 5611 ) Biology Glossary (e.g.  epibenthic) Occurs in the open water; observed over rocks as well as over open sand; and feeds on fish (Ref. 5595 ). Life cycle and mating behavior Maturity | Reproduction | Spawning | Eggs | Fecundity | Larvae Main reference Upload your references | References | Coordinator",
+    "biology": "Biology Glossary (e.g.  epibenthic) Occurs in the open water; observed over rocks as well as over open sand; and feeds on fish (Ref. 5595 ). ",
+    "identityInPage": true
+  },
+  {
+    "candidate_habitat": "lake",
+    "scientific": "Labidochromis shiranus",
+    "referenceUrl": "https://www.fishbase.se/summary/Labidochromis-shiranus.html",
+    "reviewed": false,
+    "taxonomy": {
+      "usageKey": 2371641,
+      "canonicalName": "Labidochromis shiranus",
+      "status": "ACCEPTED",
+      "rank": "SPECIES",
+      "matchType": "EXACT",
+      "confidence": 99
+    },
+    "actualUrl": "https://www.fishbase.se/summary/Labidochromis-shiranus.html",
+    "environment": "Environment: milieu / climate zone / depth range / distribution range Ecology Freshwater;  benthopelagic. Tropical; 14°S -   15°S ",
+    "size": "Max length : 7.8 cm SL male/unsexed; (Ref. 5653 ) Biology Glossary (e.g.  epibenthic) Life cycle and mating behavior Maturity | Reproduction | Spawning | Eggs | Fecundity | Larvae Main reference Upload your references | References | Coordinator : Kullander, Sven O. | Collaborators Maréchal, C. , 1991. Labidochromis. p. 210-217. In J. Daget, J.-P. G",
+    "biology": "Biology Glossary (e.g.  epibenthic) ",
+    "identityInPage": true
+  },
+  {
+    "candidate_habitat": "lake",
+    "scientific": "Melanochromis auratus",
+    "referenceUrl": "https://www.fishbase.se/summary/Melanochromis-auratus.html",
+    "reviewed": false,
+    "taxonomy": {
+      "usageKey": 2373186,
+      "canonicalName": "Melanochromis auratus",
+      "status": "ACCEPTED",
+      "rank": "SPECIES",
+      "matchType": "EXACT",
+      "confidence": 99
+    },
+    "actualUrl": "https://www.fishbase.se/summary/Melanochromis-auratus.html",
+    "environment": "Environment: milieu / climate zone / depth range / distribution range Ecology Freshwater;  demersal; pH range: 7.0 - 8.5; dH range: 10 - 15; non-migratory (Ref. 126106 ). Tropical; 22°C - 26°C (Ref. 1672 ); 12°S -   15°S ",
+    "size": "Max length : 11.0 cm TL male/unsexed; (Ref. 5663 ) Biology Glossary (e.g.  epibenthic) Found in rocky habitats.  Feeds from the biocover by nibbling and picking on the algae (Ref. 5595 ).  Aquarium keeping:  aggressive towards conspecifics; many females for one male; minimum aquarium size 100 cm (Ref. 51539 ). Life cycle and mating behavior Maturit",
+    "biology": "Biology Glossary (e.g.  epibenthic) Found in rocky habitats.  Feeds from the biocover by nibbling and picking on the algae (Ref. 5595 ).  Aquarium keeping:  aggressive towards conspecifics; many females for one male; minimum aquarium size 100 cm (Ref. 51539 ). ",
+    "identityInPage": true
+  },
+  {
+    "candidate_habitat": "lake",
+    "scientific": "Melanochromis robustus",
+    "referenceUrl": "https://www.fishbase.se/summary/Melanochromis-robustus.html",
+    "reviewed": false,
+    "taxonomy": {
+      "usageKey": 2373194,
+      "canonicalName": "Melanochromis robustus",
+      "status": "ACCEPTED",
+      "rank": "SPECIES",
+      "matchType": "EXACT",
+      "confidence": 99
+    },
+    "actualUrl": "https://www.fishbase.se/summary/Melanochromis-robustus.html",
+    "environment": "Environment: milieu / climate zone / depth range / distribution range Ecology Freshwater;  benthopelagic; depth range ? - 5 m (Ref. 89864 ). Tropical; 11°S -   13°S ",
+    "size": "Max length : 12.4 cm SL male/unsexed; (Ref. 89864 ) ",
+    "biology": "Biology Glossary (e.g.  epibenthic) Found in the very shallow, less than 5 m deep, rocky habitat at the islands of Chinyankwazi and Mumbo in Lake Malawi (Ref. 89864 ). It has an opportunistic feeding behaviour in which the species is attracted to visible particles floating in the water column rather than collecting food by systematically browsing from the rocky substrate (Ref. 89864 ). Males in breeding colouration energetically defend spawning sites, which are located inside caves and crevices between the rocks, against conspecific males; male territories have an estimated diameter of 2-3 meters (Ref. 89864 ). Mouthbrooding females remain solitary and stay close to the rocky substrate (Ref. 89864 ). ",
+    "identityInPage": true
+  },
+  {
+    "candidate_habitat": "lake",
+    "scientific": "Iodotropheus sprengerae",
+    "referenceUrl": "https://www.fishbase.se/summary/Iodotropheus-sprengerae.html",
+    "reviewed": false,
+    "taxonomy": {
+      "usageKey": 2371552,
+      "canonicalName": "Iodotropheus sprengerae",
+      "status": "ACCEPTED",
+      "rank": "SPECIES",
+      "matchType": "EXACT",
+      "confidence": 99
+    },
+    "actualUrl": "https://www.fishbase.se/summary/Iodotropheus-sprengerae.html",
+    "environment": "Environment: milieu / climate zone / depth range / distribution range Ecology Freshwater;  benthopelagic. Tropical; 24°C - 26°C (Ref. 2060 ); 13°S -   15°S ",
+    "size": "Max length : 10.8 cm SL male/unsexed; (Ref. 5649 ) ",
+    "biology": "Biology Glossary (e.g.  epibenthic) ",
+    "identityInPage": true
+  },
+  {
+    "candidate_habitat": "lake",
+    "scientific": "Naevochromis chrysogaster",
+    "referenceUrl": "https://www.fishbase.se/summary/Naevochromis-chrysogaster.html",
+    "reviewed": false,
+    "taxonomy": {
+      "usageKey": 2370304,
+      "canonicalName": "Naevochromis chrysogaster",
+      "status": "ACCEPTED",
+      "rank": "SPECIES",
+      "matchType": "EXACT",
+      "confidence": 99
+    },
+    "actualUrl": "https://www.fishbase.se/summary/Naevochromis-chrysogaster.html",
+    "environment": "Environment: milieu / climate zone / depth range / distribution range Ecology Freshwater;  demersal; pH range: 7.5 - 8.3; dH range: 5 - 30. Tropical; 24°C - 26°C (Ref. 13614 ); 9°S -   15°S ",
+    "size": "Max length : 17.9 cm TL male/unsexed; (Ref. 4988 ) Biology Glossary (e.g.  epibenthic) Usually seen over rocky areas.  Feeds on cichlid fry or larvae as its very special diet (Ref. 5595 ). Life cycle and mating behavior Maturity | Reproduction | Spawning | Eggs | Fecundity | Larvae Main reference Upload your references | References | Coordinator : ",
+    "biology": "Biology Glossary (e.g.  epibenthic) Usually seen over rocky areas.  Feeds on cichlid fry or larvae as its very special diet (Ref. 5595 ). ",
+    "identityInPage": true
+  },
+  {
+    "candidate_habitat": "estuary-tropical",
+    "scientific": "Selenotoca multifasciata",
+    "referenceUrl": "https://www.fishbase.se/summary/Selenotoca-multifasciata.html",
+    "reviewed": false,
+    "taxonomy": {
+      "usageKey": 2394726,
+      "canonicalName": "Selenotoca multifasciata",
+      "status": "ACCEPTED",
+      "rank": "SPECIES",
+      "matchType": "EXACT",
+      "confidence": 99
+    },
+    "actualUrl": "https://www.fishbase.se/summary/Selenotoca-multifasciata.html",
+    "environment": "Environment: milieu / climate zone / depth range / distribution range Ecology Marine; freshwater; brackish;  benthopelagic; amphidromous; depth range 0 - 5 m (Ref. 86942 ). Tropical; 20°C - 28°C (Ref. 13614 ) ",
+    "size": "Max length : 40.0 cm SL male/unsexed; (Ref. 48637 ) ",
+    "biology": "Biology Glossary (e.g.  epibenthic) Found in coastal estuaries, river entrances and rock pools (Ref. 9002 , 44894 ).  Inhabits mangrove creeks and the lower reaches of freshwater streams (Ref. 44894 ).  Anterolateral glandular groove with venom gland (Ref. 57406 ).  Sometimes sold fresh in markets (Ref. 43044 ).  Juveniles collected for the aquarium trade (Ref. 43044 ). ",
+    "identityInPage": true
+  },
+  {
+    "candidate_habitat": "estuary-tropical",
+    "scientific": "Toxotes chatareus",
+    "referenceUrl": "https://www.fishbase.se/summary/Toxotes-chatareus.html",
+    "reviewed": false,
+    "taxonomy": {
+      "usageKey": 2382430,
+      "canonicalName": "Toxotes chatareus",
+      "status": "ACCEPTED",
+      "rank": "SPECIES",
+      "matchType": "EXACT",
+      "confidence": 99
+    },
+    "actualUrl": "https://www.fishbase.se/summary/Toxotes-chatareus.html",
+    "environment": "Environment: milieu / climate zone / depth range / distribution range Ecology Freshwater; brackish;  pelagic; amphidromous (Ref. 51243 ). Tropical; 25°C - 30°C (Ref. 1672 ) ",
+    "size": "Max length : 40.0 cm SL male/unsexed; (Ref. 2847 ); common length : 25.0 cm TL male/unsexed; (Ref. 2847 ); max. published weight: 750.00 g (Ref. 6028 ) ",
+    "biology": "Biology Glossary (e.g.  epibenthic) Occurs mainly in brackish mangrove estuaries, but also penetrates freshwater rivers and small streams (Ref. 4833 , 44894 ).  Inhabits coastal waters (Ref. 45255 ).  Found along the shores of flowing and standing waters.  Occurs in shaded areas with overhanging vegetation (Ref. 12693 , 44894 ).  Inhabits medium to large-sized rivers (Ref. 12975 ).  Also found in lakes and billabongs (Ref. 44894 ).  Feeds at the surface during the day on floating debris which includes insects and vegetable matter (Ref. 2847 ).  Also consumes crustaceans and small fishes (Ref. 44894 ).  Renowned for its habit of spitting to dislodge its insect prey from tree branches above the water; maximum shooting range is about 150 cm.  Breeds from both fresh and brackish water (Ref. 2847 , 44894 ).  Breeding takes place in the wet season.  Highly fecund female releases buoyant eggs (Ref. 44894 ).  Lays 20,000 to 150,000 eggs, measuring about 0.4 mm in diameter (Ref. 6028 ).  Occasionally caught by anglers and is reasonable eating (Ref. 44894 ).  Sold fresh in markets. ",
+    "identityInPage": true
+  },
+  {
+    "candidate_habitat": "estuary-tropical",
+    "scientific": "Scatophagus argus",
+    "referenceUrl": "https://www.fishbase.se/summary/Scatophagus-argus.html",
+    "reviewed": false,
+    "taxonomy": {
+      "usageKey": 2394736,
+      "canonicalName": "Scatophagus argus",
+      "status": "ACCEPTED",
+      "rank": "SPECIES",
+      "matchType": "EXACT",
+      "confidence": 99
+    },
+    "actualUrl": "https://www.fishbase.se/summary/Scatophagus-argus.html",
+    "environment": "Environment: milieu / climate zone / depth range / distribution range Ecology Marine; freshwater; brackish;  demersal; amphidromous (Ref. 126106 ); depth range 0 - 5 m (Ref. 90102 ). Tropical; 20°C - 28°C (Ref. 13371 ); 35°N -   33°S, 48°E -   171°W ",
+    "size": "Max length : 45.0 cm TL male/unsexed; (Ref. 108711 ); common length : 20.0 cm TL male/unsexed; (Ref. 3489 ) ",
+    "biology": "Biology Glossary (e.g.  epibenthic) Adults inhabit harbors, natural embayments, brackish estuaries and the lower reaches of freshwater streams, frequently occurring among mangroves.  They feed on worms, crustaceans, insects and plant matter (Ref. 7020 , 44894 , 48637 ).  The dorsal, anal and pelvic spines are believed by Philippine fishers to be venomous and capable of inflicting wounds (Ref. 6565 ).  Used in Chinese medicine (Ref. 12166 ).  In Hong Kong live fish markets (Ref. 27253 ).  Marketed as fresh (Ref. 12693 ). ",
+    "identityInPage": true
+  },
+  {
+    "candidate_habitat": "estuary-tropical",
+    "scientific": "Butis butis",
+    "referenceUrl": "https://www.fishbase.se/summary/Butis-butis.html",
+    "reviewed": false,
+    "taxonomy": {
+      "usageKey": 2386080,
+      "canonicalName": "Butis butis",
+      "status": "ACCEPTED",
+      "rank": "SPECIES",
+      "matchType": "EXACT",
+      "confidence": 99
+    },
+    "actualUrl": "https://www.fishbase.se/summary/Butis-butis.html",
+    "environment": "Environment: milieu / climate zone / depth range / distribution range Ecology Marine; freshwater; brackish;  demersal; pH range: 7.0 - 8.0; dH range: 9 - 19; amphidromous (Ref. 51243 ). Tropical; 22°C - 28°C (Ref. 2060 ) ",
+    "size": "Max length : 15.0 cm TL male/unsexed; (Ref. 6802 ); max. published weight: 18.95 g (Ref. 124712 ) ",
+    "biology": "Biology Glossary (e.g.  epibenthic) Inhabits brackish mangrove estuaries and lower reaches of freshwater streams, usually on mud bottoms (Ref. 44894 ).  Usually found in lagoons and estuaries, particularly where there is vegetation (Ref. 6028 , 79840 ).  Occurs frequently in mangrove swamps (Ref. 2847 , 79840 ).  Occasionally ascends rivers (Ref. 6028 ).  Feeds mainly on small fishes and crustaceans (Ref. 6028 , 79840 ).  Marketed fresh (Ref. 12693 ). ",
+    "identityInPage": true
+  },
+  {
+    "candidate_habitat": "estuary-tropical",
+    "scientific": "Epinephelus malabaricus",
+    "referenceUrl": "https://www.fishbase.se/summary/Epinephelus-malabaricus.html",
+    "reviewed": false,
+    "taxonomy": {
+      "usageKey": 2388220,
+      "canonicalName": "Epinephelus malabaricus",
+      "status": "ACCEPTED",
+      "rank": "SPECIES",
+      "matchType": "EXACT",
+      "confidence": 99
+    },
+    "actualUrl": "https://www.fishbase.se/summary/Epinephelus-malabaricus.html",
+    "environment": "Environment: milieu / climate zone / depth range / distribution range Ecology Marine; brackish;  reef-associated; amphidromous (Ref. 51243 ); depth range 0 - 150 m (Ref. 5222 ). Tropical; 30°N -   32°S, 29°E -   173°W (Ref. 5222 ) ",
+    "size": "Max length : 234 cm TL male/unsexed; (Ref. 5213 ); common length : 100.0 cm TL male/unsexed; (Ref. 5213 ); max. published weight: 150.0 kg (Ref. 9710 ) ",
+    "biology": "Biology Glossary (e.g.  epibenthic) A common species found in a variety of habitats:  coral and rocky reefs, tide pools, estuaries, mangrove swamps and sandy or mud bottom from shore to depths of 150 m.  Solitary (Ref 90102). Juveniles found near shore and in estuaries; sex reversal probable; catch statistics poor being previously confused with E. andersoni (Ref. 4332 ).  Feed primarily on fishes and crustaceans, and occasionally on cephalopods (Ref. 9710 ).  Present in Hong Kong live fish markets (Ref. 27253 ). Widely used in mariculture mainly in the Far East (Ref. 43448 ). ",
+    "identityInPage": true
+  },
+  {
+    "candidate_habitat": "estuary-tropical",
+    "scientific": "Gerres filamentosus",
+    "referenceUrl": "https://www.fishbase.se/summary/Gerres-filamentosus.html",
+    "reviewed": false,
+    "taxonomy": {
+      "usageKey": 2369436,
+      "canonicalName": "Gerres filamentosus",
+      "status": "ACCEPTED",
+      "rank": "SPECIES",
+      "matchType": "EXACT",
+      "confidence": 99
+    },
+    "actualUrl": "https://www.fishbase.se/summary/Gerres-filamentosus.html",
+    "environment": "Environment: milieu / climate zone / depth range / distribution range Ecology Marine; freshwater; brackish;  demersal; amphidromous (Ref. 51243 ); depth range 1 - 50 m (Ref. 4372 ). Tropical; 26°C - 29°C (Ref. 4959 ); 32°N -   35°S, 31°E -   171°E ",
+    "size": "Max length : 39.0 cm TL male/unsexed; (Ref. 116875 ); common length : 15.0 cm SL male/unsexed; (Ref. 4967 ); max. reported age: 8 years (Ref. 116875 ) ",
+    "biology": "Biology Glossary (e.g.  epibenthic) Adults are coastal inhabitants found on soft bottoms (Ref. 44894 ), over sandy substrate (Ref. 12693 ).  Juveniles are found in brackish mangrove estuaries, sometimes enter fresh water (Ref. 2847 , 44894 ), lakes (Ref. 4323 ), tidal creeks (Ref. 44894 ) and lower freshwater reaches of rivers (Ref. 12915 ).  Feed on small crustaceans, polychaetes and forams on sand or muddy-sand bottoms (Ref. 12915 ), worms and insect larvae (Ref. 12693 ).   Length at first reproduction was reported to be around 12 cm SL,  for a population in a South African estuary (D. Woodland, pers.comm. 07/13).  Salted or made into fish sauce. ",
+    "identityInPage": true
+  },
+  {
+    "candidate_habitat": "estuary-tropical",
+    "scientific": "Sillago sihama",
+    "referenceUrl": "https://www.fishbase.se/summary/Sillago-sihama.html",
+    "reviewed": false,
+    "taxonomy": {
+      "usageKey": 2391929,
+      "canonicalName": "Sillago sihama",
+      "status": "ACCEPTED",
+      "rank": "SPECIES",
+      "matchType": "EXACT",
+      "confidence": 99
+    },
+    "actualUrl": "https://www.fishbase.se/summary/Sillago-sihama.html",
+    "environment": "Environment: milieu / climate zone / depth range / distribution range Ecology Marine; brackish;  reef-associated; amphidromous (Ref. 51243 ); depth range 0 - 60 m (Ref. 6205 ), usually 0 - 2 m (Ref. 90102 ). Tropical; 26°C - 29°C (Ref. 4959 ); 41°N -   36°S, 20°E -   166°E (Ref. 6205 ) ",
+    "size": "Max length : 31.0 cm SL male/unsexed; (Ref. 44894 ); common length : 20.0 cm SL male/unsexed; (Ref. 9679 ); max. reported age: 7 years (Ref. 43081 ) ",
+    "biology": "Biology Glossary (e.g.  epibenthic) Common along beaches, sandbars, mangrove creeks and estuaries.  Recorded from freshwater.  Form schools.  Adults bury themselves in the sand when disturbed (Ref. 6205 , 44894 ).  Feed mainly on polychaete worms, small prawns ( Penaeus ), shrimps and amphipods (Ref. 6226 , 6227 , 44894 ).  Oviparous (Ref. 205 ).  Larvae and juveniles are pelagic feeding on planktonic (Ref. 43081 ).  Rarely captured by prawn trawling vessels.  Marketed fresh and frozen (Ref. 9987 ). ",
+    "identityInPage": true
+  },
+  {
+    "candidate_habitat": "estuary-tropical",
+    "scientific": "Pseudomugil signifer",
+    "referenceUrl": "https://www.fishbase.se/summary/Pseudomugil-signifer.html",
+    "reviewed": false,
+    "taxonomy": {
+      "usageKey": 2411752,
+      "canonicalName": "Pseudomugil signifer",
+      "status": "ACCEPTED",
+      "rank": "SPECIES",
+      "matchType": "EXACT",
+      "confidence": 99
+    },
+    "actualUrl": "https://www.fishbase.se/summary/Pseudomugil-signifer.html",
+    "environment": "Environment: milieu / climate zone / depth range / distribution range Ecology Freshwater; brackish;  benthopelagic; pH range: 6.5 - 7.5; dH range: 12 - 15. Tropical; 23°C - 28°C (Ref. 1672 ) ",
+    "size": "Max length : 7.0 cm SL male/unsexed; (Ref. 44894 ); common length : 3.5 cm SL male/unsexed; (Ref. 5259 ) Biology Glossary (e.g.  epibenthic) Occurs in clear, cool, fast-flowing streams and also brackish mangrove estuaries.  Inhabits tidal mangrove creeks or fringing coastal mangrove and around offshore islands.  Also common in clear, forest streams",
+    "biology": "Biology Glossary (e.g.  epibenthic) Occurs in clear, cool, fast-flowing streams and also brackish mangrove estuaries.  Inhabits tidal mangrove creeks or fringing coastal mangrove and around offshore islands.  Also common in clear, forest streams.  Water temperature varies between 15° and 28°C, with the lower end of the scale applicable during winter over the southernmost part of the range.  The pH fluctuates from 5.5-7.8 according to habitat conditions.  At least 15 geographical varieties have been recognized, but detailed morphological studies reveal there is only one species  (Ref. 44894 ). ",
+    "identityInPage": true
+  },
+  {
+    "candidate_habitat": "estuary-tropical",
+    "scientific": "Leiognathus equula",
+    "referenceUrl": "https://www.fishbase.se/summary/Leiognathus-equula.html",
+    "reviewed": false,
+    "taxonomy": {
+      "usageKey": 5211415,
+      "canonicalName": "Leiognathus equulus",
+      "status": "ACCEPTED",
+      "rank": "SPECIES",
+      "matchType": "FUZZY",
+      "confidence": 96
+    },
+    "actualUrl": "https://www.fishbase.se/summary/Leiognathus-equula.html",
+    "environment": "Environment: milieu / climate zone / depth range / distribution range Ecology Marine; freshwater; brackish;  demersal; amphidromous; depth range 10 - 110 m (Ref. 12260 ). Tropical; 26°C - 29°C (Ref. 4959 ); 31°N -   34°S, 27°E -   170°W ",
+    "size": "Max length : 28.0 cm TL male/unsexed; (Ref. 9710 ); common length : 18.0 cm TL male/unsexed; (Ref. 47581 ) ",
+    "biology": "Biology Glossary (e.g.  epibenthic) Found in river mouths and muddy inshore areas (Ref. 2847 , 37816 ), often in mangrove areas (Ref. 48635 ).  Adults are coastal inhabitants found on soft bottoms, usually between depths of 10-70 meters.  Juveniles are commonly found in mangrove estuaries and tidal creeks, sometimes entering the lower reaches of freshwater streams (Ref. 44894 ).  Adults move in schools.  Frequently ascend into freshwater reaches of rivers (Ref. 12693 ).  Active by day (Ref. 12693 ).  Feed on polychaetes, small crustaceans, small fishes (Ref. 30573 ) and worms (Ref. 12693 ).  Important food fish in the tropics (Ref. 4376 ). Caught near the bottom with bottom trawls, set nets, push nets, dip nets, and beach seines. In Indian waters, schools near the surface during April-May when caught with drift gill nets. Larger specimens sorted for human consumption and marketed fresh or dried-salted, but surplus fish used to feed ducks, converted to fishmeal, or discarded (Ref. 47581 ). ",
+    "identityInPage": true
+  },
+  {
+    "candidate_habitat": "estuary-tropical",
+    "scientific": "Sarotherodon melanotheron",
+    "referenceUrl": "https://www.fishbase.se/summary/Sarotherodon-melanotheron.html",
+    "reviewed": false,
+    "taxonomy": {
+      "usageKey": 4285710,
+      "canonicalName": "Sarotherodon melanotheron",
+      "status": "ACCEPTED",
+      "rank": "SPECIES",
+      "matchType": "EXACT",
+      "confidence": 99
+    },
+    "actualUrl": "https://www.fishbase.se/summary/Sarotherodon-melanotheron.html",
+    "environment": "Environment: milieu / climate zone / depth range / distribution range Ecology Marine; freshwater; brackish;  demersal; pH range: 7.0 - 8.0; dH range: 9 - 19; non-migratory (Ref. 126106 ); depth range 0 - 3 m (Ref. 5723 ). Tropical; 27°N -   14°S, 18°W -   31°E ",
+    "size": "Max length : 28.0 cm SL male/unsexed; (Ref. 31256 ); common length : 17.5 cm TL male/unsexed; (Ref. 12193 ) ",
+    "biology": "Biology Glossary (e.g.  epibenthic) This species can tolerate high salinity (Ref. 5723 ).  Adults occur abundantly in mangrove areas and ventures in to both fresh, like lower reaches of streams (Ref. 5723 ) and salt waters in native and non-native ranges (Ref. 46816 , 53405 ).  In West Africa, they are confined to brackish lagoons and estuaries, and is abundant in the mangrove zone (Ref. 2 ). They form schools; is mainly nocturnal with intermittent daytime feeding.  They feed on aufwuchs and detritus (Ref. 2 ), as well as on bivalves and zooplankton (Ref. 2 8587).  Feeding behaviour: picking up and swallowing \"bites\" (no gill rakers) (Ref. 55661 ). ",
+    "identityInPage": true
+  },
+  {
+    "candidate_habitat": "estuary-north",
+    "scientific": "Osmerus eperlanus",
+    "referenceUrl": "https://www.fishbase.se/summary/Osmerus-eperlanus.html",
+    "reviewed": false,
+    "taxonomy": {
+      "usageKey": 2410854,
+      "canonicalName": "Osmerus eperlanus",
+      "status": "ACCEPTED",
+      "rank": "SPECIES",
+      "matchType": "EXACT",
+      "confidence": 99
+    },
+    "actualUrl": "https://www.fishbase.se/summary/Osmerus-eperlanus.html",
+    "environment": "Environment: milieu / climate zone / depth range / distribution range Ecology Marine; freshwater; brackish;  pelagic-neritic; anadromous (Ref. 138124 ); depth range 2 - 25 m (Ref. 120293 ), usually ? - 50 m (Ref. 4545 ). Temperate; 70°N -   43°N, 9°W -   55°E ",
+    "size": "Max length : 45.0 cm TL male/unsexed; (Ref. 4545 ); common length : 16.5 cm TL male/unsexed; (Ref. 682 ); max. published weight: 178.00 g (Ref. 6114 ); max. reported age: 10 years (Ref. 682 ) ",
+    "biology": "Biology Glossary (e.g.  epibenthic) Inhabits marine waters, estuaries and large lakes (Ref. 59043 ).  A midwater species, rarely far from shore, primarily anadromous in the west and lacustrine in the east; shoaling at least during spawning season (Ref. 4545 ).  The essential part of its life is spend in the estuarine zone, with just short incursions in the littoral zone (Ref. 51442 ).  The migratory form is grouping together in the estuarine zone for reproduction (Ref. 51442 ).  Enters the rivers for spawning on sandy or gravely bottoms (Ref. 13696 ).  Spawns in tributaries of lakes or along shallow shores of lakes and rivers on sand, gravel, stones and plant material, preferably in fast-flowing water (Ref. 59043 ).  Reproduction takes place between February and May, depending on the water-temperature (Ref. 51442 ).  Produces 8,000-50,000 yellow eggs with a diameter of 0.6-0.9 mm which adhere to the bottom (Ref. 13696 , Ref. 51442 ).  Eggs hatch in 3-5 weeks and the larvae descend to the estuarine zone (Ref. 13696 , Ref. 51442 ).  Feeds on shrimps and small crustaceans; larger indivi",
+    "identityInPage": true
+  },
+  {
+    "candidate_habitat": "estuary-north",
+    "scientific": "Paralichthys dentatus",
+    "referenceUrl": "https://www.fishbase.se/summary/Paralichthys-dentatus.html",
+    "reviewed": false,
+    "taxonomy": {
+      "usageKey": 2408866,
+      "canonicalName": "Paralichthys dentatus",
+      "status": "ACCEPTED",
+      "rank": "SPECIES",
+      "matchType": "EXACT",
+      "confidence": 99
+    },
+    "actualUrl": "https://www.fishbase.se/summary/Paralichthys-dentatus.html",
+    "environment": "Environment: milieu / climate zone / depth range / distribution range Ecology Marine; brackish;  demersal; oceanodromous; depth range 10 - 183 m (Ref. 5951 ), usually ? - 37 m (Ref. 5951 ). Temperate; 45°N -   25°N, 81°W -   57°W ",
+    "size": "Max length : 94.0 cm TL male/unsexed; (Ref. 7251 ); max. published weight: 12.0 kg (Ref. 7251 ); max. reported age: 9 years (Ref. 52684 ) ",
+    "biology": "Biology Glossary (e.g.  epibenthic) Adults usually prefer hard sandy substrate where they can burrow; can exploit a broad range of lower and mid-estuary habitats including salt marsh creeks and seagrass beds, which usually have muddy or silty substrates , as well as sand flats (Ref. 26621 ).  Occur in bays, lagoons and shallow coastal waters.  Utilized fresh and frozen; can be steamed, fried, boiled, microwaved and baked (Ref. 9988 ).  Exported fresh to Japan for sashimi. ",
+    "identityInPage": true
+  },
+  {
+    "candidate_habitat": "estuary-north",
+    "scientific": "Cnidoglanis macrocephalus",
+    "referenceUrl": "https://www.fishbase.se/summary/Cnidoglanis-macrocephalus.html",
+    "reviewed": false,
+    "taxonomy": {
+      "usageKey": 2341943,
+      "canonicalName": "Cnidoglanis macrocephalus",
+      "status": "ACCEPTED",
+      "rank": "SPECIES",
+      "matchType": "EXACT",
+      "confidence": 99
+    },
+    "actualUrl": "https://www.fishbase.se/summary/Cnidoglanis-macrocephalus.html",
+    "environment": "Environment: milieu / climate zone / depth range / distribution range Ecology Marine; brackish;  demersal; depth range 1 - 30 m (Ref. 6390 ). Temperate; 28°S -   37°S ",
+    "size": "Max length : 91.0 cm SL male/unsexed; (Ref. 33840 ); max. published weight: 2.5 kg (Ref. 6390 ); max. reported age: 13 years (Ref. 6390 ) ",
+    "biology": "Biology Glossary (e.g.  epibenthic) An inshore marine species which lives in shallow bays and sandy inlets near river mouths (Ref. 2156 ).  Found most frequently over sand, rocks and weeds in clear to turbid waters.  By day, cobblers are most often found in holes and on ledges in banks (Ref. 6390 ).  They are opportunistic feeders, primarily feeding at night.  Food consists of bivalve and univalve mollusks, crustaceans (small prawns and amphipods), polychaete worms, algae and organic debris (Ref. 26551 ).  Juveniles eat more crustaceans, often from among drifting macrophytic algae (Ref. 26548 ).  Adults feed mainly on mollusks and polychaetes (Ref. 6390 ).  They are prey to birds such as cormorants and pelicans (Ref. 26548 ).  Presence of sharp spines on the dorsal and pectoral fins can inflict painful wounds (Ref. 2156 ). ",
+    "identityInPage": true
+  },
+  {
+    "candidate_habitat": "estuary-north",
+    "scientific": "Percalates colonorum",
+    "referenceUrl": "https://www.fishbase.se/summary/Percalates-colonorum.html",
+    "reviewed": false,
+    "taxonomy": {
+      "usageKey": 2380518,
+      "canonicalName": "Percalates colonorum",
+      "status": "SYNONYM",
+      "rank": "SPECIES",
+      "matchType": "EXACT",
+      "confidence": 98
+    },
+    "actualUrl": "https://www.fishbase.se/summary/Percalates-colonorum.html",
+    "environment": "Environment: milieu / climate zone / depth range / distribution range Ecology Freshwater; brackish;  demersal; catadromous (Ref. 123463 ). Temperate; 10°S -   40°S ",
+    "size": "Max length : 75.0 cm SL male/unsexed; (Ref. 44894 ); common length : 40.0 cm SL male/unsexed; (Ref. 5259 ); max. published weight: 10.0 kg (Ref. 5259 ); max. reported age: 40 years (Ref. 123463 ) ",
+    "biology": "Biology Glossary (e.g.  epibenthic) An estuary-dependent catadromous fish inhabiting the tidal reaches of rivers, lakes and coastal lagoons where it is found (Ref. 7300 , 123463 ); with salinities less than 1-2 ppt (Ref. 5259 ). Popular angling species that tends to swim near the bottom in deeper water.  Feeds on small fishes, molluscs, worms, shrimps and other crustaceans.  During winter (July and August) they move to the mouth of estuaries to breed (Ref. 44894 ).  Individuals are long lived, reaching to more than 40 years (Ref. 123463 ). Oviparous, egg is pelagic (Ref. 5259 ) and hatches in 2-3 days.  Male reaches maturity at a length of about 22 centimeters; female at about 28 centimeters (Ref. 44894 ). ",
+    "identityInPage": true
+  },
+  {
+    "candidate_habitat": "estuary-north",
+    "scientific": "Girella tricuspidata",
+    "referenceUrl": "https://www.fishbase.se/summary/Girella-tricuspidata.html",
+    "reviewed": false,
+    "taxonomy": {
+      "usageKey": 2381233,
+      "canonicalName": "Girella tricuspidata",
+      "status": "ACCEPTED",
+      "rank": "SPECIES",
+      "matchType": "EXACT",
+      "confidence": 99
+    },
+    "actualUrl": "https://www.fishbase.se/summary/Girella-tricuspidata.html",
+    "environment": "Environment: milieu / climate zone / depth range / distribution range Ecology Marine; brackish;  benthopelagic; depth range 0 - 20 m (Ref. 9002 ). Temperate; 25°S -   43°S, 135°E -   180°E ",
+    "size": "Max length : 71.0 cm FL male/unsexed; (Ref. 6390 ); common length : 35.0 cm TL male/unsexed; (Ref. 2158 ); max. published weight: 4.0 kg (Ref. 6390 ); max. reported age: 24 years (Ref. 95598 ) ",
+    "biology": "Biology Glossary (e.g.  epibenthic) Adults favor estuarine (including mangroves), rocky reef and inshore, coastal water habitats (Ref. 5962 , 27248 ).  They flourish in seagrass areas (Ref. 6390 ).  Ludericks are moderately sedentary, schooling fish.  They are herbivorous and feed primarily on seagrasses (Ref. 6390 ).  Filamentous algae (Ref. 26966 ) and cabbage weed also form part of their diet (Ref. 28607 ).  Marketed as fresh fish (Ref. 10384 ). ",
+    "identityInPage": true
+  },
+  {
+    "candidate_habitat": "estuary-north",
+    "scientific": "Salmo trutta",
+    "referenceUrl": "https://www.fishbase.se/summary/Salmo-trutta.html",
+    "reviewed": false,
+    "taxonomy": {
+      "usageKey": 8215487,
+      "canonicalName": "Salmo trutta",
+      "status": "ACCEPTED",
+      "rank": "SPECIES",
+      "matchType": "EXACT",
+      "confidence": 99
+    },
+    "actualUrl": "https://www.fishbase.se/summary/Salmo-trutta.html",
+    "environment": "Environment: milieu / climate zone / depth range / distribution range Ecology Marine; freshwater; brackish;  pelagic-neritic; anadromous (Ref. 138126 ); depth range 0 - 28 m (Ref. 101587 ), usually 1 - 2 m (Ref. 101587 ). Temperate; 18°C - 24°C (Ref. 12741 ); 71°N -   34°N, 25°W -   57°E ",
+    "size": "Max length : 140 cm SL male/unsexed; (Ref. 682 ); common length : 72.0 cm TL male/unsexed; (Ref. 3397 ); max. published weight: 50.0 kg (Ref. 682 ); max. reported age: 38 years (Ref. 32682 ) ",
+    "biology": "Biology Glossary (e.g.  epibenthic) Found in streams, ponds, rivers and lakes (Ref. 5951 ).  Individuals spend 1 to 5 years in fresh water and 6 months to 5 years in salt water (Ref. 51442 ).  Juveniles mature in 3-4 years (Ref. 6885 ).  Lacustrine populations undertake migration to tributaries and lake outlets to spawn, rarely spawning on stone, wave-washed lake shores.  Spawns in rivers and streams with swift current, usually characterized by downward movement of water intro gravel (Ref. 59043 ).  Spawning takes place normally more than one time (Ref. 51442 ).  They prefer cold, well-oxygenated upland waters although their tolerance limits are lower than those of rainbow trout and favors large streams in the mountainous areas with adequate cover in the form of submerged rocks, undercut banks, and overhanging vegetation (Ref. 6465 ).  Life history and spawning behavior is similar to the salmon Salmo salar (Ref. 51442 ).  Each female produces about 10.000 eggs (Ref. 35388 , Ref. 51442 ).  Mainly diurnal (Ref. 682 ).  Sea and lake trouts forage in pelagic and littoral habitats, while ",
+    "identityInPage": true
+  },
+  {
+    "candidate_habitat": "estuary-north",
+    "scientific": "Cottus asper",
+    "referenceUrl": "https://www.fishbase.se/summary/Cottus-asper.html",
+    "reviewed": false,
+    "taxonomy": {
+      "usageKey": 2334177,
+      "canonicalName": "Cottus asper",
+      "status": "ACCEPTED",
+      "rank": "SPECIES",
+      "matchType": "EXACT",
+      "confidence": 99
+    },
+    "actualUrl": "https://www.fishbase.se/summary/Cottus-asper.html",
+    "environment": "Environment: milieu / climate zone / depth range / distribution range Ecology Marine; freshwater; brackish;  demersal; catadromous (Ref. 138280 ). Temperate; 60°N -   32°N ",
+    "size": "Max length : 30.0 cm TL male/unsexed; (Ref. 5723 ); common length : 7.0 cm TL male/unsexed; (Ref. 12193 ); max. reported age: 7 years (Ref. 28210 ) ",
+    "biology": "Biology Glossary (e.g.  epibenthic) There appears to be two genetically distinct forms (Ref. 27547 ), an inland form found in sandy and rocky shores of lakes, and a coastal form usually found over sand in quiet runs of small to medium rivers; sometimes in salt water near river mouths (Ref. 2850 ).  The coastal form moves into brackish estuaries to spawn (Ref. 27547 ).  Oviparous with demersal, adhesive eggs and pelagic larvae (Ref. 265 ).  Adults feed mainly on aquatic insect larvae and bottom invertebrates (Ref. 1998 ).  Too small to be used as food and too difficult to capture in large numbers to be used for anything else (Ref. 27547 ) but large individuals are reported to be excellent eating as well as good bait fishes (Ref. 2850 ). ",
+    "identityInPage": true
+  },
+  {
+    "candidate_habitat": "estuary-north",
+    "scientific": "Platichthys flesus",
+    "referenceUrl": "https://www.fishbase.se/summary/Platichthys-flesus.html",
+    "reviewed": false,
+    "taxonomy": {
+      "usageKey": 2409330,
+      "canonicalName": "Platichthys flesus",
+      "status": "ACCEPTED",
+      "rank": "SPECIES",
+      "matchType": "EXACT",
+      "confidence": 99
+    },
+    "actualUrl": "https://www.fishbase.se/summary/Platichthys-flesus.html",
+    "environment": "Environment: milieu / climate zone / depth range / distribution range Ecology Marine; freshwater; brackish;  demersal; pH range: 7.5 - 8.2; catadromous (Ref. 138126 ); depth range 1 - 100 m (Ref. 35388 ). Temperate; 5°C - 25°C (Ref. 13614 ); 72°N -   30°N, 32°W -   45°E (Ref. 54704 ) ",
+    "size": "Max length : 60.0 cm TL male/unsexed; (Ref. 35388 ); common length : 50.0 cm TL male/unsexed; (Ref. 30578 ); max. published weight: 2.9 kg (Ref. 104349 ); max. reported age: 15 years (Ref. 3944 ) ",
+    "biology": "Biology Glossary (e.g.  epibenthic) Migratory fish, which is most of the year found in estuaries (Ref. 51442 ).  Adults occur on mud and sand bottom in shallow water, at sea and brackish; often entering freshwaters (Ref. 59043 ).  During winter, adults retreat to deeper, warmer waters, where they spawn in spring (Ref. 30193 ).  The growing larvae are moving to the coast (Ref. 51442 ).  Larvae and early juveniles use selective tidal transport to migrate upstream rivers (Ref. 57575 ) using a range of triggers such as salinity, prey density and water temperature (Ref. 57573 , 57574 ).  Juveniles live in shallow coastal waters and estuaries (Ref. 57574 ), which are also the summer feeding grounds for the adults (Ref. 30193 ).  Juveniles of less than a year old feed on plankton and larvae of insects, juveniles of more than a year and adults feed on benthic fauna (Ref. 51442 ), including small fishes and invertebrates (Ref. 30193 ).  Nocturnal and burrowing (Ref. 30193 ).  Marketed fresh and frozen; can be steamed, fried, boiled, microwaved and baked (Ref. 9988 ).  Worms and mollusks are e",
+    "identityInPage": true
+  },
+  {
+    "candidate_habitat": "cold-sea",
+    "scientific": "Oncorhynchus nerka",
+    "referenceUrl": "https://www.fishbase.se/summary/Oncorhynchus-nerka.html",
+    "reviewed": false,
+    "taxonomy": {
+      "usageKey": 5204039,
+      "canonicalName": "Oncorhynchus nerka",
+      "status": "ACCEPTED",
+      "rank": "SPECIES",
+      "matchType": "EXACT",
+      "confidence": 99
+    },
+    "actualUrl": "https://www.fishbase.se/summary/Oncorhynchus-nerka.html",
+    "environment": "Environment: milieu / climate zone / depth range / distribution range Ecology Marine; freshwater; brackish;  pelagic-oceanic; anadromous (Ref. 132363 ); depth range 0 - 250 m (Ref. 50550 ). Temperate; 0°C - 25°C (Ref. 35682 ); 72°N -   42°N, 130°E -   109°W (Ref. 117423 ) ",
+    "size": "Max length : 84.0 cm TL male/unsexed; (Ref. 86798 ); 71.0 cm  (female); common length : 45.0 cm TL male/unsexed; (Ref. 9988 ); common length :58 cm  (female); max. published weight: 7.7 kg (Ref. 40637 ); max. reported age: 8 years (Ref. 72462 ) ",
+    "biology": "Biology Glossary (e.g.  epibenthic) Epipelagic (Ref. 58426 ).  Occurs in open ocean and lakes and migrates up to coastal streams to spawn (Ref. 86798 ). There are two forms, the anadromous form known as the sockeye and the landlocked form (with a much smaller maximum size) known as the kokanee (Ref. 27547 ).  Upon emergence from gravel, fry at first tends to avoid light, hiding during the day and emerging at night (Ref. 27547 ).  In some populations, sockeye fry go to the sea during their first summer but most spend one or two (rarely three or four) years in a lake before migrating (Ref. 30333 ).  In a few streams of the Copper River drainage in Alaska, young sockeye stay in the stream (Ref. 27547 ).  Once in the lake, the young spend a few weeks inshore, feeding largely on ostracods, cladocerans and insect larvae.  The fish then become pelagic and move offshore, where they feed on plankton in the upper 20 m or so (Ref. 27547 ).  Seaward migration follows with the young individuals first staying fairly close to shore, feeding mainly on zooplankton, but also on small fishes and insect",
+    "identityInPage": true
+  },
+  {
+    "candidate_habitat": "cold-sea",
+    "scientific": "Thunnus alalunga",
+    "referenceUrl": "https://www.fishbase.se/summary/Thunnus-alalunga.html",
+    "reviewed": false,
+    "taxonomy": {
+      "usageKey": 9694948,
+      "canonicalName": "Thunnus alalunga",
+      "status": "ACCEPTED",
+      "rank": "SPECIES",
+      "matchType": "EXACT",
+      "confidence": 97
+    },
+    "actualUrl": "https://www.fishbase.se/summary/Thunnus-alalunga.html",
+    "environment": "Environment: milieu / climate zone / depth range / distribution range Ecology Marine;  pelagic-oceanic; oceanodromous (Ref. 71039 ); depth range 0 - 600 m (Ref. 168 ). Subtropical; 10°C - 25°C (Ref. 168 ); 60°N -   50°S, 180°W -   180°E ",
+    "size": "Max length : 140 cm FL male/unsexed; (Ref. 3669 ); common length : 100.0 cm FL male/unsexed; (Ref. 9684 ); max. published weight: 60.3 kg (Ref. 40637 ); max. reported age: 9 years (Ref. 72462 ) ",
+    "biology": "Biology Glossary (e.g.  epibenthic) An epipelagic and mesopelagic, oceanic species, abundant in surface waters of 15.6° to 19.4°C; deeper swimming, large albacore are found in waters of 13.5° to 25.2°C; temperatures as low as 9.5°C may be tolerated for short periods (Ref. 168 ).  Known to concentrate along thermal discontinuities (Ref. 168 ).  Form mixed schools with skipjack tuna ( Katsuwonus pelamis ), yellowfin tuna ( Thunnus albacares ) and bluefin tuna ( T. maccoyii ), schools may be associated with floating objects, including sargassum weeds (Ref. 168 ).  Feed on fishes, crustaceans and squids.  Eggs and larvae are pelagic (Ref. 6769 ).  Sexual maturity reached at 90 cm (Ref. 36731 ).  Highly appreciated and marketed fresh, smoked, deep frozen or canned.  Eaten steamed, broiled, fried and microwaved (Ref. 9987 ).  Also Ref. 1762 , 1798 , 1804 .\r\nAngling: Largely caught offshore, where the waters are mild and blue.  Albacore favor those areas where cooler water interfaces with warmer water.  They are caught with live of dead baitfish such as mullet, sauries, squid, herring, anch",
+    "identityInPage": true
+  },
+  {
+    "candidate_habitat": "warm-sea",
+    "scientific": "Carcharhinus longimanus",
+    "referenceUrl": "https://www.fishbase.se/summary/Carcharhinus-longimanus.html",
+    "reviewed": false,
+    "taxonomy": {
+      "usageKey": 2418052,
+      "canonicalName": "Carcharhinus longimanus",
+      "status": "ACCEPTED",
+      "rank": "SPECIES",
+      "matchType": "EXACT",
+      "confidence": 99
+    },
+    "actualUrl": "https://www.fishbase.se/summary/Carcharhinus-longimanus.html",
+    "environment": "Environment: milieu / climate zone / depth range / distribution range Ecology Marine;  pelagic-oceanic; oceanodromous (Ref. 87829 ); depth range 0 - 1082 m (Ref. 106604 ), usually 0 - 152 m (Ref. 55185 ). Subtropical; 18°C - 28°C (Ref. 244 ); 46°N -   43°S, 180°W -   180°E (Ref. 6871 ) ",
+    "size": "Max length : 400 cm TL male/unsexed; (Ref. 89972 ); common length : 270 cm TL male/unsexed; (Ref. 9253 ); max. published weight: 167.4 kg (Ref. 40637 ); max. reported age: 22 years (Ref. 31395 ) ",
+    "biology": "Biology Glossary (e.g.  epibenthic) An oceanic deep-water species which sometimes comes close to shore (Ref. 244 ).  Found surface to depths of at least 150 m (Ref. 26938 ).  Epipelagic usually over water depths of >184 meters (Ref. 58302 ).  Frequently accompanied by Remora , Coryphaena , pilot fishes (Ref. 30573 ), and tortoises.  Feeds oceanic bony fishes, also threadfins, stingrays, sea turtles, sea birds, gastropods, squid, crustaceans, mammalian carrion and garbage (Ref. 5578 ), including tuna and mahimahi (Ref. 1602 , 37816 ).  Viviparous (Ref. 50449 ).  There is pronounced partial segregation by size and sex in some areas.  This is an active, almost fearless shark also charged in human attacks (Ref. 244 ).  Probably responsible for many open-ocean attacks after air or sea disasters (Ref. 6871 ).  Utilized fresh, frozen (Ref. 9987 ), smoked, and dried-salted for human consumption; hides for leather, fins for fin soup, liver oil for vitamins, also processed into fishmeal (Ref. 244 ).  1 to 15 young, 60 to 65 cm, are born per litter (Ref. 1602 ). ",
+    "identityInPage": true
+  },
+  {
+    "candidate_habitat": "warm-sea",
+    "scientific": "Cubiceps gracilis",
+    "referenceUrl": "https://www.fishbase.se/summary/Cubiceps-gracilis.html",
+    "reviewed": false,
+    "taxonomy": {
+      "usageKey": 2381900,
+      "canonicalName": "Cubiceps gracilis",
+      "status": "ACCEPTED",
+      "rank": "SPECIES",
+      "matchType": "EXACT",
+      "confidence": 99
+    },
+    "actualUrl": "https://www.fishbase.se/summary/Cubiceps-gracilis.html",
+    "environment": "Environment: milieu / climate zone / depth range / distribution range Ecology Marine;  pelagic-oceanic; oceanodromous (Ref. 51243 ); depth range ? - 100 m (Ref. 5951 ). Subtropical ",
+    "size": "Max length : 107 cm TL male/unsexed; (Ref. 3397 ); common length : 18.0 cm TL male/unsexed; (Ref. 3397 ) Biology Glossary (e.g.  epibenthic) Oceanic, epipelagic or mesopelagic in warm and temperate waters.  Feeds mainly on salps (Ref. 33689 ). Life cycle and mating behavior Maturity | Reproduction | Spawning | Eggs | Fecundity | Larvae Main referen",
+    "biology": "Biology Glossary (e.g.  epibenthic) Oceanic, epipelagic or mesopelagic in warm and temperate waters.  Feeds mainly on salps (Ref. 33689 ). ",
+    "identityInPage": true
+  },
+  {
+    "candidate_habitat": "warm-sea",
+    "scientific": "Kajikia audax",
+    "referenceUrl": "https://www.fishbase.se/summary/Kajikia-audax.html",
+    "reviewed": false,
+    "taxonomy": {
+      "usageKey": 2397938,
+      "canonicalName": "Kajikia audax",
+      "status": "ACCEPTED",
+      "rank": "SPECIES",
+      "matchType": "EXACT",
+      "confidence": 99
+    },
+    "actualUrl": "https://www.fishbase.se/summary/Kajikia-audax.html",
+    "environment": "Environment: milieu / climate zone / depth range / distribution range Ecology Marine;  pelagic-oceanic; oceanodromous (Ref. 71039 ); depth range 0 - 200 m (Ref. 43 ). Subtropical; 20°C - 25°C (Ref. 54918 ); 46°N -   49°S, 19°E -   69°W (Ref. 54918 ) ",
+    "size": "Max length : 420 cm TL male/unsexed; (Ref. 30874 ); common length : 290 cm TL male/unsexed; (Ref. 9308 ); max. published weight: 440.0 kg (Ref. 30874 ); max. reported age: 9 years (Ref. 31614 ) ",
+    "biology": "Biology Glossary (e.g.  epibenthic) Epipelagic and oceanic species, usually found above the thermocline.  Generally inhabit cooler water than either black ( Makaira indica ) or blue marlin ( M. mazara ) (Ref. 43 ).  Most dominant and widely distributed of all billfishes.  Their abundance increases with distance from the continental shelf (Ref. 6390 ).  Usually seen close to shore only where deep drop-offs occur (Ref. 6390 ).  Mostly solitary, but form small schools by size during the spawning season (Ref. 9987 ).  They are usually dispersed at considerably wide distances.  Feed on fishes, crustaceans and squids.  Also caught with the harpoon.  The flesh is the best among billfishes for sashimi and sushi.  Marketed mostly frozen, sometimes fresh (Ref. 43 ); also smoked and frozen (Ref. 9987 ).  Also Ref. 9137 , 9574 . ",
+    "identityInPage": true
+  },
+  {
+    "candidate_habitat": "warm-sea",
+    "scientific": "Tetrapturus angustirostris",
+    "referenceUrl": "https://www.fishbase.se/summary/Tetrapturus-angustirostris.html",
+    "reviewed": false,
+    "taxonomy": {
+      "usageKey": 2397945,
+      "canonicalName": "Tetrapturus angustirostris",
+      "status": "ACCEPTED",
+      "rank": "SPECIES",
+      "matchType": "EXACT",
+      "confidence": 99
+    },
+    "actualUrl": "https://www.fishbase.se/summary/Tetrapturus-angustirostris.html",
+    "environment": "Environment: milieu / climate zone / depth range / distribution range Ecology Marine;  pelagic-oceanic; oceanodromous (Ref. 71039 ); depth range 0 - 1830 m (Ref. 86942 ), usually 0 - 350 m (Ref. 89423 ). Subtropical; 43°N -   56°S, 20°E -   68°W ",
+    "size": "Max length : 230 cm TL male/unsexed; (Ref. 9308 ); common length : 190 cm TL male/unsexed; (Ref. 9308 ); max. published weight: 52.0 kg (Ref. 43 ) ",
+    "biology": "Biology Glossary (e.g.  epibenthic) Oceanic and epipelagic, found above the thermocline (Ref. 9308 ).  Feeds on fishes, cephalopods and crustaceans.  Also caught as a by-catch of long lines with hooks intended for tuna.  Marketed frozen and prepared as fish cakes and sashimi in Japan (Ref. 9308 ).  Also prepared as sausages. ",
+    "identityInPage": true
+  },
+  {
+    "candidate_habitat": "deep",
+    "scientific": "Stomias boa",
+    "referenceUrl": "https://www.fishbase.se/summary/Stomias-boa.html",
+    "reviewed": false,
+    "taxonomy": {
+      "usageKey": 2346868,
+      "canonicalName": "Stomias boa",
+      "status": "ACCEPTED",
+      "rank": "SPECIES",
+      "matchType": "EXACT",
+      "confidence": 99
+    },
+    "actualUrl": "https://www.fishbase.se/summary/Stomias-boa.html",
+    "environment": "Environment: milieu / climate zone / depth range / distribution range Ecology Marine;  bathypelagic; depth range 200 - 2173 m (Ref. 104125 ). Deep-water; 71°N -   50°S, 131°W -   180°E ",
+    "size": "Max length : 32.2 cm SL male/unsexed; (Ref. 4464 ) ",
+    "biology": "Biology Glossary (e.g.  epibenthic) Found in deep oceanic waters to more than 1,000 m depth, may migrate to near-surface waters at night (Ref. 4783 ).  Bathypelagic (Ref. 58426 ).  Feeds on midwater fishes and crustaceans (Ref. 4783 ). ",
+    "identityInPage": true
+  },
+  {
+    "candidate_habitat": "deep",
+    "scientific": "Tactostoma macropus",
+    "referenceUrl": "https://www.fishbase.se/summary/Tactostoma-macropus.html",
+    "reviewed": false,
+    "taxonomy": {
+      "usageKey": 2347371,
+      "canonicalName": "Tactostoma macropus",
+      "status": "ACCEPTED",
+      "rank": "SPECIES",
+      "matchType": "EXACT",
+      "confidence": 99
+    },
+    "actualUrl": "https://www.fishbase.se/summary/Tactostoma-macropus.html",
+    "environment": "Environment: milieu / climate zone / depth range / distribution range Ecology Marine;  bathypelagic; oceanodromous (Ref. 138310 ); depth range 30 - 2000 m (Ref. 28981 ). Deep-water; 66°N - ",
+    "size": "Max length : 34.3 cm TL male/unsexed; (Ref. 4925 ) ",
+    "biology": "Biology Glossary (e.g.  epibenthic) Mesopelagic migrating into epipelagic at night (Ref. 35904 ).  Oviparous, with planktonic eggs and larvae (Ref. 35904 ). ",
+    "identityInPage": true
+  },
+  {
+    "candidate_habitat": "deep",
+    "scientific": "Photostomias goodyeari",
+    "referenceUrl": "https://www.fishbase.se/summary/Photostomias-goodyeari.html",
+    "reviewed": false,
+    "taxonomy": {
+      "usageKey": 2346954,
+      "canonicalName": "Photostomias goodyeari",
+      "status": "ACCEPTED",
+      "rank": "SPECIES",
+      "matchType": "EXACT",
+      "confidence": 99
+    },
+    "actualUrl": "https://www.fishbase.se/summary/Photostomias-goodyeari.html",
+    "environment": "Environment: milieu / climate zone / depth range / distribution range Ecology Marine;  bathypelagic; depth range 85 - 2000 m (Ref. 75669 ). Deep-water ",
+    "size": "Max length : 17.5 cm SL male/unsexed; (Ref. 75669 ); 12.8 cm SL (female) ",
+    "biology": "Biology Glossary (e.g.  epibenthic) ",
+    "identityInPage": true
+  },
+  {
+    "candidate_habitat": "deep",
+    "scientific": "Aristostomias tittmanni",
+    "referenceUrl": "https://www.fishbase.se/summary/Aristostomias-tittmanni.html",
+    "reviewed": false,
+    "taxonomy": {
+      "usageKey": 5203190,
+      "canonicalName": "Aristostomias tittmanni",
+      "status": "ACCEPTED",
+      "rank": "SPECIES",
+      "matchType": "EXACT",
+      "confidence": 99
+    },
+    "actualUrl": "https://www.fishbase.se/summary/Aristostomias-tittmanni.html",
+    "environment": "Environment: milieu / climate zone / depth range / distribution range Ecology Marine;  bathypelagic; depth range 15 - 2000 m (Ref. 58302 ). Subtropical; 52°N - ",
+    "size": "Max length : 21.5 cm SL male/unsexed; (Ref. 6684 ) ",
+    "biology": "Biology Glossary (e.g.  epibenthic) Meso- and bathypelagic (Ref. 58302 ). ",
+    "identityInPage": true
+  },
+  {
+    "candidate_habitat": "deep",
+    "scientific": "Eustomias monoclonus",
+    "referenceUrl": "https://www.fishbase.se/summary/Eustomias-monoclonus.html",
+    "reviewed": false,
+    "taxonomy": {
+      "usageKey": 5203241,
+      "canonicalName": "Eustomias monoclonus",
+      "status": "ACCEPTED",
+      "rank": "SPECIES",
+      "matchType": "EXACT",
+      "confidence": 99
+    },
+    "actualUrl": "https://www.fishbase.se/summary/Eustomias-monoclonus.html",
+    "environment": "Environment: milieu / climate zone / depth range / distribution range Ecology Marine;  bathypelagic. Deep-water; 31°N -   27°S, 45°E -   60°W ",
+    "size": "Max length : 10.9 cm SL male/unsexed; (Ref. 34246 ); 15.3 cm SL (female) ",
+    "biology": "Biology Glossary (e.g.  epibenthic) Known from mid water depths of 2000 m (Ref. 34246 ). ",
+    "identityInPage": true
+  },
+  {
+    "candidate_habitat": "deep",
+    "scientific": "Stomias longibarbatus",
+    "referenceUrl": "https://www.fishbase.se/summary/Stomias-longibarbatus.html",
+    "reviewed": false,
+    "taxonomy": {
+      "usageKey": 2346880,
+      "canonicalName": "Stomias longibarbatus",
+      "status": "ACCEPTED",
+      "rank": "SPECIES",
+      "matchType": "EXACT",
+      "confidence": 99
+    },
+    "actualUrl": "https://www.fishbase.se/summary/Stomias-longibarbatus.html",
+    "environment": "Environment: milieu / climate zone / depth range / distribution range Ecology Marine;  bathypelagic; depth range 400 - 1463 m (Ref. 58302 ). Deep-water; 41°N -   40°S ",
+    "size": "Max length : 43.0 cm SL male/unsexed; (Ref. 37473 ) ",
+    "biology": "Biology Glossary (e.g.  epibenthic) Inhabits deep oceanic waters to more than 1,000 m depth (Ref. 4783 ).  Meso- and bathypelagic (Ref. 58302 ). ",
+    "identityInPage": true
+  },
+  {
+    "candidate_habitat": "deep",
+    "scientific": "Stomias danae",
+    "referenceUrl": "https://www.fishbase.se/summary/Stomias-danae.html",
+    "reviewed": false,
+    "taxonomy": {
+      "usageKey": 2346856,
+      "canonicalName": "Stomias danae",
+      "status": "ACCEPTED",
+      "rank": "SPECIES",
+      "matchType": "EXACT",
+      "confidence": 99
+    },
+    "actualUrl": "https://www.fishbase.se/summary/Stomias-danae.html",
+    "environment": "Environment: milieu / climate zone / depth range / distribution range Ecology Marine;  bathypelagic; depth range 100 - 2671 m (Ref. 58302 ). Deep-water ",
+    "size": "Max length : 16.7 cm NG male/unsexed; (Ref. 46892 ) Biology Glossary (e.g.  epibenthic) Mesopelagic (Ref. 58302 ). Life cycle and mating behavior Maturity | Reproduction | Spawning | Eggs | Fecundity | Larvae Main reference Upload your references | References | Coordinator | Collaborators Nakamura, I., T. Inada, M. Takeda and H. Hatanaka , 1986. Im",
+    "biology": "Biology Glossary (e.g.  epibenthic) Mesopelagic (Ref. 58302 ). ",
+    "identityInPage": true
+  },
+  {
+    "candidate_habitat": "deep",
+    "scientific": "Stomias affinis",
+    "referenceUrl": "https://www.fishbase.se/summary/Stomias-affinis.html",
+    "reviewed": false,
+    "taxonomy": {
+      "usageKey": 2346861,
+      "canonicalName": "Stomias affinis",
+      "status": "ACCEPTED",
+      "rank": "SPECIES",
+      "matchType": "EXACT",
+      "confidence": 99
+    },
+    "actualUrl": "https://www.fishbase.se/summary/Stomias-affinis.html",
+    "environment": "Environment: milieu / climate zone / depth range / distribution range Ecology Marine;  bathypelagic; depth range 0 - 3182 m (Ref. 26165 ). Deep-water; 35°N -   39°S, 180°W -   180°E ",
+    "size": "Max length : 21.9 cm SL male/unsexed; (Ref. 13608 ) ",
+    "biology": "Biology Glossary (e.g.  epibenthic) Some individuals may migrate to the surface at night (Ref. 27000 ).  Minimum depth reported taken from Ref. 27000 .  Feed mainly on myctophids (Ref. 47377 ). ",
+    "identityInPage": true
+  },
+  {
+    "candidate_habitat": "deep",
+    "scientific": "Narcetes stomias",
+    "referenceUrl": "https://www.fishbase.se/summary/Narcetes-stomias.html",
+    "reviewed": false,
+    "taxonomy": {
+      "usageKey": 2410645,
+      "canonicalName": "Narcetes stomias",
+      "status": "ACCEPTED",
+      "rank": "SPECIES",
+      "matchType": "EXACT",
+      "confidence": 99
+    },
+    "actualUrl": "https://www.fishbase.se/summary/Narcetes-stomias.html",
+    "environment": "Environment: milieu / climate zone / depth range / distribution range Ecology Marine;  bathypelagic; depth range 1500 - 2300 m (Ref. 4460 ), usually 1800 - 2100 m (Ref. 4460 ). Deep-water; 54°N -   28°S, 166°E -   2°W (Ref. 57325 ) ",
+    "size": "Max length : 57.5 cm SL male/unsexed; (Ref. 4460 ) ",
+    "biology": "Biology Glossary (e.g.  epibenthic) Benthopelagic to benthic (Ref. 51024 , 75154 ).  Found on the continental slope (Ref. 75154 ). ",
+    "identityInPage": true
+  },
+  {
+    "candidate_habitat": "lake",
+    "scientific": "Opsaridium microlepis",
+    "referenceUrl": "https://www.fishbase.se/summary/Opsaridium-microlepis.html",
+    "reviewed": false,
+    "taxonomy": {
+      "usageKey": 2360221,
+      "canonicalName": "Opsaridium microlepis",
+      "status": "ACCEPTED",
+      "rank": "SPECIES",
+      "matchType": "EXACT",
+      "confidence": 99
+    },
+    "actualUrl": "https://www.fishbase.se/summary/Opsaridium-microlepis.html",
+    "environment": "Environment: milieu / climate zone / depth range / distribution range Ecology Freshwater;  demersal; potamodromous (Ref. 51243 ). Tropical; 9°S -   15°S ",
+    "size": "Max length : 47.0 cm TL male/unsexed; (Ref. 2801 ) ",
+    "biology": "Biology Glossary (e.g.  epibenthic) Caught in ringnets.  Also caught by means of the angling method (Ref. 4967 ).  Occurs in shallow water over sandy plains, but can also be seen in open water.  A hunting predator which chases Engraulicypris sardella (Ref. 5595 ). ",
+    "identityInPage": true
+  },
+  {
+    "candidate_habitat": "lake",
+    "scientific": "Salvelinus tolmachoffi",
+    "referenceUrl": "https://www.fishbase.se/summary/Salvelinus-tolmachoffi.html",
+    "reviewed": false,
+    "taxonomy": {
+      "usageKey": 2351300,
+      "canonicalName": "Salvelinus tolmachoffi",
+      "status": "ACCEPTED",
+      "rank": "SPECIES",
+      "matchType": "EXACT",
+      "confidence": 99
+    },
+    "actualUrl": "https://www.fishbase.se/summary/Salvelinus-tolmachoffi.html",
+    "environment": "Environment: milieu / climate zone / depth range / distribution range Ecology Freshwater;  benthopelagic. Temperate ",
+    "size": "Max length : 37.0 cm TL male/unsexed; (Ref. 593 ) Biology Glossary (e.g.  epibenthic) Inhabits lakes (Ref. 26334 ). Life cycle and mating behavior Maturity | Reproduction | Spawning | Eggs | Fecundity | Larvae Main reference Upload your references | References | Coordinator | Collaborators Reshetnikov, Y.S., N.G. Bogutskaya, E.D. Vasil'eva, E.A. Do",
+    "biology": "Biology Glossary (e.g.  epibenthic) Inhabits lakes (Ref. 26334 ). ",
+    "identityInPage": true
+  },
+  {
+    "candidate_habitat": "lake",
+    "scientific": "Salmo fibreni",
+    "referenceUrl": "https://www.fishbase.se/summary/Salmo-fibreni.html",
+    "reviewed": false,
+    "taxonomy": {
+      "usageKey": 2351640,
+      "canonicalName": "Salmo fibreni",
+      "status": "ACCEPTED",
+      "rank": "SPECIES",
+      "matchType": "EXACT",
+      "confidence": 99
+    },
+    "actualUrl": "https://www.fishbase.se/summary/Salmo-fibreni.html",
+    "environment": "Environment: milieu / climate zone / depth range / distribution range Ecology Freshwater;  benthopelagic. Subtropical; 10°C - 11°C ",
+    "size": "Max length : 19.5 cm SL male/unsexed; (Ref. 59043 ) ",
+    "biology": "Biology Glossary (e.g.  epibenthic) Inhabits Lake Posta Fibreno, an elongated karstic lake with underwater springs and caves, 1.1km long, 0.1-0.3 km wide, 0.29 square kilometer, 285 m above sea level, 15 m deep (average depth 2.5 m), about 10°C throughout the year, and clear and well oxygenated water.  Sometimes enters lake tributaries.  Spawns close to underwater springs in December-January.  The lake is very vulnerable to fish introduction or accidental pollution (Ref. 59043 ). ",
+    "identityInPage": true
+  },
+  {
+    "candidate_habitat": "lake",
+    "scientific": "Salmo viridis",
+    "referenceUrl": "https://www.fishbase.se/summary/Salmo-viridis.html",
+    "reviewed": false,
+    "taxonomy": {
+      "usageKey": 9147686,
+      "canonicalName": "Salmo viridis",
+      "status": "ACCEPTED",
+      "rank": "SPECIES",
+      "matchType": "EXACT",
+      "confidence": 99
+    },
+    "actualUrl": "https://www.fishbase.se/summary/Salmo-viridis.html",
+    "environment": "Environment: milieu / climate zone / depth range / distribution range Ecology Freshwater;  benthopelagic. Subtropical ",
+    "size": "Max length : 43.0 cm SL male/unsexed; (Ref. 107622 ) ",
+    "biology": "Biology Glossary (e.g.  epibenthic) This species inhabits Isli Lake, situated on a high plateau, 2270 meters above sea level; it is a large and deep, ±2 km of diameter and 92 m deep, oligotrophic lake (Ref. 107622 ). The spawning of this species takes place at the end of October and November in the sandy beaches of the lake (Ref. 107622 ). The habitat of this species is threatened due to eutrophication, related to intensive overpasture; overfishing is also a problem due to the low protection of the lake; no juveniles have been observed in the last years and several malformations in fins and skull were observed; therefore this species should be included in the IUCN category of endangered (Ref. 107622 ). ",
+    "identityInPage": true
+  },
+  {
+    "candidate_habitat": "lake",
+    "scientific": "Petrochromis macrognathus",
+    "referenceUrl": "https://www.fishbase.se/summary/Petrochromis-macrognathus.html",
+    "reviewed": false,
+    "taxonomy": {
+      "usageKey": 2370292,
+      "canonicalName": "Petrochromis macrognathus",
+      "status": "ACCEPTED",
+      "rank": "SPECIES",
+      "matchType": "EXACT",
+      "confidence": 99
+    },
+    "actualUrl": "https://www.fishbase.se/summary/Petrochromis-macrognathus.html",
+    "environment": "Environment: milieu / climate zone / depth range / distribution range Ecology Freshwater;  demersal; depth range 0 - 0 m (Ref. 58018 ). Tropical; 24°C - 26°C (Ref. 2059 ); 3°S -   9°S ",
+    "size": "Max length : 17.2 cm SL male/unsexed; (Ref. 35773 ) Biology Glossary (e.g.  epibenthic) Cryptic species between rocks near shore (Ref. 35773 ). Occurs in the upper 2-3 m of the water column (Ref. 7343 , 46829 , 52921 ). Feeds by scraping loose algae from the vertical faces of boulders in turbulent water (Ref. 6770 , 46829 ). In order to cope with t",
+    "biology": "Biology Glossary (e.g.  epibenthic) Cryptic species between rocks near shore (Ref. 35773 ). Occurs in the upper 2-3 m of the water column (Ref. 7343 , 46829 , 52921 ). Feeds by scraping loose algae from the vertical faces of boulders in turbulent water (Ref. 6770 , 46829 ). In order to cope with the movement of the surge its feeding speed is fast; very shy species; males are territorial and hide in large caves when threatened (Ref. 46829 ). Often solitary but more than 2 individuals may be seen at once (Ref. 7343 ). ",
+    "identityInPage": true
+  },
+  {
+    "candidate_habitat": "lake",
+    "scientific": "Benthochromis melanoides",
+    "referenceUrl": "https://www.fishbase.se/summary/Benthochromis-melanoides.html",
+    "reviewed": false,
+    "taxonomy": {
+      "usageKey": 2373771,
+      "canonicalName": "Benthochromis melanoides",
+      "status": "ACCEPTED",
+      "rank": "SPECIES",
+      "matchType": "EXACT",
+      "confidence": 99
+    },
+    "actualUrl": "https://www.fishbase.se/summary/Benthochromis-melanoides.html",
+    "environment": "Environment: milieu / climate zone / depth range / distribution range Ecology Freshwater;  pelagic. Tropical; 3°S -   9°S ",
+    "size": "Max length : 18.2 cm TL male/unsexed; (Ref. 5606 ) ",
+    "biology": "Biology Glossary (e.g.  epibenthic) Feeds on small crustacens as well as plankton (Ref. 7343 ). Mouthbrooder (Ref. 74417 ). ",
+    "identityInPage": true
+  },
+  {
+    "candidate_habitat": "lake",
+    "scientific": "Neolamprologus splendens",
+    "referenceUrl": "https://www.fishbase.se/summary/Neolamprologus-splendens.html",
+    "reviewed": false,
+    "taxonomy": {
+      "usageKey": 2371759,
+      "canonicalName": "Neolamprologus splendens",
+      "status": "ACCEPTED",
+      "rank": "SPECIES",
+      "matchType": "EXACT",
+      "confidence": 99
+    },
+    "actualUrl": "https://www.fishbase.se/summary/Neolamprologus-splendens.html",
+    "environment": "Environment: milieu / climate zone / depth range / distribution range Ecology Freshwater;  benthopelagic; pH range: 7.5 - 9.0; dH range: 10 - 25. Tropical; 24°C - 28°C (Ref. 12468 ); 7°S -   8°S ",
+    "size": "Max length : 8.0 cm TL male/unsexed; (Ref. 5667 ) Biology Glossary (e.g.  epibenthic) Life cycle and mating behavior Maturity | Reproduction | Spawning | Eggs | Fecundity | Larvae Main reference Upload your references | References | Coordinator : Kullander, Sven O. | Collaborators Maréchal, C. and M. Poll , 1991. Neolamprologus. p. 274-294. In J. D",
+    "biology": "Biology Glossary (e.g.  epibenthic) ",
+    "identityInPage": true
+  },
+  {
+    "candidate_habitat": "lake",
+    "scientific": "Nimbochromis fuscotaeniatus",
+    "referenceUrl": "https://www.fishbase.se/summary/Nimbochromis-fuscotaeniatus.html",
+    "reviewed": false,
+    "taxonomy": {
+      "usageKey": 2371169,
+      "canonicalName": "Nimbochromis fuscotaeniatus",
+      "status": "ACCEPTED",
+      "rank": "SPECIES",
+      "matchType": "EXACT",
+      "confidence": 99
+    },
+    "actualUrl": "https://www.fishbase.se/summary/Nimbochromis-fuscotaeniatus.html",
+    "environment": "Environment: milieu / climate zone / depth range / distribution range Ecology Freshwater;  demersal; depth range 0 - 15 m (Ref. 55922 ). Tropical; 24°C - 26°C (Ref. 2060 ); 12°S -   15°S ",
+    "size": "Max length : 25.0 cm TL male/unsexed; (Ref. 5595 ); 20.0 cm TL (female) ",
+    "biology": "Biology Glossary (e.g.  epibenthic) Widespread but uncommon (Ref. 55922 ).  Usually solitary in shallow, vegetated areas and in the intermediate sand-rock habitat (Ref. 5595 , 55922 ).  Feeds on small fishes (Ref. 5595 ). ",
+    "identityInPage": true
+  },
+  {
+    "candidate_habitat": "lake",
+    "scientific": "Petrochromis fasciolatus",
+    "referenceUrl": "https://www.fishbase.se/summary/Petrochromis-fasciolatus.html",
+    "reviewed": false,
+    "taxonomy": {
+      "usageKey": 2370295,
+      "canonicalName": "Petrochromis fasciolatus",
+      "status": "ACCEPTED",
+      "rank": "SPECIES",
+      "matchType": "EXACT",
+      "confidence": 99
+    },
+    "actualUrl": "https://www.fishbase.se/summary/Petrochromis-fasciolatus.html",
+    "environment": "Environment: milieu / climate zone / depth range / distribution range Ecology Freshwater;  benthopelagic; pH range: 7.4 - 8.4; dH range: 7 - 30. Tropical; 23°C - 27°C (Ref. 12468 ); 3°S -   9°S ",
+    "size": "Max length : 15.0 cm TL male/unsexed; (Ref. 5679 ) Biology Glossary (e.g.  epibenthic) Adults usually found over rock, either solitary or in aggregation (Ref. 86760 ).  Feed by scraping rock biocover (Ref. 6770 ).  Females brood their young in the mouth (Ref. 86760 ). Life cycle and mating behavior Maturity | Reproduction | Spawning | Eggs | Fecund",
+    "biology": "Biology Glossary (e.g.  epibenthic) Adults usually found over rock, either solitary or in aggregation (Ref. 86760 ).  Feed by scraping rock biocover (Ref. 6770 ).  Females brood their young in the mouth (Ref. 86760 ). ",
+    "identityInPage": true
+  },
+  {
+    "candidate_habitat": "estuary-tropical",
+    "scientific": "Hemitrygon fluviorum",
+    "referenceUrl": "https://www.fishbase.se/summary/Hemitrygon-fluviorum.html",
+    "reviewed": false,
+    "taxonomy": {
+      "usageKey": 9301034,
+      "canonicalName": "Hemitrygon fluviorum",
+      "status": "ACCEPTED",
+      "rank": "SPECIES",
+      "matchType": "EXACT",
+      "confidence": 99
+    },
+    "actualUrl": "https://www.fishbase.se/summary/Hemitrygon-fluviorum.html",
+    "environment": "Environment: milieu / climate zone / depth range / distribution range Ecology Marine; brackish;  benthopelagic; depth range 1 - 40 m (Ref. 86942 ). Tropical; 9°S -   37°S, 129°E -   155°E (Ref. 114953 ) ",
+    "size": "Max length : 130 cm TL male/unsexed; (Ref. 9840 ); max. published weight: 6.1 kg (Ref. 40637 ) Biology Glossary (e.g.  epibenthic) Found in mangrove swamps and estuaries (Ref. 9840 ).  Feeds on shellfish (Ref. 6871 ), worms, crabs and other crustaceans (Ref. 114953 ).  Size could possibly reach 160 cm DW (Ref. 114953 ).  Ovoviviparous (Ref. 50449 )",
+    "biology": "Biology Glossary (e.g.  epibenthic) Found in mangrove swamps and estuaries (Ref. 9840 ).  Feeds on shellfish (Ref. 6871 ), worms, crabs and other crustaceans (Ref. 114953 ).  Size could possibly reach 160 cm DW (Ref. 114953 ).  Ovoviviparous (Ref. 50449 ). Maturity size ca. 41 cm WD (males) and 63 cm WD (females); hatch size ca. 11 cm WD (Ref. 114953 ). ",
+    "identityInPage": true
+  },
+  {
+    "candidate_habitat": "estuary-tropical",
+    "scientific": "Ambassis marianus",
+    "referenceUrl": "https://www.fishbase.se/summary/Ambassis-marianus.html",
+    "reviewed": false,
+    "taxonomy": {
+      "usageKey": 2387332,
+      "canonicalName": "Ambassis marianus",
+      "status": "ACCEPTED",
+      "rank": "SPECIES",
+      "matchType": "EXACT",
+      "confidence": 99
+    },
+    "actualUrl": "https://www.fishbase.se/summary/Ambassis-marianus.html",
+    "environment": "Environment: milieu / climate zone / depth range / distribution range Ecology Freshwater; brackish;  demersal. Subtropical; 26°S -   36°S ",
+    "size": "Max length : 10.0 cm SL male/unsexed; (Ref. 9002 ); common length : 6.0 cm SL male/unsexed; (Ref. 44894 ) ",
+    "biology": "Biology Glossary (e.g.  epibenthic) Inhabits brackish mangrove estuaries, tidal creeks and lower reaches of freshwater streams.  Aggregations are common among mangrove roots, log snags and aquatic vegetation (Ref. 44894 ).  Occurs in lotic and lentic freshwater as well as in mangrove areas (Ref. 7300 ), forming schools (Ref. 33616 ). ",
+    "identityInPage": true
+  },
+  {
+    "candidate_habitat": "estuary-tropical",
+    "scientific": "Mugilogobius mertoni",
+    "referenceUrl": "https://www.fishbase.se/summary/Mugilogobius-mertoni.html",
+    "reviewed": false,
+    "taxonomy": {
+      "usageKey": 2376879,
+      "canonicalName": "Mugilogobius mertoni",
+      "status": "ACCEPTED",
+      "rank": "SPECIES",
+      "matchType": "EXACT",
+      "confidence": 99
+    },
+    "actualUrl": "https://www.fishbase.se/summary/Mugilogobius-mertoni.html",
+    "environment": "Environment: milieu / climate zone / depth range / distribution range Ecology Marine; freshwater; brackish;  benthopelagic; amphidromous (Ref. 46888 ); depth range 0 - 5 m (Ref. 86942 ). Tropical (Ref. 13275 ) ",
+    "size": "Max length : 6.0 cm SL male/unsexed; (Ref. 57749 ) ",
+    "biology": "Biology Glossary (e.g.  epibenthic) Facultative air-breathing in the genus (Ref. 126274 ); Mainly recorded from mangroves and estuaries, but also found in coastal freshwater streams (Ref. 43716 ). ",
+    "identityInPage": true
+  },
+  {
+    "candidate_habitat": "estuary-tropical",
+    "scientific": "Acentrogobius janthinopterus",
+    "referenceUrl": "https://www.fishbase.se/summary/Acentrogobius-janthinopterus.html",
+    "reviewed": false,
+    "taxonomy": {
+      "usageKey": 2376434,
+      "canonicalName": "Acentrogobius janthinopterus",
+      "status": "ACCEPTED",
+      "rank": "SPECIES",
+      "matchType": "EXACT",
+      "confidence": 99
+    },
+    "actualUrl": "https://www.fishbase.se/summary/Acentrogobius-janthinopterus.html",
+    "environment": "Environment: milieu / climate zone / depth range / distribution range Ecology Marine; freshwater; brackish;  reef-associated; amphidromous (Ref. 59012 ). Tropical ",
+    "size": "Max length : 12.5 cm TL male/unsexed; (Ref. 7050 ) ",
+    "biology": "Biology Glossary (e.g.  epibenthic) Inhabits mud bottoms of estuaries, marine lakes and occasionally in the vicinity of reefs (Ref. 90102 ). Common in marine lakes (Ref. 37816 ). ",
+    "identityInPage": true
+  },
+  {
+    "candidate_habitat": "estuary-tropical",
+    "scientific": "Mugilogobius littoralis",
+    "referenceUrl": "https://www.fishbase.se/summary/Mugilogobius-littoralis.html",
+    "reviewed": false,
+    "taxonomy": {
+      "usageKey": 2376878,
+      "canonicalName": "Mugilogobius littoralis",
+      "status": "ACCEPTED",
+      "rank": "SPECIES",
+      "matchType": "EXACT",
+      "confidence": 99
+    },
+    "actualUrl": "https://www.fishbase.se/summary/Mugilogobius-littoralis.html",
+    "environment": "Environment: milieu / climate zone / depth range / distribution range Ecology Marine; brackish;  demersal. Tropical; 10°S -   27°S, 112°E -   142°E ",
+    "size": "Max length : 5.5 cm SL male/unsexed; (Ref. 44894 ) ",
+    "biology": "Biology Glossary (e.g.  epibenthic) Facultative air-breathing in the genus (Ref. 126274 ); Occurs intertidally on marine shores, typically in beach-rock pools (near fresh water seepages), in brackish pools behind beach dunes, or in sandy mangrove lagoons along beaches or headlands (Ref. 43716 , 44894 ).  Primarily a saltwater fish, but very occasionally found in almost entirely freshwater conditions (Ref. 44894 ). ",
+    "identityInPage": true
+  },
+  {
+    "candidate_habitat": "estuary-tropical",
+    "scientific": "Gobionellus microdon",
+    "referenceUrl": "https://www.fishbase.se/summary/Gobionellus-microdon.html",
+    "reviewed": false,
+    "taxonomy": {
+      "usageKey": 2375704,
+      "canonicalName": "Gobionellus microdon",
+      "status": "ACCEPTED",
+      "rank": "SPECIES",
+      "matchType": "EXACT",
+      "confidence": 99
+    },
+    "actualUrl": "https://www.fishbase.se/summary/Gobionellus-microdon.html",
+    "environment": "Environment: milieu / climate zone / depth range / distribution range Ecology Freshwater; brackish;  demersal. Tropical ",
+    "size": "Max length : 18.4 cm SL male/unsexed; (Ref. 95327 ) ",
+    "biology": "Biology Glossary (e.g.  epibenthic) Inhabits estuaries and brackish mangrove creeks.  Also recorded from rivers (Ref. 45915 ). ",
+    "identityInPage": true
+  },
+  {
+    "candidate_habitat": "estuary-tropical",
+    "scientific": "Mugilogobius notospilus",
+    "referenceUrl": "https://www.fishbase.se/summary/Mugilogobius-notospilus.html",
+    "reviewed": false,
+    "taxonomy": {
+      "usageKey": 2376875,
+      "canonicalName": "Mugilogobius notospilus",
+      "status": "ACCEPTED",
+      "rank": "SPECIES",
+      "matchType": "EXACT",
+      "confidence": 99
+    },
+    "actualUrl": "https://www.fishbase.se/summary/Mugilogobius-notospilus.html",
+    "environment": "Environment: milieu / climate zone / depth range / distribution range Ecology Marine; freshwater; brackish;  demersal; amphidromous (Ref. 46888 ); depth range 0 - 5 m (Ref. 86942 ). Tropical ",
+    "size": "Max length : 3.0 cm SL male/unsexed; (Ref. 2847 ) Biology Glossary (e.g.  epibenthic) Facultative air-breathing in the genus (Ref. 126274 ); Occurs in brackish estuaries and lower reaches of freshwater streams (Ref. 2847 ). Life cycle and mating behavior Maturity | Reproduction | Spawning | Eggs | Fecundity | Larvae Main reference Upload your refer",
+    "biology": "Biology Glossary (e.g.  epibenthic) Facultative air-breathing in the genus (Ref. 126274 ); Occurs in brackish estuaries and lower reaches of freshwater streams (Ref. 2847 ). ",
+    "identityInPage": true
+  },
+  {
+    "candidate_habitat": "estuary-tropical",
+    "scientific": "Acentrogobius gracilis",
+    "referenceUrl": "https://www.fishbase.se/summary/Acentrogobius-gracilis.html",
+    "reviewed": false,
+    "taxonomy": {
+      "usageKey": 2375803,
+      "canonicalName": "Acentrogobius gracilis",
+      "status": "SYNONYM",
+      "rank": "SPECIES",
+      "matchType": "EXACT",
+      "confidence": 98
+    },
+    "actualUrl": "https://www.fishbase.se/summary/Acentrogobius-gracilis.html",
+    "environment": "Environment: milieu / climate zone / depth range / distribution range Ecology Marine; brackish;  demersal. Tropical ",
+    "size": "Max length : 14.0 cm TL male/unsexed; (Ref. 11344 ) Biology Glossary (e.g.  epibenthic) Life cycle and mating behavior Maturity | Reproduction | Spawning | Eggs | Fecundity | Larvae Main reference Upload your references | References | Coordinator | Collaborators Kailola, P.J. , 1991. The fishes of Papua New Guinea: a revised and annotated checklist",
+    "biology": "Biology Glossary (e.g.  epibenthic) ",
+    "identityInPage": true
+  },
+  {
+    "candidate_habitat": "estuary-tropical",
+    "scientific": "Mugilogobius filifer",
+    "referenceUrl": "https://www.fishbase.se/summary/Mugilogobius-filifer.html",
+    "reviewed": false,
+    "taxonomy": {
+      "usageKey": 2376845,
+      "canonicalName": "Mugilogobius filifer",
+      "status": "ACCEPTED",
+      "rank": "SPECIES",
+      "matchType": "EXACT",
+      "confidence": 99
+    },
+    "actualUrl": "https://www.fishbase.se/summary/Mugilogobius-filifer.html",
+    "environment": "Environment: milieu / climate zone / depth range / distribution range Ecology Freshwater; brackish;  benthopelagic. Tropical ",
+    "size": "Max length : 3.9 cm SL male/unsexed; (Ref. 43716 ) ",
+    "biology": "Biology Glossary (e.g.  epibenthic) Facultative air-breathing in the genus (Ref. 126274 ); Inhabits mangrove creeks and estuaries, sometimes well into freshwater influence (Ref. 43716 ). ",
+    "identityInPage": true
+  },
+  {
+    "candidate_habitat": "estuary-tropical",
+    "scientific": "Pandaka pygmaea",
+    "referenceUrl": "https://www.fishbase.se/summary/Pandaka-pygmaea.html",
+    "reviewed": false,
+    "taxonomy": {
+      "usageKey": 2377974,
+      "canonicalName": "Pandaka pygmaea",
+      "status": "ACCEPTED",
+      "rank": "SPECIES",
+      "matchType": "EXACT",
+      "confidence": 99
+    },
+    "actualUrl": "https://www.fishbase.se/summary/Pandaka-pygmaea.html",
+    "environment": "Environment: milieu / climate zone / depth range / distribution range Ecology Marine; freshwater; brackish;  demersal; pH range: 7.0 - 8.4; dH range: ? - 30; amphidromous (Ref. 46888 ); depth range 0 - 2 m (Ref. 90102 ). Tropical; 24°C - 30°C (Ref. 2060 ) ",
+    "size": "Max length : 1.1 cm SL male/unsexed; (Ref. 2060 ); 1.5 cm TL (female) ",
+    "biology": "Biology Glossary (e.g.  epibenthic) This is one of the smallest freshwater fishes:  males are mature at 9 mm, females at 15 mm.  The species used to frequent shady river banks in the Malabon River, Rizal Province, Luzon, Philippines; however, the type locality has been reclaimed and the remaining waters in the area are heavily polluted; the species is considered extinct in the Philippines (Rainer Froese, pers. comm., 2004).  It has been apparently imported into Germany in 1958;  a color photo of the fish was taken in an aquarium (Ref. 2060 ).  Found in brackish waters and mangrove areas of Indonesia (M. Kottelat, pers. comm.). ",
+    "identityInPage": true
+  },
+  {
+    "candidate_habitat": "estuary-tropical",
+    "scientific": "Pseudogobius masago",
+    "referenceUrl": "https://www.fishbase.se/summary/Pseudogobius-masago.html",
+    "reviewed": false,
+    "taxonomy": {
+      "usageKey": 2375907,
+      "canonicalName": "Pseudogobius masago",
+      "status": "ACCEPTED",
+      "rank": "SPECIES",
+      "matchType": "EXACT",
+      "confidence": 99
+    },
+    "actualUrl": "https://www.fishbase.se/summary/Pseudogobius-masago.html",
+    "environment": "Environment: milieu / climate zone / depth range / distribution range Ecology Marine; brackish;  demersal. Subtropical ",
+    "size": "Max length : 2.2 cm SL male/unsexed; (Ref. 126575 ) ",
+    "biology": "Biology Glossary (e.g.  epibenthic) Facultative air-breathing in the genus (Ref. 126274 ); Occurs in brackish waters (Ref. 43239 ); in intertidal estuarine habitats and river mouths, mud flats and mangroves. A reported small species apparently spawned in May and August and fed mostly on copepods and amphipods. Associated with several Pseudogobius , especially Pseudogobius pocilosoma (Ref. 126575 ). ",
+    "identityInPage": true
+  },
+  {
+    "candidate_habitat": "estuary-tropical",
+    "scientific": "Kryptolebias marmoratus",
+    "referenceUrl": "https://www.fishbase.se/summary/Kryptolebias-marmoratus.html",
+    "reviewed": false,
+    "taxonomy": {
+      "usageKey": 2349291,
+      "canonicalName": "Kryptolebias marmoratus",
+      "status": "ACCEPTED",
+      "rank": "SPECIES",
+      "matchType": "EXACT",
+      "confidence": 99
+    },
+    "actualUrl": "https://www.fishbase.se/summary/Kryptolebias-marmoratus.html",
+    "environment": "Environment: milieu / climate zone / depth range / distribution range Ecology Freshwater; brackish;  benthopelagic; pH range: ? - 7.5; dH range: ? - 16; non-migratory (Ref. 126106 ); depth range 0 - ? m (Ref. 55170 ). Tropical; 18°C - 24°C (Ref. 2060 ); 31°N -   3°N, 93°W -   49°W (Ref. 55170 ) ",
+    "size": "Max length : 7.5 cm TL male/unsexed; (Ref. 27139 ) ",
+    "biology": "Biology Glossary (e.g.  epibenthic) Facultative air-breathing (Ref. 126274 ); Adults inhabit shallow, mud-bottomed ditches, bays, salt marshes and other brackish-water environments; also crab burrows (Ref. 5723 ), moist leaf litter, decaying mangrove logs (Ref. 93034 ).  Can withstand heavy pollution of fresh or salty waters and shares its biotope with Poecilia vivipara which is much more abundant (Ref. 35237 ).  Usually found in water with low oxygen content (Ref. 7251 ).  Either male or hermaphroditic, females don't seem to exist.  Only about 5% of a population are born as males; after 3-4 years about 60% of the (self-fertilizing) hermaphrodites transform into secondary males by losing female structure and function.  The proportion of males depends on the environmental temperature.  Below 20°C, majority are males, above 25°C all are hermaphrodites (Ref. 35237 ).  It is the only known naturally occurring, self-fertilizing vertebrate (Ref. 13056 , 35237 ).  Not a seasonal killifish.  Is very difficult to maintain in aquarium (Ref. 27139 ). ",
+    "identityInPage": true
+  },
+  {
+    "candidate_habitat": "estuary-north",
+    "scientific": "Sander marinus",
+    "referenceUrl": "https://www.fishbase.se/summary/Sander-marinus.html",
+    "reviewed": false,
+    "taxonomy": {
+      "usageKey": 2382183,
+      "canonicalName": "Sander marinus",
+      "status": "ACCEPTED",
+      "rank": "SPECIES",
+      "matchType": "EXACT",
+      "confidence": 99
+    },
+    "actualUrl": "https://www.fishbase.se/summary/Sander-marinus.html",
+    "environment": "Environment: milieu / climate zone / depth range / distribution range Ecology Freshwater; brackish;  benthopelagic. Temperate; 48°N -   36°N, 27°E -   56°E ",
+    "size": "",
+    "biology": "Biology Glossary (e.g.  epibenthic) ",
+    "identityInPage": true
+  },
+  {
+    "candidate_habitat": "estuary-north",
+    "scientific": "Acanthopagrus australis",
+    "referenceUrl": "https://www.fishbase.se/summary/Acanthopagrus-australis.html",
+    "reviewed": false,
+    "taxonomy": {
+      "usageKey": 2392280,
+      "canonicalName": "Acanthopagrus australis",
+      "status": "ACCEPTED",
+      "rank": "SPECIES",
+      "matchType": "EXACT",
+      "confidence": 99
+    },
+    "actualUrl": "https://www.fishbase.se/summary/Acanthopagrus-australis.html",
+    "environment": "Environment: milieu / climate zone / depth range / distribution range Ecology Marine; brackish;  demersal; oceanodromous. Temperate; 19°S -   38°S ",
+    "size": "Max length : 66.0 cm SL male/unsexed; (Ref. 44894 ); max. published weight: 4.5 kg (Ref. 6390 ); max. reported age: 14 years (Ref. 56606 ) Biology Glossary (e.g.  epibenthic) Inhabitant estuaries, coastal rivers, creeks, lakes and bays, usually in marine or brackish water, but in dry seasons they penetrate the lowermost reaches of fresh water (Ref.",
+    "biology": "Biology Glossary (e.g.  epibenthic) Inhabitant estuaries, coastal rivers, creeks, lakes and bays, usually in marine or brackish water, but in dry seasons they penetrate the lowermost reaches of fresh water (Ref. 44894 ).  Common in coastal and estuarine rocky habitat.  They enter rivers upstream to the limit of brackish waters.  They migrate from their feeding to their spawning grounds; they spawn mainly during winter in the vicinity of river entrances; eggs are planktonic and hatch after 2.5 days.  A portion of the population changes sex from male to female after spawning.  They feed on mollusks, crustaceans, worms, fish and ascidians. It is parasitised by the monogeneans Anoplodiscus australis and A. spari on the fins and body surface (Ref. 124057 ). ",
+    "identityInPage": true
+  },
+  {
+    "candidate_habitat": "estuary-north",
+    "scientific": "Alosa maeotica",
+    "referenceUrl": "https://www.fishbase.se/summary/Alosa-maeotica.html",
+    "reviewed": false,
+    "taxonomy": {
+      "usageKey": 2412653,
+      "canonicalName": "Alosa maeotica",
+      "status": "ACCEPTED",
+      "rank": "SPECIES",
+      "matchType": "EXACT",
+      "confidence": 99
+    },
+    "actualUrl": "https://www.fishbase.se/summary/Alosa-maeotica.html",
+    "environment": "Environment: milieu / climate zone / depth range / distribution range Ecology Marine; freshwater; brackish;  pelagic-neritic. Temperate; 48°N -   40°N, 27°E -   43°E (Ref. 188 ) ",
+    "size": "Max length : 33.2 cm TL male/unsexed; (Ref. 96734 ); 33.8 cm TL (female); common length : 18.0 cm SL male/unsexed; (Ref. 188 ); max. published weight: 331.70 g (Ref. 96734 ); max. published weight: 331.70 g; max. reported age: 6 years (Ref. 10547 ) ",
+    "biology": "Biology Glossary (e.g.  epibenthic) Non-anadromous, entering limans and lower parts of river deltas, but only occasionally in freshwater.  They are more or less abundant in lower reaches of rivers and coastal lagoons.  A cold-loving species, tolerating 3 or 4°C.(Ref. 188 ).  At sea, pelagic in deep water and enters brackish lagoons to spawn.  Mature adults spawn first at 2 years and many individuals spawn for 2-4 seasons.  Eggs sink to bottom.  Spent individuals return to the sea to feed.  In autumn, they migrate to southern Black Sea to overwinter.  Juveniles migrate to the sea or estuaries during the first summer (Ref. 59043 ).  Adults feed mainly on small fishes (mainly sprats and anchovies) also on shrimps, gammarids and other large crustaceans (Ref. 188 ). In northern Black Sea, the decline in habitat quality in suitable estuarine ecosystems is expected to have an impact in the immediate future (Ref. 59043 ). ",
+    "identityInPage": true
+  },
+  {
+    "candidate_habitat": "estuary-north",
+    "scientific": "Percalates novemaculeatus",
+    "referenceUrl": "https://www.fishbase.se/summary/Percalates-novemaculeatus.html",
+    "reviewed": false,
+    "taxonomy": {
+      "usageKey": 10263761,
+      "canonicalName": "Percalates novemaculeatus",
+      "status": "SYNONYM",
+      "rank": "SPECIES",
+      "matchType": "EXACT",
+      "confidence": 98
+    },
+    "actualUrl": "https://www.fishbase.se/summary/Percalates-novemaculeatus.html",
+    "environment": "Environment: milieu / climate zone / depth range / distribution range Ecology Freshwater; brackish;  demersal; catadromous (Ref. 138269 ). Temperate; 10°S -   40°S ",
+    "size": "Max length : 60.0 cm TL male/unsexed; (Ref. 6398 ); max. reported age: 22 years (Ref. 38557 ) ",
+    "biology": "Biology Glossary (e.g.  epibenthic) Adults occur in rivers and estuaries (Ref. 7300 , 44894 ), lakes and small streams in upland and coastal plain areas, including brackish estuaries.  They prefer the cover provided by aquatic vegetation in rocky or gravel-bottomed pools.  Only females dwell upstream; males tend to stay in the lower, estuarine reaches of rivers.  Juveniles feed on zooplankton; adult on insects, crustaceans and fishes.  Life cycle is catadromous: flood events between May and August trigger a downstream spawning migration to estuaries.  Plant thickets and sandbars are known sites for egg deposition (Ref. 44894 ).  A 63 cm LCF female was caught and released in Lake Samsonvale, SE Queensland with an estimated weight of more than 4.5 kg (Stephen T. Poole, pers.comm. elops1@yahoo.com, 03/09). ",
+    "identityInPage": true
+  },
+  {
+    "candidate_habitat": "estuary-north",
+    "scientific": "Squalus acanthias",
+    "referenceUrl": "https://www.fishbase.se/summary/Squalus-acanthias.html",
+    "reviewed": false,
+    "taxonomy": {
+      "usageKey": 5216368,
+      "canonicalName": "Squalus acanthias",
+      "status": "ACCEPTED",
+      "rank": "SPECIES",
+      "matchType": "EXACT",
+      "confidence": 99
+    },
+    "actualUrl": "https://www.fishbase.se/summary/Squalus-acanthias.html",
+    "environment": "Environment: milieu / climate zone / depth range / distribution range Ecology Marine; brackish;  bathydemersal; oceanodromous (Ref. 138310 ); depth range 0 - 1978 m (Ref. 125614 ), usually 50 - 300 m (Ref. 43939 ). Temperate; 7°C - 15°C (Ref. 247 ); 78°N -   57°S, 82°W -   171°W (Ref. 247 ) ",
+    "size": "Max length : 200 cm TL male/unsexed; (Ref. 96339 ); common length : 100.0 cm TL male/unsexed; (Ref. ); max. published weight: 9.1 kg (Ref. 11389 ); max. reported age: 75 years (Ref. 39247 ) ",
+    "biology": "Biology Glossary (e.g.  epibenthic) Possibly the most abundant living shark (Ref. 247 ). A demersal, inshore and offshore dogfish of the continental and insular shelf and upper slopes (Ref. 247 , 11230 , 119696 ). Usually near the bottom, but also in midwater and at the surface (Ref. 26346 ). Adults occur mainly between 10-200 m depth (Ref. 247 ). Males and gravid females usually found shallower than non-gravid females. They tolerate brackish water, often found in enclosed bays and estuaries. Reported to enter freshwater (Ref. 11980 ) but cannot survive there for more than a few hours (Ref. 247 ). Highly migratory species, used to be observed in large foraging schools with up to thousands of individuals, usually segregated by size and /or sex, with schools of large gravid females preferentially targeted by fisheries. Their latitudinal (north-south) and depth-related (nearshore-offshore) movements appear to be correlated with their preferred temperature (Ref. 247 ). Tagging experiments showed that populations in the northern North Sea and northwest Scotland made winter migrations to o",
+    "identityInPage": true
+  },
+  {
+    "candidate_habitat": "estuary-north",
+    "scientific": "Ciliata septentrionalis",
+    "referenceUrl": "https://www.fishbase.se/summary/Ciliata-septentrionalis.html",
+    "reviewed": false,
+    "taxonomy": {
+      "usageKey": 2415522,
+      "canonicalName": "Ciliata septentrionalis",
+      "status": "ACCEPTED",
+      "rank": "SPECIES",
+      "matchType": "EXACT",
+      "confidence": 99
+    },
+    "actualUrl": "https://www.fishbase.se/summary/Ciliata-septentrionalis.html",
+    "environment": "Environment: milieu / climate zone / depth range / distribution range Ecology Marine; brackish;  demersal; oceano-estuarine (Ref. 57987 ); depth range 10 - 90 m (Ref. 1371 ), usually 10 - 50 m (Ref. 35388 ). Temperate; 70°N -   44°N, 24°W -   22°E ",
+    "size": "Max length : 20.0 cm TL male/unsexed; (Ref. 1371 ) ",
+    "biology": "Biology Glossary (e.g.  epibenthic) Found in the sublittoral zone, on sand or mud bottoms.  Feed mostly on decapod crustaceans, lobsters, crabs, mysids and polychaetes (Ref. 3663 ).  Oviparous (Ref. 205 ).  Spawning may take place in deeper waters (Ref. 57987 ). ",
+    "identityInPage": true
+  },
+  {
+    "candidate_habitat": "estuary-north",
+    "scientific": "Sander lucioperca",
+    "referenceUrl": "https://www.fishbase.se/summary/Sander-lucioperca.html",
+    "reviewed": false,
+    "taxonomy": {
+      "usageKey": 2382155,
+      "canonicalName": "Sander lucioperca",
+      "status": "ACCEPTED",
+      "rank": "SPECIES",
+      "matchType": "EXACT",
+      "confidence": 99
+    },
+    "actualUrl": "https://www.fishbase.se/summary/Sander-lucioperca.html",
+    "environment": "Environment: milieu / climate zone / depth range / distribution range Ecology Freshwater; brackish;  pelagic; potamodromous (Ref. 126106 ); depth range 2 - 30 m (Ref. 30578 ), usually 2 - 3 m (Ref. 27368 ). Temperate; 6°C - 22°C (Ref. 2059 ); 67°N -   36°N, 1°W -   75°E ",
+    "size": "Max length : 100.0 cm SL male/unsexed; (Ref. 59043 ); common length : 50.0 cm TL male/unsexed; (Ref. 556 ); max. published weight: 20.0 kg (Ref. 40476 ); max. reported age: 17 years (Ref. 59043 ) ",
+    "biology": "Biology Glossary (e.g.  epibenthic) Adults inhabit large, turbid rivers and eutrophic lakes, brackish coastal lakes and estuaries.  They feed mainly on gregarious, pelagic fishes.  They attain first sexual maturity at 3-10 years of age, usually at 4.  Undertake short spawning migrations. Individuals foraging in brackish water move to freshwater habitats.  Migrations up to 250 km have been recorded.  Homing is well developed, even nearby populations may be relatively isolated.  Spawn in pairs at dawn or night.  Spawning occurs in April-May, exceptional from late February until July, depending on latitude and altitude when temperatures reach 10-14° C on spawning grounds (Ref. 59043 ).  Popularly fished by sport fishers.  Its flesh is succulent (Ref. 30578 ).  Utilized fresh or frozen and eaten steamed, broiled and microwaved (Ref. 9988 ).  An individual weighing 19 kg was reportedly caught in 1959 in Starnberger, Bavaria, Germany (Peter Admicka, pers. Comm.  E-mail:  peter.adamicka@oeaw.ac.at). ",
+    "identityInPage": true
+  },
+  {
+    "candidate_habitat": "estuary-north",
+    "scientific": "Osmerus mordax",
+    "referenceUrl": "https://www.fishbase.se/summary/Osmerus-mordax.html",
+    "reviewed": false,
+    "taxonomy": {
+      "usageKey": 4283983,
+      "canonicalName": "Osmerus mordax",
+      "status": "ACCEPTED",
+      "rank": "SPECIES",
+      "matchType": "EXACT",
+      "confidence": 99
+    },
+    "actualUrl": "https://www.fishbase.se/summary/Osmerus-mordax.html",
+    "environment": "Environment: milieu / climate zone / depth range / distribution range Ecology Marine; freshwater; brackish;  pelagic-oceanic; anadromous (Ref. 138124 ); depth range 0 - 425 m (Ref. 58426 ), usually ? - 150 m (Ref. 96339 ). Temperate; 6°C - 18°C (Ref. 1998 ); 73°N -   41°N, 167°W -   53°W (Ref. 86798 ) ",
+    "size": "Max length : 35.6 cm TL male/unsexed; (Ref. 1998 ); max. reported age: 7 years (Ref. 52222 ) ",
+    "biology": "Biology Glossary (e.g.  epibenthic) Nerito-pelagic (Ref. 58426 ).  Inhabits cool clear lakes, medium to large rivers, and coastal waters (Ref. 86798 ).  A schooling species that occurs in midwater of lakes or inshore coastal waters (Ref. 1998 ); at temperatures ranging from 7.2-15.6°C.  Coastal population are anadromous (Ref, 86798 ).  Migrates up to 1,000 km upstream in rivers (Ref. 6793 ).  Occurs possibly to 425 m (Ref. 2851 ).  Feeds on invertebrates such as amphipods, ostracods, aquatic insect larvae and aquatic worms (Ref. 1998 ); food also include copepods, euphausiids, mysids and small fishes (silversides, mummichogs and herring) (Ref. 5951 , 10294 ).  Headed, gutted, sold fresh, frozen and precooked.  Eaten sautéed and fried (Ref. 9988 ). ",
+    "identityInPage": true
+  },
+  {
+    "candidate_habitat": "cold-sea",
+    "scientific": "Thunnus maccoyii",
+    "referenceUrl": "https://www.fishbase.se/summary/Thunnus-maccoyii.html",
+    "reviewed": false,
+    "taxonomy": {
+      "usageKey": 2373941,
+      "canonicalName": "Thunnus maccoyii",
+      "status": "ACCEPTED",
+      "rank": "SPECIES",
+      "matchType": "EXACT",
+      "confidence": 99
+    },
+    "actualUrl": "https://www.fishbase.se/summary/Thunnus-maccoyii.html",
+    "environment": "Environment: milieu / climate zone / depth range / distribution range Ecology Marine;  pelagic-oceanic; oceanodromous (Ref. 71039 ); depth range 0 - 2743 m (Ref. 57178 ). Temperate; 5°C - 20°C (Ref. 168 ); 10°S -   60°S, 180°W -   180°E (Ref. 54921 ) ",
+    "size": "Max length : 245 cm FL male/unsexed; (Ref. 5203 ); common length : 160 cm FL male/unsexed; (Ref. 9684 ); max. published weight: 260.0 kg (Ref. 5203 ); max. reported age: 20 years (Ref. 168 ) ",
+    "biology": "Biology Glossary (e.g.  epibenthic) By maturity, most southern bluefin tuna lead an oceanic, pelagic existence (Ref. 6390 ).  Spawning fish and larvae are encountered in waters with surface temperatures between 20° and 30°C.  An opportunistic feeder, preying on a wide variety of fishes, crustaceans, cephalopods, salps, and other marine animals.  Mostly canned (Ref. 9684 ).  A specialized fishery for sashimi-quality has been developed recently by New Zealand fishers.  In Japan, it is highly prized for the sashimi markets. ",
+    "identityInPage": true
+  },
+  {
+    "candidate_habitat": "cold-sea",
+    "scientific": "Scomberesox scombroides",
+    "referenceUrl": "https://www.fishbase.se/summary/Scomberesox-scombroides.html",
+    "reviewed": false,
+    "taxonomy": {
+      "usageKey": 7778492,
+      "canonicalName": "Scomberesox scombroides",
+      "status": "ACCEPTED",
+      "rank": "SPECIES",
+      "matchType": "EXACT",
+      "confidence": 99
+    },
+    "actualUrl": "https://www.fishbase.se/summary/Scomberesox-scombroides.html",
+    "environment": "Environment: milieu / climate zone / depth range / distribution range Ecology Marine; brackish;  pelagic-oceanic; oceanodromous (Ref. 87829 ); depth range 0 - ? m. Subtropical ",
+    "size": "Max length : 50.0 cm SL male/unsexed; (Ref. 6531 ) ",
+    "biology": "Biology Glossary (e.g.  epibenthic) An epipelagic, gregarious species.  Occurs in surface waters of the open sea; occasionally enters bays and inlets (Ref. 9563 ).  Flesh is highly esteemed (Ref. 6617 ) but large schools are too sporadic to be of commercial importance (Ref. 6531 ).  Feeds on small planktonic organisms, preyed upon by yellowfin tuna, Cape gunnets, marine mammals.  Migrates from spawning areas to cool temperate and plankton-rich waters (Ref. 36731 ). ",
+    "identityInPage": true
+  },
+  {
+    "candidate_habitat": "cold-sea",
+    "scientific": "Luvarus imperialis",
+    "referenceUrl": "https://www.fishbase.se/summary/Luvarus-imperialis.html",
+    "reviewed": false,
+    "taxonomy": {
+      "usageKey": 2387123,
+      "canonicalName": "Luvarus imperialis",
+      "status": "ACCEPTED",
+      "rank": "SPECIES",
+      "matchType": "EXACT",
+      "confidence": 99
+    },
+    "actualUrl": "https://www.fishbase.se/summary/Luvarus-imperialis.html",
+    "environment": "Environment: milieu / climate zone / depth range / distribution range Ecology Marine;  pelagic-oceanic; oceanodromous (Ref. 51243 ); depth range 0 - 200 m (Ref. 6517 ). Subtropical; 60°N -   25°S, 180°W -   180°E ",
+    "size": "Max length : 200 cm TL male/unsexed; (Ref. 9314 ); common length : 152 cm SL male/unsexed; (Ref. 6517 ); max. published weight: 150.0 kg (Ref. 47377 ) ",
+    "biology": "Biology Glossary (e.g.  epibenthic) Oceanic and epipelagic; found near surface or in deep water (Ref. 10821 ).  Apparently solitary (Ref. 9314 ).  Feed mainly on jellyfishes, ctenophores, and other gelatinous planktonic animals (Ref. 2850 , 6885 ).  Spawning starts at the end of spring and during the summer (Ref. 9314 ).  Juveniles unlike adults in that the median fins are longer and further forward, the mouth toothed and the body and fins black-spotted (Ref. 6517 ).  Rarely found in markets (Ref. 9314 ). ",
+    "identityInPage": true
+  },
+  {
+    "candidate_habitat": "cold-sea",
+    "scientific": "Lamna ditropis",
+    "referenceUrl": "https://www.fishbase.se/summary/Lamna-ditropis.html",
+    "reviewed": false,
+    "taxonomy": {
+      "usageKey": 5216246,
+      "canonicalName": "Lamna ditropis",
+      "status": "ACCEPTED",
+      "rank": "SPECIES",
+      "matchType": "EXACT",
+      "confidence": 99
+    },
+    "actualUrl": "https://www.fishbase.se/summary/Lamna-ditropis.html",
+    "environment": "Environment: milieu / climate zone / depth range / distribution range Ecology Marine;  pelagic-oceanic; oceanodromous (Ref. 87829 ); depth range 0 - 650 m (Ref. 50550 ), usually 0 - 152 m (Ref. 55221 ). Boreal; 66°N -   22°N, 120°E -   115°W ",
+    "size": "Max length : 305 cm TL male/unsexed; (Ref. 247 ); common length : 180 cm TL male/unsexed; (Ref. 9988 ); max. published weight: 175.0 kg (Ref. 9988 ); max. reported age: 27 years (Ref. 119696 ) ",
+    "biology": "Biology Glossary (e.g.  epibenthic) A coastal-littoral and epipelagic shark that prefers boreal to cool temperate waters, from the surface to at least 152 m, and is common in continental offshore waters but range inshore to just off beaches. Occurs singly or in schools or feeding aggregations of several individuals; feeds on fishes (Ref. 247 ). Seasonally migratory (following food prey) and segregate by age and sex where adults  move further north than young (Ref. 58085 ). Ovoviviparous, embryos feeding on yolk sac and other ova produced by the mother (Ref. 50449 ).  With up to 4 young in a litter (Ref. 247 ).  Fast swimmer (Ref. 9988 ).  Potentially dangerous but has never or seldom been implicated in human attacks (Ref. 247 ).  Causes considerable damage to commercial catches and gear (Ref. 6885 ).  Utilized fresh, dried or salted, and frozen; fins, hides and livers are also used, with fins having particular value; can be broiled and baked (Ref. 9988 ). Reported to attain at least 27 years of age and reach maximum depth of at least 792 m (in Ref. 119696 ). ",
+    "identityInPage": true
+  },
+  {
+    "candidate_habitat": "cold-sea",
+    "scientific": "Alopias vulpinus",
+    "referenceUrl": "https://www.fishbase.se/summary/Alopias-vulpinus.html",
+    "reviewed": false,
+    "taxonomy": {
+      "usageKey": 2420797,
+      "canonicalName": "Alopias vulpinus",
+      "status": "ACCEPTED",
+      "rank": "SPECIES",
+      "matchType": "EXACT",
+      "confidence": 99
+    },
+    "actualUrl": "https://www.fishbase.se/summary/Alopias-vulpinus.html",
+    "environment": "Environment: milieu / climate zone / depth range / distribution range Ecology Marine;  pelagic-oceanic; oceanodromous (Ref. 87829 ); depth range 0 - 650 m (Ref. 106604 ), usually 0 - 200 m (Ref. 55168 ). Subtropical; 74°N -   58°S, 180°W -   180°E (Ref. 54279 ) ",
+    "size": "Max length : 573 cm TL male/unsexed; (Ref. 106604 ); 549.0 cm TL (female); common length : 450 cm TL male/unsexed; (Ref. 5217 ); max. published weight: 348.0 kg (Ref. 40637 ); max. reported age: 25 years (Ref. 81241 ) ",
+    "biology": "Biology Glossary (e.g.  epibenthic) Coastal over continental and insular shelves and epipelagic far from land (Ref. 30573 , 43278 , 58302 ).  Oceanic although most abundant near land, pelagic at 1-366 m (Ref. 58302 ).  Young often close inshore and in shallow bays (Ref. 5578 ).  Feeds on schooling fishes (including mackerels, bluefishes, clupeids, needlefishes, lancetfishes and lanternfishes), squid, octopi, pelagic crustaceans, and rarely seabirds (Ref. 247 ).  Ovoviviparous, embryos feeding on yolk sac and other ova produced by the mother (Ref. 43278 , 50449 ).  Uses its long caudal fin to bunch up and stun prey (Ref. 2850 ).  Spatial and depth segregation by sex in northwestern Indian Ocean populations (Ref. 247 ).  A few attacks on boats are doubtfully attributed to this species, but it is otherwise apparently harmless to humans, though the size of adults of this species command respect (Ref. 247 ).  May cause damage to fishing gear (Ref. 6885 ).  Valued for its meat, liver, hide, and fins; utilized fresh, dried-salted, smoked, and frozen (Ref. 9987 ). ",
+    "identityInPage": true
+  },
+  {
+    "candidate_habitat": "cold-sea",
+    "scientific": "Alopias superciliosus",
+    "referenceUrl": "https://www.fishbase.se/summary/Alopias-superciliosus.html",
+    "reviewed": false,
+    "taxonomy": {
+      "usageKey": 2420813,
+      "canonicalName": "Alopias superciliosus",
+      "status": "ACCEPTED",
+      "rank": "SPECIES",
+      "matchType": "EXACT",
+      "confidence": 99
+    },
+    "actualUrl": "https://www.fishbase.se/summary/Alopias-superciliosus.html",
+    "environment": "Environment: milieu / climate zone / depth range / distribution range Ecology Marine;  pelagic-oceanic; oceanodromous (Ref. 87829 ); depth range 0 - 730 m (Ref. 89423 ), usually 0 - 100 m (Ref. 43278 ). Subtropical; 46°N -   40°S, 180°W -   180°E (Ref. 54278 ) ",
+    "size": "Max length : 488 cm TL male/unsexed; (Ref. 40637 ); common length : 350 cm TL male/unsexed; (Ref. 5217 ); max. published weight: 363.8 kg (Ref. 40637 ); max. reported age: 20 years (Ref. 28081 ) ",
+    "biology": "Biology Glossary (e.g.  epibenthic) Occurs in coastal waters over continental shelves, sometimes close inshore in shallow waters, and on the high seas far from land (Ref. 247 , 43278 , 58302 ).  Oceanic, pelagic and near bottom at 1->500 m (Ref. 58302 ).  Depth range to at least 500 m (Ref. 247 ).  Feeds on pelagic fishes (lancetfishes, herring, mackerel and small billfishes (Ref. 43278 )) and bottom fishes e.g. hake (Ref. 43278 )) and squids (Ref. 247 ).  Ovoviviparous, embryos feeding on yolk sac and other ova produced by the mother (Ref. 43278 , 50449 ).  Stuns its prey with its long caudal fin (Ref. 247 ).  Utilized for human consumption, liver oil for vitamins, skin for leather, and fins for shark-fin soup (Ref. 247 ).  Marketed fresh and may be broiled, baked or grilled, but unsuitable for steaming, boiling or frying; meat may be salted and dried (Ref. 9987 ).  Also Ref. 33743 . ",
+    "identityInPage": true
+  },
+  {
+    "candidate_habitat": "warm-sea",
+    "scientific": "Alopias pelagicus",
+    "referenceUrl": "https://www.fishbase.se/summary/Alopias-pelagicus.html",
+    "reviewed": false,
+    "taxonomy": {
+      "usageKey": 2420809,
+      "canonicalName": "Alopias pelagicus",
+      "status": "ACCEPTED",
+      "rank": "SPECIES",
+      "matchType": "EXACT",
+      "confidence": 99
+    },
+    "actualUrl": "https://www.fishbase.se/summary/Alopias-pelagicus.html",
+    "environment": "Environment: milieu / climate zone / depth range / distribution range Ecology Marine;  pelagic-oceanic; oceanodromous (Ref. 87829 ); depth range 0 - 300 m (Ref. 106604 ), usually 0 - 150 m (Ref. 55167 ). Tropical; 40°N -   42°S, 16°E -   70°W (Ref. 54277 ) ",
+    "size": "Max length : 428 cm TL male/unsexed; (Ref. 106604 ); 383.0 cm TL (female); common length : 276 cm TL male/unsexed; (Ref. ); max. reported age: 29 years (Ref. 48844 ) ",
+    "biology": "Biology Glossary (e.g.  epibenthic) Primarily an oceanic species but sometimes close inshore (Ref. 247 , 5578 , 58302 ); neritic to oceanic, 0-152 m (Ref. 11230 ).  Epipelagic (Ref. 58302 ).  Mesopelagic in the tropics; may enter atoll lagoons (Ref. 37816 ).  Stuns its prey with its tail, presumably feeding on small fishes and cephalopods (Ref. 6871 ).  Ovoviviparous, embryos feeding on yolk sac and other ova produced by the mother (Ref. 43278 , 50449 ).  Sometimes caught by ski-boat anglers (Ref. 5578 ).  Utilized for human consumption, liver oil for vitamin extraction, hides for leather, and fins for shark-fin soup (Ref. 13570 ).  A very common catch in the tuna and shark longline, and tuna drift net fisheries (Ref.58048).  Maximum and common size of males estimated from discussion in Ref. 247 .  Adult females may reach at least 330 cm TL (Ref. 47613 ). ",
+    "identityInPage": true
+  },
+  {
+    "candidate_habitat": "warm-sea",
+    "scientific": "Euthynnus lineatus",
+    "referenceUrl": "https://www.fishbase.se/summary/Euthynnus-lineatus.html",
+    "reviewed": false,
+    "taxonomy": {
+      "usageKey": 5208567,
+      "canonicalName": "Euthynnus lineatus",
+      "status": "ACCEPTED",
+      "rank": "SPECIES",
+      "matchType": "EXACT",
+      "confidence": 99
+    },
+    "actualUrl": "https://www.fishbase.se/summary/Euthynnus-lineatus.html",
+    "environment": "Environment: milieu / climate zone / depth range / distribution range Ecology Marine;  pelagic-oceanic; oceanodromous (Ref. 51243 ); depth range 0 - 40 m (Ref. 5227 ). Tropical; 39°N -   16°S, 128°W -   77°W (Ref. 168 ) ",
+    "size": "Max length : 84.0 cm FL male/unsexed; (Ref. 168 ); common length : 60.0 cm FL male/unsexed; (Ref. 9340 ); max. published weight: 9.1 kg (Ref. 168 ) ",
+    "biology": "Biology Glossary (e.g.  epibenthic) Occurs rarely where surface temperatures fall below 23°C.  Its larvae are more frequently encountered at temperatures above 26°C and are practically confined to waters within about 240 miles off the mainland.  Inhabits near the surface of coastal waters and offshore waters (Ref. 11035 ).  Form multi-species schools with Thunnus albacares and Katsuwonus pelamis .  An opportunistic predator which shares feeding pattern with other tunas and probably compete for food with other species such as yellowfin tuna, common dolphin, oriental bonito, among others. ",
+    "identityInPage": true
+  },
+  {
+    "candidate_habitat": "warm-sea",
+    "scientific": "Thunnus atlanticus",
+    "referenceUrl": "https://www.fishbase.se/summary/Thunnus-atlanticus.html",
+    "reviewed": false,
+    "taxonomy": {
+      "usageKey": 2373969,
+      "canonicalName": "Thunnus atlanticus",
+      "status": "ACCEPTED",
+      "rank": "SPECIES",
+      "matchType": "EXACT",
+      "confidence": 99
+    },
+    "actualUrl": "https://www.fishbase.se/summary/Thunnus-atlanticus.html",
+    "environment": "Environment: milieu / climate zone / depth range / distribution range Ecology Marine;  pelagic-oceanic; oceanodromous (Ref. 71039 ); depth range 0 - 50 m. Tropical; 20°C -  ? (Ref. 168 ); 43°N -   28°S, 100°W -   26°W (Ref. 55290 ) ",
+    "size": "Max length : 108 cm FL male/unsexed; (Ref. 40637 ); common length : 72.0 cm FL male/unsexed; (Ref. 168 ); max. published weight: 20.6 kg (Ref. 40637 ) ",
+    "biology": "Biology Glossary (e.g.  epibenthic) Found in oceanic waters, sometimes not far from the coast (Ref. 13628 ).  Forms large mixed schools with the skipjack tuna.  Its spawning grounds are located well offshore.  Preys on surface and deep-sea fishes, squids, amphipods, shrimps, crabs and stomatopods and decapod larvae.  The largest fishery for blackfin tuna operates off the southeastern coast of Cuba and uses live-bait and pole.  Utilized fresh, dried or salted, canned and frozen (Ref. 9987 ). ",
+    "identityInPage": true
+  },
+  {
+    "candidate_habitat": "warm-sea",
+    "scientific": "Exocoetus monocirrhus",
+    "referenceUrl": "https://www.fishbase.se/summary/Exocoetus-monocirrhus.html",
+    "reviewed": false,
+    "taxonomy": {
+      "usageKey": 2368663,
+      "canonicalName": "Exocoetus monocirrhus",
+      "status": "ACCEPTED",
+      "rank": "SPECIES",
+      "matchType": "EXACT",
+      "confidence": 99
+    },
+    "actualUrl": "https://www.fishbase.se/summary/Exocoetus-monocirrhus.html",
+    "environment": "Environment: milieu / climate zone / depth range / distribution range Ecology Marine;  pelagic-oceanic; oceanodromous (Ref. 51243 ); depth range 0 - 20 m. Tropical; 22°C - 30°C (Ref. 119460 ); 32°N -   35°S, 24°E -   78°W ",
+    "size": "Max length : 20.0 cm SL male/unsexed; (Ref. 9839 ) ",
+    "biology": "Biology Glossary (e.g.  epibenthic) Epipelagic in oceanic and neritic waters (Ref. 9839 ).  May leap out of the water and glide for considerable distances above the surface. ",
+    "identityInPage": true
+  },
+  {
+    "candidate_habitat": "warm-sea",
+    "scientific": "Euthynnus alletteratus",
+    "referenceUrl": "https://www.fishbase.se/summary/Euthynnus-alletteratus.html",
+    "reviewed": false,
+    "taxonomy": {
+      "usageKey": 5208565,
+      "canonicalName": "Euthynnus alletteratus",
+      "status": "ACCEPTED",
+      "rank": "SPECIES",
+      "matchType": "EXACT",
+      "confidence": 99
+    },
+    "actualUrl": "https://www.fishbase.se/summary/Euthynnus-alletteratus.html",
+    "environment": "Environment: milieu / climate zone / depth range / distribution range Ecology Marine; brackish;  pelagic-oceanic; oceanodromous (Ref. 71039 ); depth range 1 - 150 m (Ref. 28173 ). Tropical; 56°N -   30°S, 92°W -   42°E ",
+    "size": "Max length : 122 cm TL male/unsexed; (Ref. 26340 ); common length : 80.0 cm TL male/unsexed; (Ref. 5217 ); max. published weight: 16.5 kg (Ref. 40637 ); max. reported age: 10 years (Ref. 28173 ) ",
+    "biology": "Biology Glossary (e.g.  epibenthic) Found in neritic waters close inshore (Ref. 13628 ).  This schooling species is an opportunistic predator which feeds on virtually everything within its range, i.e. crustaceans, fishes (mainly clupeoid), squids, heteropods and tunicates.  Eggs and larvae are pelagic (Ref. 6769 ).  Specialized traps (madragues) are used in Tunisia and Morocco.  Diving bird flocks may indicate large schools (Ref. 9710 ).  Utilized fresh, dried-salted, smoked, canned and frozen (Ref. 9987 ).  A popular game fish (Ref. 9710 ). ",
+    "identityInPage": true
+  },
+  {
+    "candidate_habitat": "warm-sea",
+    "scientific": "Thunnus obesus",
+    "referenceUrl": "https://www.fishbase.se/summary/Thunnus-obesus.html",
+    "reviewed": false,
+    "taxonomy": {
+      "usageKey": 2373996,
+      "canonicalName": "Thunnus obesus",
+      "status": "ACCEPTED",
+      "rank": "SPECIES",
+      "matchType": "EXACT",
+      "confidence": 99
+    },
+    "actualUrl": "https://www.fishbase.se/summary/Thunnus-obesus.html",
+    "environment": "Environment: milieu / climate zone / depth range / distribution range Ecology Marine;  pelagic-oceanic; oceanodromous (Ref. 71039 ); depth range 0 - 1500 m (Ref. 117020 ), usually 0 - 500 m (Ref. 117020 ). Subtropical; 13°C - 29°C (Ref. 168 ); 52°N -   48°S, 180°W -   180°E ",
+    "size": "Max length : 250 cm TL male/unsexed; (Ref. 27000 ); common length : 180 cm FL male/unsexed; (Ref. 168 ); max. published weight: 210.0 kg (Ref. 9987 ); max. reported age: 17 years (Ref. 137697 ) ",
+    "biology": "Biology Glossary (e.g.  epibenthic) Occur in areas where water temperatures range from 13°-29°C, but the optimum is between 17° and 22°C.  Variation in occurrence is closely related to seasonal and climatic changes in surface temperature and thermocline.  Juveniles and small adults school at the surface in mono-species groups or mixed with other tunas, may be associated with floating objects.  Adults stay in deeper waters (Ref. 5377 ).  Eggs and larvae are pelagic (Ref. 6390 ).  Feed on a wide variety of fishes, cephalopods and crustaceans during the day and at night (Ref. 9340 ).  Meat is highly prized and processed into sashimi in Japan.  Marketed mainly canned or frozen (Ref. 9684 ), but  also sold  fresh (Ref. 9340 ). ",
+    "identityInPage": true
+  },
+  {
+    "candidate_habitat": "warm-sea",
+    "scientific": "Coryphaena hippurus",
+    "referenceUrl": "https://www.fishbase.se/summary/Coryphaena-hippurus.html",
+    "reviewed": false,
+    "taxonomy": {
+      "usageKey": 2381939,
+      "canonicalName": "Coryphaena hippurus",
+      "status": "ACCEPTED",
+      "rank": "SPECIES",
+      "matchType": "EXACT",
+      "confidence": 99
+    },
+    "actualUrl": "https://www.fishbase.se/summary/Coryphaena-hippurus.html",
+    "environment": "Environment: milieu / climate zone / depth range / distribution range Ecology Marine; brackish;  pelagic-neritic; oceanodromous (Ref. 87829 ); depth range 0 - 85 m (Ref. 13608 ), usually 5 - 10 m (Ref. 40849 ). Subtropical; 21°C - 30°C (Ref. 26 ); 50°N -   40°S, 180°W -   180°E (Ref. 54341 ) ",
+    "size": "Max length : 210 cm TL male/unsexed; (Ref. 9846 ); common length : 100.0 cm TL male/unsexed; (Ref. 3390 ); max. published weight: 40.0 kg (Ref. 30874 ); max. reported age: 4 years (Ref. 2885 ) ",
+    "biology": "Biology Glossary (e.g.  epibenthic) Adults are found in open waters but also near the coast (Ref. 9293 , 11230 ).  Form schools.  Feed on almost all  forms of fish and zooplankton; also takes crustaceans and squid (Ref. 2850 ).  Sexual maturity is reached in 4-5 months (3 for captive fish) (Ref. 11441 ).  Spawn in the open sea and probably approximate to the coast when water temperature rises (Ref. 9293 ).  Eggs and larvae are pelagic (Ref. 6755 ).  Attracting devices such as floating bundles of bamboo reeds or cork planks are used to concentrate dolphin fish before the nets are set.  Marketed frozen (Ref. 9987 ) and fresh and is of high value (Ref. 9293 ). Caught by trolling and on tuna longlines; also occasionally with drift nets (Ref. 9846 ). ",
+    "identityInPage": true
+  },
+  {
+    "candidate_habitat": "warm-sea",
+    "scientific": "Acanthocybium solandri",
+    "referenceUrl": "https://www.fishbase.se/summary/Acanthocybium-solandri.html",
+    "reviewed": false,
+    "taxonomy": {
+      "usageKey": 2374069,
+      "canonicalName": "Acanthocybium solandri",
+      "status": "ACCEPTED",
+      "rank": "SPECIES",
+      "matchType": "EXACT",
+      "confidence": 99
+    },
+    "actualUrl": "https://www.fishbase.se/summary/Acanthocybium-solandri.html",
+    "environment": "Environment: milieu / climate zone / depth range / distribution range Ecology Marine;  pelagic-oceanic; oceanodromous (Ref. 51243 ); depth range 0 - 20 m (Ref. 89972 ), usually 0 - 12 m (Ref. 5227 ). Subtropical; 59°N -   48°S, 180°W -   180°E ",
+    "size": "Max length : 250 cm TL male/unsexed; (Ref. 30573 ); common length : 170 cm FL male/unsexed; (Ref. 9340 ); max. published weight: 83.0 kg (Ref. 168 ) ",
+    "biology": "Biology Glossary (e.g.  epibenthic) An oceanic, epipelagic species frequently solitary or forming small loose aggregations rather than compact schools.  Feed on fishes and squids. Eggs and larvae are pelagic (Ref. 6769 ).   An important sport fish in some areas (Ref. 9340 ).  Marketed fresh, salted or spice-cured slices of meat; also frozen (Ref. 9987 ).  Flesh of very good quality (Ref. 9684 ). Minimum depth from Ref. 005227 . ",
+    "identityInPage": true
+  },
+  {
+    "candidate_habitat": "cold-sea",
+    "scientific": "Trachurus murphyi",
+    "referenceUrl": "https://www.fishbase.se/summary/Trachurus-murphyi.html",
+    "reviewed": false,
+    "taxonomy": {
+      "usageKey": 5210470,
+      "canonicalName": "Trachurus murphyi",
+      "status": "ACCEPTED",
+      "rank": "SPECIES",
+      "matchType": "EXACT",
+      "confidence": 99
+    },
+    "actualUrl": "https://www.fishbase.se/summary/Trachurus-murphyi.html",
+    "environment": "Environment: milieu / climate zone / depth range / distribution range Ecology Marine;  pelagic-oceanic; oceanodromous (Ref. 51243 ); depth range 10 - 306 m (Ref. 58489 ), usually 10 - 70 m. Subtropical; 2°N -   56°S, 141°E -   63°W ",
+    "size": "Max length : 70.0 cm TL male/unsexed; (Ref. 9283 ); common length : 45.0 cm FL male/unsexed; (Ref. 9283 ); max. reported age: 16 years (Ref. 26956 ) ",
+    "biology": "Biology Glossary (e.g.  epibenthic) Adults are found in the shore and open oceanic waters, in schools.  They feed mainly on fish larvae and small crustaceans.  Marketed fresh (Ref. 9283 ).  Utilized canned for human consumption and also made into fishmeal (Ref. 9988 ).  The species is often found in Juan Fernández Is. as an incidental catch of Pseudocaranx chilensis (Guichenot, 1848) fisheries (Ref. 89357 ). ",
+    "identityInPage": true
+  },
+  {
+    "candidate_habitat": "cold-sea",
+    "scientific": "Sarda chiliensis",
+    "referenceUrl": "https://www.fishbase.se/summary/Sarda-chiliensis.html",
+    "reviewed": false,
+    "taxonomy": {
+      "usageKey": 5712278,
+      "canonicalName": "Sarda chiliensis",
+      "status": "ACCEPTED",
+      "rank": "SPECIES",
+      "matchType": "EXACT",
+      "confidence": 99
+    },
+    "actualUrl": "https://www.fishbase.se/summary/Sarda-chiliensis.html",
+    "environment": "Environment: milieu / climate zone / depth range / distribution range Ecology Marine;  pelagic-neritic; oceanodromous (Ref. 51243 ); depth range 0 - 100 m. Subtropical; 60°N -   37°S, 149°W -   70°W (Ref. 168 ) ",
+    "size": "Max length : 102 cm TL male/unsexed; (Ref. 9015 ); max. published weight: 11.3 kg (Ref. 168 ) ",
+    "biology": "Biology Glossary (e.g.  epibenthic) A coastal species that reaches sexual maturity at two years of age (Ref. 9340 ).  Older individuals are encountered farther from the coast as compared to the juveniles (Ref. 9340 ).  Spawning is discontinuous and a female of 3 kg may produce millions of eggs per season (Ref. 9340 ).  Forms schools by size.  Feeds on a variety of small schooling fishes, squids and shrimps.  This species is important to the recreational hook and line fishery operating from private and party boats, piers and jetties, and from the shore.  Also caught with encircling nets (Ref. 9340 ).  Utilized fresh, canned and frozen; eaten broiled and baked (Ref. 9988 ). ",
+    "identityInPage": true
+  },
+  {
+    "candidate_habitat": "cold-sea",
+    "scientific": "Scomberesox saurus",
+    "referenceUrl": "https://www.fishbase.se/summary/Scomberesox-saurus.html",
+    "reviewed": false,
+    "taxonomy": {
+      "usageKey": 2369272,
+      "canonicalName": "Scomberesox saurus",
+      "status": "ACCEPTED",
+      "rank": "SPECIES",
+      "matchType": "EXACT",
+      "confidence": 99
+    },
+    "actualUrl": "https://www.fishbase.se/summary/Scomberesox-saurus.html",
+    "environment": "Environment: milieu / climate zone / depth range / distribution range Ecology Marine;  pelagic-oceanic; oceanodromous (Ref. 87829 ); depth range 0 - 30 m (Ref. 6531 ). Subtropical; 66°N -   22°S, 98°W -   36°E ",
+    "size": "Max length : 50.0 cm TL male/unsexed; (Ref. 7251 ); common length : 32.0 cm TL male/unsexed; (Ref. 3397 ) Biology Glossary (e.g.  epibenthic) Oceanic, schooling and gregarious.  Occasionally shoals close to shore in large numbers (Ref. 9987 ).  Feeds on zooplankton and fish larvae (Ref. 9987 ); food also includes fish eggs and small fishes (Ref. 59",
+    "biology": "Biology Glossary (e.g.  epibenthic) Oceanic, schooling and gregarious.  Occasionally shoals close to shore in large numbers (Ref. 9987 ).  Feeds on zooplankton and fish larvae (Ref. 9987 ); food also includes fish eggs and small fishes (Ref. 5951 ).  Preyed upon by fish, including tunas, marlin bluefish and cod (Ref. 9987 ); also pollock, dolphins and porpoises (Ref. 5951 ).  It is an under-exploited fish in many parts of its range and suitable for canning and other inexpensive uses (Ref. 9987 ).  Often leap of the water when chased by enemies (Ref. 35388 ). ",
+    "identityInPage": true
+  },
+  {
+    "candidate_habitat": "cold-sea",
+    "scientific": "Seriola lalandi",
+    "referenceUrl": "https://www.fishbase.se/summary/Seriola-lalandi.html",
+    "reviewed": false,
+    "taxonomy": {
+      "usageKey": 5961708,
+      "canonicalName": "Seriola lalandi",
+      "status": "ACCEPTED",
+      "rank": "SPECIES",
+      "matchType": "EXACT",
+      "confidence": 99
+    },
+    "actualUrl": "https://www.fishbase.se/summary/Seriola-lalandi.html",
+    "environment": "Environment: milieu / climate zone / depth range / distribution range Ecology Marine; brackish;  benthopelagic; depth range 3 - 825 m (Ref. 4517 ). Subtropical; 18°C - 24°C (Ref. 6390 ); 55°N -   57°S, 180°W -   180°E ",
+    "size": "Max length : 250 cm TL male/unsexed; (Ref. 27865 ); common length : 80.0 cm TL male/unsexed; (Ref. 9137 ); max. published weight: 96.8 kg (Ref. 40637 ); max. reported age: 12 years (Ref. 72462 ) ",
+    "biology": "Biology Glossary (e.g.  epibenthic) Adults are benthopelagic in coastal and oceanic waters, off kelp beds and rocky areas (Ref. 2850 ), sometimes entering estuaries (Ref. 9563 ).  They are solitary or in small groups and can be found near rocky shores, reefs and islands (Ref. 6390 ).  Schools of juveniles are generally found in offshore waters, often near or beyond the continental shelf (Ref. 27865 ).  They prefer warmer water (18-24°C) although they are occasionally found in cooler water (Ref. 27128 ).  Adults feed on small fish, squid and crustaceans (Ref. 27121 ).  Marketed fresh and salted or dried (Ref. 9283 ). ",
+    "identityInPage": true
+  },
+  {
+    "scientific": "Echiostoma barbatum",
+    "taxonomy": {
+      "usageKey": 2346933,
+      "scientificName": "Echiostoma barbatum Lowe, 1843",
+      "canonicalName": "Echiostoma barbatum",
+      "rank": "SPECIES",
+      "status": "ACCEPTED",
+      "confidence": 99,
+      "matchType": "EXACT",
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "order": "Stomiiformes",
+      "family": "Stomiidae",
+      "genus": "Echiostoma",
+      "species": "Echiostoma barbatum",
+      "kingdomKey": 1,
+      "phylumKey": 44,
+      "orderKey": 774,
+      "familyKey": 2225,
+      "genusKey": 2346932,
+      "speciesKey": 2346933
+    },
+    "environment": {
+      "source": "https://fishesofaustralia.net.au/home/species/1780",
+      "summary": "世界の温帯・熱帯の深海"
+    }
+  },
+  {
+    "scientific": "Julidochromis marlieri",
+    "taxonomy": {
+      "usageKey": 2372484,
+      "scientificName": "Julidochromis marlieri Poll, 1956",
+      "canonicalName": "Julidochromis marlieri",
+      "rank": "SPECIES",
+      "status": "ACCEPTED",
+      "confidence": 99,
+      "matchType": "EXACT",
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "order": "Perciformes",
+      "family": "Cichlidae",
+      "genus": "Julidochromis",
+      "species": "Julidochromis marlieri",
+      "kingdomKey": 1,
+      "phylumKey": 44,
+      "orderKey": 587,
+      "familyKey": 8522,
+      "genusKey": 2372477,
+      "speciesKey": 2372484
+    },
+    "environment": {
+      "source": "https://www.fishbase.se/summary/8608",
+      "summary": "タンガニーカ湖の岩場"
+    }
+  },
+  {
+    "scientific": "Lamprologus ocellatus",
+    "taxonomy": {
+      "usageKey": 2371694,
+      "scientificName": "Lamprologus ocellatus (Steindachner, 1909)",
+      "canonicalName": "Lamprologus ocellatus",
+      "rank": "SPECIES",
+      "status": "ACCEPTED",
+      "confidence": 97,
+      "matchType": "EXACT",
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "order": "Perciformes",
+      "family": "Cichlidae",
+      "genus": "Lamprologus",
+      "species": "Lamprologus ocellatus",
+      "kingdomKey": 1,
+      "phylumKey": 44,
+      "orderKey": 587,
+      "familyKey": 8522,
+      "genusKey": 2371673,
+      "speciesKey": 2371694
+    },
+    "environment": {
+      "source": "https://www.fishbase.se/summary/lamprologus-ocellatus.html",
+      "summary": "タンガニーカ湖の砂底"
+    }
+  },
+  {
+    "scientific": "Ambassis interrupta",
+    "taxonomy": {
+      "usageKey": 2387290,
+      "scientificName": "Ambassis interrupta Bleeker, 1853",
+      "canonicalName": "Ambassis interrupta",
+      "rank": "SPECIES",
+      "status": "ACCEPTED",
+      "confidence": 99,
+      "matchType": "EXACT",
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "order": "Perciformes",
+      "family": "Ambassidae",
+      "genus": "Ambassis",
+      "species": "Ambassis interrupta",
+      "kingdomKey": 1,
+      "phylumKey": 44,
+      "orderKey": 587,
+      "familyKey": 4235,
+      "genusKey": 2387272,
+      "speciesKey": 2387290
+    },
+    "environment": {
+      "source": "https://fishesofaustralia.net.au/home/species/1583",
+      "summary": "インド太平洋の河口・マングローブ"
+    }
+  },
+  {
+    "scientific": "Monodactylus argenteus",
+    "taxonomy": {
+      "usageKey": 5211117,
+      "scientificName": "Monodactylus argenteus (Linnaeus, 1758)",
+      "canonicalName": "Monodactylus argenteus",
+      "rank": "SPECIES",
+      "status": "ACCEPTED",
+      "confidence": 99,
+      "matchType": "EXACT",
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "order": "Perciformes",
+      "family": "Monodactylidae",
+      "genus": "Monodactylus",
+      "species": "Monodactylus argenteus",
+      "kingdomKey": 1,
+      "phylumKey": 44,
+      "orderKey": 587,
+      "familyKey": 4286,
+      "genusKey": 2393415,
+      "speciesKey": 5211117
+    },
+    "environment": {
+      "source": "https://www.fishbase.se/summary/5807",
+      "summary": "インド西太平洋の湾・河口"
+    }
+  },
+  {
+    "scientific": "Chrysaora fuscescens",
+    "taxonomy": {
+      "canonicalName": "Chrysaora fuscescens",
+      "status": "ACCEPTED",
+      "rank": "SPECIES",
+      "matchType": "EXACT"
+    },
+    "environment": true,
+    "source": "https://www.montereybayaquarium.org/animals/animals-a-to-z/sea-nettle"
+  },
+  {
+    "scientific": "Chrysaora colorata",
+    "taxonomy": {
+      "canonicalName": "Chrysaora colorata",
+      "status": "ACCEPTED",
+      "rank": "SPECIES",
+      "matchType": "EXACT"
+    },
+    "environment": true,
+    "source": "https://www.montereybayaquarium.org/animals-the-ocean/animals-a-to-z/purple-striped-jelly"
+  },
+  {
+    "scientific": "Chrysaora achlyos",
+    "taxonomy": {
+      "canonicalName": "Chrysaora achlyos",
+      "status": "ACCEPTED",
+      "rank": "SPECIES",
+      "matchType": "EXACT"
+    },
+    "environment": true,
+    "source": "https://www.montereybayaquarium.org/animals/animals-a-to-z/black-sea-nettle"
+  },
+  {
+    "scientific": "Aequorea victoria",
+    "taxonomy": {
+      "canonicalName": "Aequorea victoria",
+      "status": "ACCEPTED",
+      "rank": "SPECIES",
+      "matchType": "EXACT"
+    },
+    "environment": true,
+    "source": "https://www.montereybayaquarium.org/animals/animals-a-to-z/crystal-jelly"
+  },
+  {
+    "scientific": "Catostylus mosaicus",
+    "taxonomy": {
+      "canonicalName": "Catostylus mosaicus",
+      "status": "ACCEPTED",
+      "rank": "SPECIES",
+      "matchType": "EXACT"
+    },
+    "environment": true,
+    "source": "https://storage.montereybayaquarium.org/storage/pressroom/presskit/pdf/the_jellies_experience_press_kit_final.pdf"
+  },
+  {
+    "scientific": "Cassiopea ornata",
+    "taxonomy": {
+      "canonicalName": "Cassiopea ornata",
+      "status": "ACCEPTED",
+      "rank": "SPECIES",
+      "matchType": "EXACT"
+    },
+    "environment": true,
+    "source": "https://aquarium.co.jp/picturebook/cassiopea-ornata.html"
+  },
+  {
+    "scientific": "Olindias formosus",
+    "taxonomy": {
+      "canonicalName": "Olindias formosus",
+      "status": "ACCEPTED",
+      "rank": "SPECIES",
+      "matchType": "EXACT"
+    },
+    "environment": true,
+    "source": "https://www.montereybayaquarium.org/animals/animals-a-to-z/flower-hat-jelly"
+  },
+  {
+    "scientific": "Bathynomus doederleini",
+    "taxonomy": {
+      "canonicalName": "Bathynomus doederleini",
+      "status": "ACCEPTED",
+      "rank": "SPECIES",
+      "matchType": "EXACT"
+    },
+    "environment": true,
+    "source": "https://aquarium.co.jp/diary/2021/08/54054"
+  },
+  {
+    "scientific": "Bathynomus giganteus",
+    "taxonomy": {
+      "canonicalName": "Bathynomus giganteus",
+      "status": "ACCEPTED",
+      "rank": "SPECIES",
+      "matchType": "EXACT"
+    },
+    "environment": true,
+    "source": "https://aquarium.co.jp/diary/2021/08/54054"
+  },
+  {
+    "scientific": "Heteroconger hassi",
+    "taxonomy": {
+      "canonicalName": "Heteroconger hassi",
+      "status": "ACCEPTED",
+      "rank": "SPECIES",
+      "matchType": "EXACT"
+    },
+    "environment": true,
+    "source": "https://www.fishbase.se/Summary/SpeciesSummary.php?id=12619&lang=swedish"
+  },
+  {
+    "scientific": "Gorgasia preclara",
+    "taxonomy": {
+      "canonicalName": "Gorgasia preclara",
+      "status": "ACCEPTED",
+      "rank": "SPECIES",
+      "matchType": "EXACT"
+    },
+    "environment": true,
+    "source": "https://www.fishbase.se/summary/Gorgasia-preclara"
+  },
+  {
+    "scientific": "Plecoglossus altivelis",
+    "taxonomy": {
+      "canonicalName": "Plecoglossus altivelis",
+      "status": "ACCEPTED",
+      "rank": "SPECIES",
+      "matchType": "EXACT"
+    },
+    "environment": true,
+    "source": "https://www.fishbase.se/Fieldguide/FieldGuideSummary.php?genusname=Plecoglossus&speciesname=altivelis&c_code=410"
+  },
+  {
+    "scientific": "Nipponocypris temminckii",
+    "taxonomy": {
+      "canonicalName": "Nipponocypris temminckii",
+      "status": "ACCEPTED",
+      "rank": "SPECIES",
+      "matchType": "EXACT"
+    },
+    "environment": true,
+    "source": "https://www.fishbase.se/summary/Nipponocypris-temminckii"
+  },
+  {
+    "scientific": "Andrias japonicus",
+    "taxonomy": {
+      "canonicalName": "Andrias japonicus",
+      "status": "ACCEPTED",
+      "rank": "SPECIES",
+      "matchType": "EXACT"
+    },
+    "environment": true,
+    "source": "https://animaldiversity.org/accounts/Andrias_japonicus/"
+  },
+  {
+    "scientific": "Spheniscus magellanicus",
+    "taxonomy": {
+      "canonicalName": "Spheniscus magellanicus",
+      "status": "ACCEPTED",
+      "rank": "SPECIES",
+      "matchType": "EXACT"
+    },
+    "environment": true,
+    "source": "https://storage.montereybayaquarium.org/storage/pressroom/presskit/pdf/hot%20pink%20flamingos%20press%20kit.pdf"
+  },
+  {
+    "scientific": "Zalophus californianus",
+    "taxonomy": {
+      "canonicalName": "Zalophus californianus",
+      "status": "ACCEPTED",
+      "rank": "SPECIES",
+      "matchType": "EXACT"
+    },
+    "environment": true,
+    "source": "https://www.montereybayaquarium.org/animals-the-ocean/animals-a-to-z/california-sea-lion"
+  },
+  {
+    "scientific": "Amblonyx cinereus",
+    "taxonomy": {
+      "canonicalName": "Amblonyx cinereus",
+      "status": "ACCEPTED",
+      "rank": "SPECIES",
+      "matchType": "EXACT"
+    },
+    "environment": true,
+    "source": "https://animaldiversity.org/accounts/Aonyx_cinerea/"
+  },
+  {
+    "scientific": "Nautilus pompilius",
+    "taxonomy": {
+      "canonicalName": "Nautilus pompilius",
+      "status": "ACCEPTED",
+      "rank": "SPECIES",
+      "matchType": "EXACT"
+    },
+    "environment": true,
+    "source": "https://www.montereybayaquarium.org/animals/animals-a-to-z/chambered-nautilus"
+  },
+  {
+    "scientific": "Spheniscus humboldti",
+    "taxonomy": {
+      "canonicalName": "Spheniscus humboldti",
+      "status": "ACCEPTED",
+      "rank": "SPECIES",
+      "matchType": "EXACT"
+    },
+    "environment": true,
+    "source": "https://animaldiversity.org/accounts/Spheniscus_humboldti/"
+  },
+  {
+    "scientific": "Spheniscus demersus",
+    "taxonomy": {
+      "canonicalName": "Spheniscus demersus",
+      "status": "ACCEPTED",
+      "rank": "SPECIES",
+      "matchType": "EXACT"
+    },
+    "environment": true,
+    "source": "https://www.penguinsinternational.org/african-penguins/"
+  },
+  {
+    "scientific": "Spheniscus mendiculus",
+    "taxonomy": {
+      "canonicalName": "Spheniscus mendiculus",
+      "status": "ACCEPTED",
+      "rank": "SPECIES",
+      "matchType": "EXACT"
+    },
+    "environment": true,
+    "source": "https://animaldiversity.org/accounts/Spheniscus_mendiculus/"
+  },
+  {
+    "scientific": "Eudyptula minor",
+    "taxonomy": {
+      "canonicalName": "Eudyptula minor",
+      "status": "ACCEPTED",
+      "rank": "SPECIES",
+      "matchType": "EXACT"
+    },
+    "environment": true,
+    "source": "https://animaldiversity.org/accounts/Eudyptula_minor/"
+  },
+  {
+    "scientific": "Ambystoma mexicanum",
+    "taxonomy": {
+      "usageKey": 2431950,
+      "canonicalName": "Ambystoma mexicanum",
+      "status": "ACCEPTED",
+      "rank": "SPECIES",
+      "matchType": "EXACT"
+    },
+    "environment": true,
+    "source": "https://animaldiversity.org/accounts/Ambystoma_mexicanum/"
+  },
+  {
+    "scientific": "Cynops pyrrhogaster",
+    "taxonomy": {
+      "usageKey": 2431862,
+      "canonicalName": "Cynops pyrrhogaster",
+      "status": "ACCEPTED",
+      "rank": "SPECIES",
+      "matchType": "EXACT"
+    },
+    "environment": true,
+    "source": "https://ioworld.jp/guide/guide-13138"
+  },
+  {
+    "scientific": "Xenopus laevis",
+    "taxonomy": {
+      "usageKey": 5217334,
+      "canonicalName": "Xenopus laevis",
+      "status": "ACCEPTED",
+      "rank": "SPECIES",
+      "matchType": "EXACT"
+    },
+    "environment": true,
+    "source": "https://animaldiversity.org/accounts/Xenopus_laevis/"
+  },
+  {
+    "scientific": "Clione limacina",
+    "taxonomy": {
+      "usageKey": 5193700,
+      "canonicalName": "Clione limacina",
+      "status": "ACCEPTED",
+      "rank": "SPECIES",
+      "matchType": "EXACT"
+    },
+    "environment": true,
+    "source": "https://kids.yahoo.co.jp/zukan/animal/kind/invertebrate/0012.html"
+  },
+  {
+    "scientific": "Acipenser ruthenus",
+    "taxonomy": {
+      "usageKey": 2402168,
+      "canonicalName": "Acipenser ruthenus",
+      "status": "ACCEPTED",
+      "rank": "SPECIES",
+      "matchType": "EXACT"
+    },
+    "environment": true,
+    "source": "https://www.fishbase.se/Summary/SpeciesSummary.php?id=4604&lang=japanese"
+  },
+  {
+    "scientific": "Gymnothorax kidako",
+    "taxonomy": {
+      "usageKey": 2403745,
+      "canonicalName": "Gymnothorax kidako",
+      "status": "ACCEPTED",
+      "rank": "SPECIES",
+      "matchType": "EXACT"
+    },
+    "environment": true,
+    "source": "https://japanknowledge.com/contents/nipponica/sample_koumoku.html?entryid=936"
+  },
+  {
+    "scientific": "Callorhinus ursinus",
+    "taxonomy": {
+      "usageKey": 2433487,
+      "canonicalName": "Callorhinus ursinus",
+      "status": "ACCEPTED",
+      "rank": "SPECIES",
+      "matchType": "EXACT"
+    },
+    "environment": true,
+    "source": "https://animaldiversity.org/accounts/Callorhinus_ursinus/"
+  },
+  {
+    "scientific": "Eumetopias jubatus",
+    "taxonomy": {
+      "usageKey": 2433462,
+      "canonicalName": "Eumetopias jubatus",
+      "status": "ACCEPTED",
+      "rank": "SPECIES",
+      "matchType": "EXACT"
+    },
+    "environment": true,
+    "source": "https://aquarium.co.jp/picturebook/eumetopias-jubatus.html"
+  },
+  {
+    "scientific": "Carcharias taurus",
+    "taxonomy": {
+      "usageKey": 2420766,
+      "canonicalName": "Carcharias taurus",
+      "status": "ACCEPTED",
+      "rank": "SPECIES",
+      "matchType": "EXACT"
+    },
+    "environment": true,
+    "source": "https://www.sumida-aquarium.com/about/animals/shirowani/"
+  },
+  {
+    "scientific": "Alopias vulpinus",
+    "taxonomy": {
+      "usageKey": 2420797,
+      "canonicalName": "Alopias vulpinus",
+      "status": "ACCEPTED",
+      "rank": "SPECIES",
+      "matchType": "EXACT"
+    },
+    "environment": true,
+    "source": "https://www.fishbase.org/FieldGuide/FieldGuideSummary.php?GenusName=Alopias&SpeciesName=vulpinus&pda=1"
+  },
+  {
+    "scientific": "Aetobatus ocellatus",
+    "taxonomy": {
+      "usageKey": 2419246,
+      "canonicalName": "Aetobatus ocellatus",
+      "status": "ACCEPTED",
+      "rank": "SPECIES",
+      "matchType": "EXACT"
+    },
+    "environment": true,
+    "source": "https://churaumi.okinawa/fishbook/00000514/"
+  },
+  {
+    "scientific": "Glaucus atlanticus",
+    "taxonomy": {
+      "usageKey": 5190072,
+      "canonicalName": "Glaucus atlanticus",
+      "status": "ACCEPTED",
+      "rank": "SPECIES",
+      "matchType": "EXACT"
+    },
+    "environment": true,
+    "source": "https://oceana.ne.jp/domestic/69347"
+  },
+  {
+    "scientific": "Myrichthys maculosus",
+    "taxonomy": {
+      "usageKey": 2404510,
+      "canonicalName": "Myrichthys maculosus",
+      "status": "ACCEPTED",
+      "rank": "SPECIES",
+      "matchType": "EXACT"
+    },
+    "environment": true,
+    "source": "https://www.seto.kyoto-u.ac.jp/shirahama_aqua/%E3%83%A2%E3%83%A8%E3%82%A6%E3%83%A2%E3%83%B3%E3%82%AC%E3%83%A9%E3%83%89%E3%82%AA%E3%82%B7/"
+  },
+  {
+    "scientific": "Inimicus japonicus",
+    "taxonomy": {
+      "usageKey": 2333637,
+      "canonicalName": "Inimicus japonicus",
+      "status": "ACCEPTED",
+      "rank": "SPECIES",
+      "matchType": "EXACT"
+    },
+    "environment": true,
+    "source": "https://aquarium.co.jp/picturebook/inimicus-japonicus.html"
+  },
+  {
+    "scientific": "Carybdea rastonii",
+    "taxonomy": {
+      "usageKey": 4340377,
+      "canonicalName": "Carybdea rastonii",
+      "status": "ACCEPTED",
+      "rank": "SPECIES",
+      "matchType": "EXACT"
+    },
+    "environment": true,
+    "source": "https://www.kamogawa-seaworld.jp/animal/aquarium_info/1095/"
+  },
+  {
+    "scientific": "Nemopilema nomurai",
+    "taxonomy": {
+      "usageKey": 2264583,
+      "canonicalName": "Nemopilema nomurai",
+      "status": "ACCEPTED",
+      "rank": "SPECIES",
+      "matchType": "EXACT"
+    },
+    "environment": true,
+    "source": "https://kotobank.jp/word/%E3%81%88%E3%81%A1%E3%81%9C%E3%82%93%E3%81%8F%E3%82%89%E3%81%92-3145070"
+  },
+  {
+    "scientific": "Mobula alfredi",
+    "taxonomy": {
+      "usageKey": 9241141,
+      "canonicalName": "Mobula alfredi",
+      "status": "ACCEPTED",
+      "rank": "SPECIES",
+      "matchType": "EXACT"
+    },
+    "environment": true,
+    "source": "https://tierzine.com/facilities/manta-ray-explained/"
+  },
+  {
+    "scientific": "Sepiella japonica",
+    "taxonomy": {
+      "usageKey": 2290915,
+      "canonicalName": "Sepiella japonica",
+      "status": "ACCEPTED",
+      "rank": "SPECIES",
+      "matchType": "EXACT"
+    },
+    "environment": true,
+    "source": "https://www.honda.co.jp/fishing/picture-book/shiriyakeika/"
+  },
+  {
+    "scientific": "Acanthosepion lycidas",
+    "taxonomy": {
+      "usageKey": 12206654,
+      "canonicalName": "Acanthosepion lycidas",
+      "status": "ACCEPTED",
+      "rank": "SPECIES",
+      "matchType": "EXACT"
+    },
+    "environment": true,
+    "source": "https://www.kamogawa-seaworld.jp/event/event_info/13855/"
+  },
+  {
+    "scientific": "Chionoecetes opilio",
+    "taxonomy": {
+      "usageKey": 2226639,
+      "canonicalName": "Chionoecetes opilio",
+      "status": "ACCEPTED",
+      "rank": "SPECIES",
+      "matchType": "EXACT"
+    },
+    "environment": true,
+    "source": "https://www.zukan-bouz.com/syu/%E3%82%BA%E3%83%AF%E3%82%A4%E3%82%AC%E3%83%8B"
+  },
+  {
+    "scientific": "Erimacrus isenbeckii",
+    "taxonomy": {
+      "usageKey": 2222059,
+      "canonicalName": "Erimacrus isenbeckii",
+      "status": "ACCEPTED",
+      "rank": "SPECIES",
+      "matchType": "EXACT"
+    },
+    "environment": true,
+    "source": "https://kamo-kurage.jp/shonaizukan/kegani/"
+  },
+  {
+    "scientific": "Oratosquilla oratoria",
+    "taxonomy": {
+      "usageKey": 4316670,
+      "canonicalName": "Oratosquilla oratoria",
+      "status": "ACCEPTED",
+      "rank": "SPECIES",
+      "matchType": "EXACT"
+    },
+    "environment": true,
+    "source": "https://www.marinepia.or.jp/picturebook/invertebrate/entry-11413.html"
+  },
+  {
+    "scientific": "Apostichopus japonicus",
+    "taxonomy": {
+      "usageKey": 2279100,
+      "canonicalName": "Apostichopus japonicus",
+      "status": "ACCEPTED",
+      "rank": "SPECIES",
+      "matchType": "EXACT"
+    },
+    "environment": true,
+    "source": "https://www.aquamarine.or.jp/animals/japaneseseacucumber/"
+  },
+  {
+    "scientific": "Cabomba caroliniana",
+    "taxonomy": {
+      "usageKey": 2882443,
+      "canonicalName": "Cabomba caroliniana",
+      "status": "ACCEPTED",
+      "rank": "SPECIES",
+      "matchType": "EXACT"
+    },
+    "environment": true,
+    "source": "https://happamisaki.jp-o.net/biotope/mizukusa/cabomba.htm"
+  },
+  {
+    "scientific": "Vallisneria spiralis",
+    "taxonomy": {
+      "usageKey": 2865526,
+      "canonicalName": "Vallisneria spiralis",
+      "status": "ACCEPTED",
+      "rank": "SPECIES",
+      "matchType": "EXACT"
+    },
+    "environment": true,
+    "source": "https://gkzplant.sakura.ne.jp/souhon2/shousai2/ha-gyou/hu/vrisuneriasupirarisu/varisuneriasupirarisu.html"
+  },
+  {
+    "scientific": "Undaria pinnatifida",
+    "taxonomy": {
+      "usageKey": 5422556,
+      "canonicalName": "Undaria pinnatifida",
+      "status": "ACCEPTED",
+      "rank": "SPECIES",
+      "matchType": "EXACT"
+    },
+    "environment": true,
+    "source": "https://kotobank.jp/word/%E6%B5%B7%E8%97%BB-42617"
+  },
+  {
+    "scientific": "Ulva australis",
+    "taxonomy": {
+      "usageKey": 5273420,
+      "canonicalName": "Ulva australis",
+      "status": "ACCEPTED",
+      "rank": "SPECIES",
+      "matchType": "EXACT"
+    },
+    "environment": true,
+    "source": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%8A%E3%82%A2%E3%82%AA%E3%82%B5"
+  }
+]

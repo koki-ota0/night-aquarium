@@ -1,0 +1,802 @@
+[
+  {
+    "id": "env_01",
+    "name": "こもれびクラゲ",
+    "model": "jelly",
+    "biome": "外洋",
+    "hue": 0.05,
+    "number": 1
+  },
+  {
+    "id": "env_02",
+    "name": "若葉のウミガメ",
+    "model": "turtle",
+    "biome": "砂地",
+    "hue": 0.06,
+    "number": 2
+  },
+  {
+    "id": "env_03",
+    "name": "砂色タツノオトシゴ",
+    "model": "seahorse",
+    "biome": "砂地",
+    "hue": -0.07,
+    "number": 3
+  },
+  {
+    "id": "env_04",
+    "name": "海草のしま魚",
+    "model": "angelfish",
+    "biome": "淡水",
+    "hue": 0.11,
+    "number": 4
+  },
+  {
+    "id": "env_05",
+    "name": "あわいろの魚",
+    "model": "cyan",
+    "biome": "外洋",
+    "hue": 0.08,
+    "number": 5
+  },
+  {
+    "id": "env_06",
+    "name": "青凪の魚",
+    "model": "blue",
+    "biome": "外洋",
+    "hue": -0.06,
+    "number": 6
+  },
+  {
+    "id": "env_07",
+    "name": "サンゴのしま魚",
+    "model": "butterfly",
+    "biome": "岩礁",
+    "hue": -0.1,
+    "number": 7
+  },
+  {
+    "id": "env_08",
+    "name": "夕映えの魚",
+    "model": "gold",
+    "biome": "岩礁",
+    "hue": -0.1,
+    "number": 8
+  },
+  {
+    "id": "env_09",
+    "name": "星くずクラゲ",
+    "model": "jelly",
+    "biome": "深海",
+    "hue": 0.22,
+    "number": 9
+  },
+  {
+    "id": "env_10",
+    "name": "夜明けのウミガメ",
+    "model": "turtle",
+    "biome": "深海",
+    "hue": -0.12,
+    "number": 10
+  },
+  {
+    "id": "basic_01",
+    "name": "クマノミ",
+    "model": "clown",
+    "biome": "岩礁",
+    "hue": 0,
+    "number": 11
+  },
+  {
+    "id": "basic_02",
+    "name": "カラフルなしま魚",
+    "model": "angelfish",
+    "biome": "岩礁",
+    "hue": 0,
+    "number": 12
+  },
+  {
+    "id": "basic_03",
+    "name": "みずいろの魚",
+    "model": "cyan",
+    "biome": "外洋",
+    "hue": 0,
+    "number": 13
+  },
+  {
+    "id": "basic_04",
+    "name": "あおい魚",
+    "model": "blue",
+    "biome": "外洋",
+    "hue": 0,
+    "number": 14
+  },
+  {
+    "id": "basic_05",
+    "name": "しましまの魚",
+    "model": "butterfly",
+    "biome": "岩礁",
+    "hue": 0,
+    "number": 15
+  },
+  {
+    "id": "basic_06",
+    "name": "きいろい魚",
+    "model": "gold",
+    "biome": "砂地",
+    "hue": 0,
+    "number": 16
+  },
+  {
+    "id": "basic_07",
+    "name": "ミズクラゲ",
+    "model": "jelly",
+    "biome": "外洋",
+    "hue": 0,
+    "number": 17
+  },
+  {
+    "id": "basic_08",
+    "name": "ウミガメ",
+    "model": "turtle",
+    "biome": "砂地",
+    "hue": 0,
+    "number": 18
+  },
+  {
+    "id": "basic_09",
+    "name": "タツノオトシゴ",
+    "model": "seahorse",
+    "biome": "砂地",
+    "hue": 0,
+    "number": 19
+  },
+  {
+    "id": "basic_10",
+    "name": "あかいろクマノミ",
+    "model": "clown",
+    "biome": "岩礁",
+    "hue": -0.06,
+    "number": 20
+  },
+  {
+    "id": "basic_11",
+    "name": "月あかりクマノミ",
+    "model": "clown",
+    "biome": "岩礁",
+    "hue": 0.11,
+    "number": 21
+  },
+  {
+    "id": "basic_12",
+    "name": "すみれクマノミ",
+    "model": "clown",
+    "biome": "岩礁",
+    "hue": 0.25,
+    "number": 22
+  },
+  {
+    "id": "basic_13",
+    "name": "瑠璃のしま魚",
+    "model": "angelfish",
+    "biome": "岩礁",
+    "hue": 0.15,
+    "number": 23
+  },
+  {
+    "id": "basic_14",
+    "name": "黄金のしま魚",
+    "model": "angelfish",
+    "biome": "岩礁",
+    "hue": -0.12,
+    "number": 24
+  },
+  {
+    "id": "basic_15",
+    "name": "しずくの魚",
+    "model": "cyan",
+    "biome": "淡水",
+    "hue": 0.17,
+    "number": 25
+  },
+  {
+    "id": "basic_16",
+    "name": "若草の魚",
+    "model": "cyan",
+    "biome": "淡水",
+    "hue": -0.2,
+    "number": 26
+  },
+  {
+    "id": "basic_17",
+    "name": "群青の魚",
+    "model": "blue",
+    "biome": "外洋",
+    "hue": 0.08,
+    "number": 27
+  },
+  {
+    "id": "basic_18",
+    "name": "すみれの魚",
+    "model": "blue",
+    "biome": "深海",
+    "hue": 0.2,
+    "number": 28
+  },
+  {
+    "id": "basic_19",
+    "name": "朝やけのしま魚",
+    "model": "butterfly",
+    "biome": "岩礁",
+    "hue": -0.07,
+    "number": 29
+  },
+  {
+    "id": "basic_20",
+    "name": "月のしま魚",
+    "model": "butterfly",
+    "biome": "深海",
+    "hue": 0.15,
+    "number": 30
+  },
+  {
+    "id": "basic_21",
+    "name": "はちみつ色の魚",
+    "model": "gold",
+    "biome": "砂地",
+    "hue": 0.08,
+    "number": 31
+  },
+  {
+    "id": "basic_22",
+    "name": "あかね色の魚",
+    "model": "gold",
+    "biome": "砂地",
+    "hue": -0.08,
+    "number": 32
+  },
+  {
+    "id": "basic_23",
+    "name": "そらいろクラゲ",
+    "model": "jelly",
+    "biome": "外洋",
+    "hue": 0.08,
+    "number": 33
+  },
+  {
+    "id": "basic_24",
+    "name": "すみれクラゲ",
+    "model": "jelly",
+    "biome": "深海",
+    "hue": 0.17,
+    "number": 34
+  },
+  {
+    "id": "basic_25",
+    "name": "月光クラゲ",
+    "model": "jelly",
+    "biome": "深海",
+    "hue": -0.1,
+    "number": 35
+  },
+  {
+    "id": "basic_26",
+    "name": "こがねのウミガメ",
+    "model": "turtle",
+    "biome": "砂地",
+    "hue": -0.08,
+    "number": 36
+  },
+  {
+    "id": "basic_27",
+    "name": "みどりのウミガメ",
+    "model": "turtle",
+    "biome": "淡水",
+    "hue": 0.1,
+    "number": 37
+  },
+  {
+    "id": "basic_28",
+    "name": "星空のウミガメ",
+    "model": "turtle",
+    "biome": "深海",
+    "hue": 0.3,
+    "number": 38
+  },
+  {
+    "id": "basic_29",
+    "name": "夕やけタツノオトシゴ",
+    "model": "seahorse",
+    "biome": "砂地",
+    "hue": -0.08,
+    "number": 39
+  },
+  {
+    "id": "basic_30",
+    "name": "珊瑚タツノオトシゴ",
+    "model": "seahorse",
+    "biome": "岩礁",
+    "hue": 0.08,
+    "number": 40
+  },
+  {
+    "id": "basic_31",
+    "name": "月夜タツノオトシゴ",
+    "model": "seahorse",
+    "biome": "深海",
+    "hue": 0.35,
+    "number": 41
+  },
+  {
+    "id": "basic_32",
+    "name": "しんかいのしま魚",
+    "model": "angelfish",
+    "biome": "深海",
+    "hue": 0.28,
+    "number": 42
+  },
+  {
+    "id": "basic_33",
+    "name": "しんかいのあおい魚",
+    "model": "blue",
+    "biome": "深海",
+    "hue": 0.31,
+    "number": 43
+  },
+  {
+    "id": "basic_34",
+    "name": "しんかいのきいろい魚",
+    "model": "gold",
+    "biome": "深海",
+    "hue": 0.31,
+    "number": 44
+  },
+  {
+    "id": "evo_01",
+    "name": "アカネノリクマノミ",
+    "model": "clown",
+    "biome": "岩礁",
+    "hue": 0.12,
+    "number": 45
+  },
+  {
+    "id": "evo_02",
+    "name": "ハナダマリクマノミ",
+    "model": "clown",
+    "biome": "岩礁",
+    "hue": -0.16,
+    "number": 46
+  },
+  {
+    "id": "evo_03",
+    "name": "カラフルなしま魚・月かげ",
+    "model": "angelfish",
+    "biome": "岩礁",
+    "hue": 0.12,
+    "number": 47
+  },
+  {
+    "id": "evo_04",
+    "name": "カラフルなしま魚・ひかり",
+    "model": "angelfish",
+    "biome": "岩礁",
+    "hue": -0.16,
+    "number": 48
+  },
+  {
+    "id": "evo_05",
+    "name": "みずいろの魚・月かげ",
+    "model": "cyan",
+    "biome": "外洋",
+    "hue": 0.12,
+    "number": 49
+  },
+  {
+    "id": "evo_06",
+    "name": "みずいろの魚・ひかり",
+    "model": "cyan",
+    "biome": "外洋",
+    "hue": -0.16,
+    "number": 50
+  },
+  {
+    "id": "evo_07",
+    "name": "あおい魚・月かげ",
+    "model": "blue",
+    "biome": "外洋",
+    "hue": 0.12,
+    "number": 51
+  },
+  {
+    "id": "evo_08",
+    "name": "あおい魚・ひかり",
+    "model": "blue",
+    "biome": "外洋",
+    "hue": -0.16,
+    "number": 52
+  },
+  {
+    "id": "evo_09",
+    "name": "しましまの魚・月かげ",
+    "model": "butterfly",
+    "biome": "岩礁",
+    "hue": 0.12,
+    "number": 53
+  },
+  {
+    "id": "evo_10",
+    "name": "しましまの魚・ひかり",
+    "model": "butterfly",
+    "biome": "岩礁",
+    "hue": -0.16,
+    "number": 54
+  },
+  {
+    "id": "evo_11",
+    "name": "きいろい魚・月かげ",
+    "model": "gold",
+    "biome": "砂地",
+    "hue": 0.12,
+    "number": 55
+  },
+  {
+    "id": "evo_12",
+    "name": "きいろい魚・ひかり",
+    "model": "gold",
+    "biome": "砂地",
+    "hue": -0.16,
+    "number": 56
+  },
+  {
+    "id": "evo_13",
+    "name": "三日月クラゲ",
+    "model": "jelly",
+    "biome": "外洋",
+    "hue": 0.12,
+    "number": 57
+  },
+  {
+    "id": "evo_14",
+    "name": "満月クラゲ",
+    "model": "jelly",
+    "biome": "外洋",
+    "hue": -0.16,
+    "number": 58
+  },
+  {
+    "id": "evo_15",
+    "name": "ウミガメ・月かげ",
+    "model": "turtle",
+    "biome": "砂地",
+    "hue": 0.12,
+    "number": 59
+  },
+  {
+    "id": "evo_16",
+    "name": "ウミガメ・ひかり",
+    "model": "turtle",
+    "biome": "砂地",
+    "hue": -0.16,
+    "number": 60
+  },
+  {
+    "id": "evo_17",
+    "name": "タツノオトシゴ・月かげ",
+    "model": "seahorse",
+    "biome": "砂地",
+    "hue": 0.12,
+    "number": 61
+  },
+  {
+    "id": "evo_18",
+    "name": "タツノオトシゴ・ひかり",
+    "model": "seahorse",
+    "biome": "砂地",
+    "hue": -0.16,
+    "number": 62
+  },
+  {
+    "id": "evo_19",
+    "name": "あかいろクマノミ・月かげ",
+    "model": "clown",
+    "biome": "岩礁",
+    "hue": 0.06,
+    "number": 63
+  },
+  {
+    "id": "evo_20",
+    "name": "あかいろクマノミ・ひかり",
+    "model": "clown",
+    "biome": "岩礁",
+    "hue": -0.22,
+    "number": 64
+  },
+  {
+    "id": "evo_21",
+    "name": "月あかりクマノミ・月かげ",
+    "model": "clown",
+    "biome": "岩礁",
+    "hue": 0.22999999999999998,
+    "number": 65
+  },
+  {
+    "id": "evo_22",
+    "name": "月あかりクマノミ・ひかり",
+    "model": "clown",
+    "biome": "岩礁",
+    "hue": -0.05,
+    "number": 66
+  },
+  {
+    "id": "evo_23",
+    "name": "すみれクマノミ・月かげ",
+    "model": "clown",
+    "biome": "岩礁",
+    "hue": 0.37,
+    "number": 67
+  },
+  {
+    "id": "evo_24",
+    "name": "すみれクマノミ・ひかり",
+    "model": "clown",
+    "biome": "岩礁",
+    "hue": 0.09,
+    "number": 68
+  },
+  {
+    "id": "evo_25",
+    "name": "瑠璃のしま魚・月かげ",
+    "model": "angelfish",
+    "biome": "岩礁",
+    "hue": 0.27,
+    "number": 69
+  },
+  {
+    "id": "evo_26",
+    "name": "瑠璃のしま魚・ひかり",
+    "model": "angelfish",
+    "biome": "岩礁",
+    "hue": -0.010000000000000009,
+    "number": 70
+  },
+  {
+    "id": "evo_27",
+    "name": "黄金のしま魚・月かげ",
+    "model": "angelfish",
+    "biome": "岩礁",
+    "hue": 0,
+    "number": 71
+  },
+  {
+    "id": "evo_28",
+    "name": "黄金のしま魚・ひかり",
+    "model": "angelfish",
+    "biome": "岩礁",
+    "hue": -0.28,
+    "number": 72
+  },
+  {
+    "id": "evo_29",
+    "name": "しずくの魚・月かげ",
+    "model": "cyan",
+    "biome": "淡水",
+    "hue": 0.29000000000000004,
+    "number": 73
+  },
+  {
+    "id": "evo_30",
+    "name": "しずくの魚・ひかり",
+    "model": "cyan",
+    "biome": "淡水",
+    "hue": 0.010000000000000009,
+    "number": 74
+  },
+  {
+    "id": "evo_31",
+    "name": "若草の魚・月かげ",
+    "model": "cyan",
+    "biome": "淡水",
+    "hue": -0.08000000000000002,
+    "number": 75
+  },
+  {
+    "id": "evo_32",
+    "name": "若草の魚・ひかり",
+    "model": "cyan",
+    "biome": "淡水",
+    "hue": -0.36,
+    "number": 76
+  },
+  {
+    "id": "evo_33",
+    "name": "群青の魚・月かげ",
+    "model": "blue",
+    "biome": "外洋",
+    "hue": 0.2,
+    "number": 77
+  },
+  {
+    "id": "evo_34",
+    "name": "群青の魚・ひかり",
+    "model": "blue",
+    "biome": "外洋",
+    "hue": -0.08,
+    "number": 78
+  },
+  {
+    "id": "evo_35",
+    "name": "すみれの魚・月かげ",
+    "model": "blue",
+    "biome": "深海",
+    "hue": 0.32,
+    "number": 79
+  },
+  {
+    "id": "evo_36",
+    "name": "すみれの魚・ひかり",
+    "model": "blue",
+    "biome": "深海",
+    "hue": 0.04000000000000001,
+    "number": 80
+  },
+  {
+    "id": "evo_37",
+    "name": "朝やけのしま魚・月かげ",
+    "model": "butterfly",
+    "biome": "岩礁",
+    "hue": 0.04999999999999999,
+    "number": 81
+  },
+  {
+    "id": "evo_38",
+    "name": "朝やけのしま魚・ひかり",
+    "model": "butterfly",
+    "biome": "岩礁",
+    "hue": -0.23,
+    "number": 82
+  },
+  {
+    "id": "evo_39",
+    "name": "月のしま魚・月かげ",
+    "model": "butterfly",
+    "biome": "深海",
+    "hue": 0.27,
+    "number": 83
+  },
+  {
+    "id": "evo_40",
+    "name": "月のしま魚・ひかり",
+    "model": "butterfly",
+    "biome": "深海",
+    "hue": -0.010000000000000009,
+    "number": 84
+  },
+  {
+    "id": "evo_41",
+    "name": "はちみつ色の魚・月かげ",
+    "model": "gold",
+    "biome": "砂地",
+    "hue": 0.2,
+    "number": 85
+  },
+  {
+    "id": "evo_42",
+    "name": "はちみつ色の魚・ひかり",
+    "model": "gold",
+    "biome": "砂地",
+    "hue": -0.08,
+    "number": 86
+  },
+  {
+    "id": "evo_43",
+    "name": "あかね色の魚・月かげ",
+    "model": "gold",
+    "biome": "砂地",
+    "hue": 0.039999999999999994,
+    "number": 87
+  },
+  {
+    "id": "evo_44",
+    "name": "あかね色の魚・ひかり",
+    "model": "gold",
+    "biome": "砂地",
+    "hue": -0.24,
+    "number": 88
+  },
+  {
+    "id": "evo_45",
+    "name": "そらいろクラゲ・月かげ",
+    "model": "jelly",
+    "biome": "外洋",
+    "hue": 0.2,
+    "number": 89
+  },
+  {
+    "id": "evo_46",
+    "name": "すみれクラゲ・月かげ",
+    "model": "jelly",
+    "biome": "深海",
+    "hue": 0.29000000000000004,
+    "number": 90
+  },
+  {
+    "id": "evo_47",
+    "name": "月光クラゲ・月かげ",
+    "model": "jelly",
+    "biome": "深海",
+    "hue": 0.01999999999999999,
+    "number": 91
+  },
+  {
+    "id": "evo_48",
+    "name": "こがねのウミガメ・月かげ",
+    "model": "turtle",
+    "biome": "砂地",
+    "hue": 0.039999999999999994,
+    "number": 92
+  },
+  {
+    "id": "evo_49",
+    "name": "みどりのウミガメ・月かげ",
+    "model": "turtle",
+    "biome": "淡水",
+    "hue": 0.22,
+    "number": 93
+  },
+  {
+    "id": "evo_50",
+    "name": "星空のウミガメ・月かげ",
+    "model": "turtle",
+    "biome": "深海",
+    "hue": 0.42,
+    "number": 94
+  },
+  {
+    "id": "evo_51",
+    "name": "夕やけタツノオトシゴ・月かげ",
+    "model": "seahorse",
+    "biome": "砂地",
+    "hue": 0.039999999999999994,
+    "number": 95
+  },
+  {
+    "id": "evo_52",
+    "name": "珊瑚タツノオトシゴ・月かげ",
+    "model": "seahorse",
+    "biome": "岩礁",
+    "hue": 0.2,
+    "number": 96
+  },
+  {
+    "id": "evo_53",
+    "name": "月夜タツノオトシゴ・月かげ",
+    "model": "seahorse",
+    "biome": "深海",
+    "hue": 0.47,
+    "number": 97
+  },
+  {
+    "id": "evo_54",
+    "name": "しんかいのしま魚・月かげ",
+    "model": "angelfish",
+    "biome": "深海",
+    "hue": 0.4,
+    "number": 98
+  },
+  {
+    "id": "evo_55",
+    "name": "しんかいのあおい魚・月かげ",
+    "model": "blue",
+    "biome": "深海",
+    "hue": 0.43,
+    "number": 99
+  },
+  {
+    "id": "evo_56",
+    "name": "しんかいのきいろい魚・月かげ",
+    "model": "gold",
+    "biome": "深海",
+    "hue": 0.43,
+    "number": 100
+  }
+]

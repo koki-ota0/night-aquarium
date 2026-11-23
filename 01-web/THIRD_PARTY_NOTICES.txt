@@ -1,0 +1,14 @@
+Third-party notices
+===================
+
+Runtime included in the bundled HTML:
+- Three.js — MIT License. The full license and copyright notice are embedded
+  in the HTML and included at licenses/three-LICENSE.txt.
+
+Development and testing dependencies (not bundled into the game):
+- esbuild — MIT License. See licenses/esbuild-LICENSE.txt.
+- Playwright / playwright-core — Apache License 2.0. See
+  licenses/playwright-LICENSE.txt.
+
+Exact dependency versions are recorded in package-lock.json. Dependencies are
+not distributed inside this archive; install them with npm ci to build/test.

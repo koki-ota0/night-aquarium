@@ -1,0 +1,256 @@
+[
+  {
+    "id": "exp_219_001",
+    "number": 242,
+    "name": "ロングフィン・ドラゴンフィッシュ",
+    "scientific": "Tactostoma macropus",
+    "kind": "basic",
+    "biome": "深海",
+    "location": "deep",
+    "water": "marine",
+    "rarity": "rare",
+    "rarityOriginal": "レア",
+    "shape": "deepfish",
+    "model": "deepfish",
+    "motion": "roam",
+    "motionLabel": "水中をゆったり泳ぐ",
+    "sizeClass": "medium",
+    "referenceCm": 34.3,
+    "referenceUnit": "全長",
+    "food": [
+      "seafood"
+    ],
+    "tag": null,
+    "tint": 3159877,
+    "design": {
+      "pattern": "none",
+      "accent": 9552579
+    },
+    "status": "実在の種",
+    "natural": "北太平洋の深海",
+    "feature": "細長い黒い体と長い歯をもち、目の下に発光器がある。",
+    "trivia": "成魚は小魚やエビなどを食べる。",
+    "referenceUrl": "https://fishbase.se/summary/2713",
+    "referenceTitle": "Tactostoma macropus",
+    "taxonomyUrl": "https://www.gbif.org/species/2347371",
+    "sourceTaxonKey": 2347371,
+    "hue": 0,
+    "candidateRooms": [
+      "deep"
+    ],
+    "reviewSource": "https://fishbase.se/summary/2713",
+    "reviewStatus": "game-reviewed"
+  },
+  {
+    "id": "exp_219_002",
+    "number": 243,
+    "name": "スレッドフィン・ドラゴンフィッシュ",
+    "scientific": "Echiostoma barbatum",
+    "kind": "basic",
+    "biome": "深海",
+    "location": "deep",
+    "water": "marine",
+    "rarity": "rare",
+    "rarityOriginal": "レア",
+    "shape": "deepfish",
+    "model": "deepfish",
+    "motion": "roam",
+    "motionLabel": "水中をゆったり泳ぐ",
+    "sizeClass": "medium",
+    "referenceCm": 37,
+    "referenceUnit": "全長",
+    "food": [
+      "seafood"
+    ],
+    "tag": null,
+    "tint": 2698807,
+    "design": {
+      "pattern": "none",
+      "accent": 9754050
+    },
+    "status": "実在の種",
+    "natural": "世界の温帯・熱帯の深海",
+    "feature": "黒い細長い体と鋭い歯、糸のように伸びる胸びれが特徴。",
+    "trivia": "深海の小魚や甲殻類を食べる。",
+    "referenceUrl": "https://fishesofaustralia.net.au/home/species/1780",
+    "referenceTitle": "Echiostoma barbatum",
+    "taxonomyUrl": "https://www.gbif.org/species/2346933",
+    "sourceTaxonKey": 2346933,
+    "hue": 0,
+    "candidateRooms": [
+      "deep"
+    ],
+    "reviewSource": "https://fishesofaustralia.net.au/home/species/1780",
+    "reviewStatus": "game-reviewed"
+  },
+  {
+    "id": "exp_219_003",
+    "number": 244,
+    "name": "ジュリドクロミス・マルリエリ",
+    "scientific": "Julidochromis marlieri",
+    "kind": "basic",
+    "biome": "淡水",
+    "location": "fresh",
+    "water": "fresh",
+    "rarity": "rare",
+    "rarityOriginal": "レア",
+    "shape": "cichlid",
+    "model": "cichlid",
+    "motion": "reef",
+    "motionLabel": "岩のそばを泳ぐ",
+    "sizeClass": "small",
+    "referenceCm": 13,
+    "referenceUnit": "全長",
+    "food": [
+      "plankton",
+      "insects"
+    ],
+    "tag": null,
+    "tint": 13223584,
+    "design": {
+      "pattern": "mottled",
+      "accent": 4146757
+    },
+    "status": "実在の種",
+    "natural": "タンガニーカ湖の岩場",
+    "feature": "細長い体に、暗色の網目状の模様がある。",
+    "trivia": "岩のすき間に暮らし、小さな無脊椎動物などを食べる。",
+    "referenceUrl": "https://www.fishbase.se/summary/8608",
+    "referenceTitle": "Julidochromis marlieri",
+    "taxonomyUrl": "https://www.gbif.org/species/2372484",
+    "sourceTaxonKey": 2372484,
+    "hue": 0,
+    "candidateRooms": [
+      "lake"
+    ],
+    "reviewSource": "https://www.fishbase.se/summary/8608",
+    "reviewStatus": "game-reviewed"
+  },
+  {
+    "id": "exp_219_004",
+    "number": 245,
+    "name": "ランプロログス・オセラータス",
+    "scientific": "Lamprologus ocellatus",
+    "kind": "basic",
+    "biome": "淡水",
+    "location": "fresh",
+    "water": "fresh",
+    "rarity": "rare",
+    "rarityOriginal": "レア",
+    "shape": "cichlid",
+    "model": "cichlid",
+    "motion": "bottom",
+    "motionLabel": "底の近くを泳ぐ",
+    "sizeClass": "small",
+    "referenceCm": 5.8,
+    "referenceUnit": "全長",
+    "food": [
+      "plankton"
+    ],
+    "tag": null,
+    "tint": 10720639,
+    "design": {
+      "pattern": "none",
+      "accent": 6790314
+    },
+    "status": "実在の種",
+    "natural": "タンガニーカ湖の砂底",
+    "feature": "大きめの目と、えらぶた付近の暗い斑点が特徴。",
+    "trivia": "巻き貝の空き殻を隠れ家や繁殖場所として使う。",
+    "referenceUrl": "https://www.fishbase.se/summary/lamprologus-ocellatus.html",
+    "referenceTitle": "Lamprologus ocellatus",
+    "taxonomyUrl": "https://www.gbif.org/species/2371694",
+    "sourceTaxonKey": 2371694,
+    "hue": 0,
+    "candidateRooms": [
+      "lake"
+    ],
+    "reviewSource": "https://www.fishbase.se/summary/lamprologus-ocellatus.html",
+    "reviewStatus": "game-reviewed"
+  },
+  {
+    "id": "exp_219_005",
+    "number": 246,
+    "name": "ロングスパイン・グラスフィッシュ",
+    "scientific": "Ambassis interrupta",
+    "kind": "basic",
+    "biome": "淡水",
+    "location": "estuary",
+    "water": "brackish",
+    "rarity": "rare",
+    "rarityOriginal": "レア",
+    "shape": "cichlid",
+    "model": "cichlid",
+    "motion": "school",
+    "motionLabel": "群れで泳ぐ",
+    "sizeClass": "small",
+    "referenceCm": 9,
+    "referenceUnit": "標準体長",
+    "food": [
+      "plankton",
+      "insects"
+    ],
+    "tag": null,
+    "tint": 11650237,
+    "design": {
+      "pattern": "none",
+      "accent": 7704459
+    },
+    "status": "実在の種",
+    "natural": "インド太平洋の河口・マングローブ",
+    "feature": "半透明に見える銀色の体と、長い背びれの棘が特徴。",
+    "trivia": "汽水域の根や流木の間に集まり、甲殻類や昆虫などを食べる。",
+    "referenceUrl": "https://fishesofaustralia.net.au/home/species/1583",
+    "referenceTitle": "Ambassis interrupta",
+    "taxonomyUrl": "https://www.gbif.org/species/2387290",
+    "sourceTaxonKey": 2387290,
+    "hue": 0,
+    "candidateRooms": [
+      "estuary-tropical"
+    ],
+    "reviewSource": "https://fishesofaustralia.net.au/home/species/1583",
+    "reviewStatus": "game-reviewed"
+  },
+  {
+    "id": "exp_219_006",
+    "number": 247,
+    "name": "シルバー・ムーニー",
+    "scientific": "Monodactylus argenteus",
+    "kind": "basic",
+    "biome": "淡水",
+    "location": "estuary",
+    "water": "brackish",
+    "rarity": "rare",
+    "rarityOriginal": "レア",
+    "shape": "butterfly",
+    "model": "butterfly",
+    "motion": "school",
+    "motionLabel": "群れで泳ぐ",
+    "sizeClass": "small",
+    "referenceCm": 27,
+    "referenceUnit": "標準体長",
+    "food": [
+      "plankton"
+    ],
+    "tag": null,
+    "tint": 12898504,
+    "design": {
+      "pattern": "bands2",
+      "accent": 3492691
+    },
+    "status": "実在の種",
+    "natural": "インド西太平洋の湾・河口",
+    "feature": "銀色で体高が高く、頭部に暗色の帯が入る。",
+    "trivia": "群れで泳ぎ、プランクトンや有機物を食べる。",
+    "referenceUrl": "https://www.fishbase.se/summary/5807",
+    "referenceTitle": "Monodactylus argenteus",
+    "taxonomyUrl": "https://www.gbif.org/species/5211117",
+    "sourceTaxonKey": 5211117,
+    "hue": 0,
+    "candidateRooms": [
+      "estuary-tropical"
+    ],
+    "reviewSource": "https://www.fishbase.se/summary/5807",
+    "reviewStatus": "game-reviewed"
+  }
+]

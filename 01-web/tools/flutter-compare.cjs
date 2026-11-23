@@ -1,0 +1,24 @@
+const {chromium}=require('playwright');
+const fs=require('fs');
+(async()=>{
+ const E=await import('../engine.js');
+ const now=Date.now(),state=E.createInitial(now);
+ state.started=true;
+ const result=E.discover(state,'sp_076','compare',now,()=>.5);
+ state.pending=[{type:'discovery',result,destination:'coast'}];
+ state.tutorial.explore=true;state.exploration.has_explored=true;
+ fs.mkdirSync('/home/user/.cache/flutter-compare',{recursive:true});
+ const browser=await chromium.launch({headless:true,args:['--no-sandbox','--use-gl=angle','--use-angle=swiftshader','--enable-unsafe-swiftshader','--enable-webgl']});
+ const context=await browser.newContext({viewport:{width:390,height:844},deviceScaleFactor:1,isMobile:true,hasTouch:true});
+ await context.addInitScript((s)=>{if(!sessionStorage.getItem('seedOnce')){localStorage.setItem('yoru_aquarium_save_v5',JSON.stringify(s));sessionStorage.setItem('seedOnce','1')}},state);
+ const page=await context.newPage();page.on('pageerror',e=>console.error('PAGE_ERROR',e.message));
+ await page.goto('http://127.0.0.1:8000/');await page.waitForSelector('[data-action=start]');await page.locator('[data-action=start]').click();
+ await page.waitForSelector('.modal-heading');await page.waitForTimeout(500);
+ await page.screenshot({path:'/home/user/.cache/flutter-compare/web-discovery.png'});
+ console.log('web result heading:',await page.locator('.modal-heading').innerText());
+ await page.locator('[data-action=ack-pending]').click();await page.waitForTimeout(1600);
+ console.log('scene:',JSON.stringify(await page.evaluate(()=>window.__game.getSceneInfo())));
+ await page.screenshot({path:'/home/user/.cache/flutter-compare/web-tank-flatfish.png'});
+ fs.writeFileSync('/home/user/.cache/flutter-compare/state.json',JSON.stringify(state));
+ await browser.close();console.log('WEB_CAPTURE_READY');
+})().catch(e=>{console.error(e);process.exit(1)});
